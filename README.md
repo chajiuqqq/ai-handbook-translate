@@ -2,6 +2,9 @@
 
 11 份 AI 技术手册的中文译本、英文原文与专业术语对照表，整理日期 2026-10-13。
 
+> 原文作者：**[@techNmak](https://x.com/techNmak)**（X / Twitter）· Understanding AI 系列
+> 本仓库仅为学习参考的中文译本整理，原文著作权归作者所有。
+
 ## 在线阅读
 
 打开 `index.html` 即可浏览总目录，支持关键词筛选，并可在线打开中文 PDF、英文原文及术语表。
@@ -44,4 +47,6 @@
 
 公式、数学记号、图表与代码保留原文矢量排版，作为逐页原文对照附在对应译文之后，避免重排造成符号错误。
 
-原文作者为 @techNmak（Understanding AI 系列）。译文仅作学习参考，著作权归原作者所有。
+原文作者为 **[@techNmak](https://x.com/techNmak)**（X / Twitter），出自其 Understanding AI 系列。
+
+本仓库仅作学习交流用途，译文与排版整理不主张对原文的任何权利。原文及插图、公式、代码的著作权均归原作者 [@techNmak](https://x.com/techNmak) 所有。若原作者认为本仓库内容不妥，请联系删除。
