@@ -1,0 +1,91 @@
+﻿英文原词,中文译名,缩写／符号
+Inference,推理,
+KV Cache,键值缓存,KV Cache
+PagedAttention,PagedAttention（方法名保留）,
+Head Dimension,头维度,
+Quantization,量化,
+Transformer,Transformer 模型,Transformer
+Attention,注意力机制,Attention
+KV Heads,键值头,
+Serving,推理服务,
+Values,值,
+Tokens,词元,
+Keys,键,
+Causal Mask,因果掩码,
+Generation,生成,
+Decoder,解码器,
+Prefill,预填充,
+Token,词元,
+Model,模型,
+Learned Projections,学习得到的投影,
+Self-attention,自注意力,
+Representation,表示,
+Query,查询,Q
+Value,值,V
+Key,键,K
+Key/Value Heads,键值头,KV Head
+Mental Model,理解框架,
+Batch Size,批大小,
+Kernels,内核,
+Matrix,矩阵,
+Dense Attention,稠密注意力,
+Query Length,查询长度,L
+Attention Weights,注意力权重,
+Tensor,张量,
+Models,模型,
+Incremental Decoding,增量解码,
+Memory Traffic,内存流量,
+Resident,驻留,
+Kernel,内核,
+Multi-head Attention,多头注意力,MHA
+Query Heads,查询头,
+Value Heads,值头,
+Query Head,查询头,
+Key Heads,键头,
+Baseline,基线,
+Multi-query Attention,多查询注意力,MQA
+Grouped-query Attention,分组查询注意力,GQA
+Heads,头,
+Multi-head Latent Attention,多头潜在注意力,MLA
+Projection Absorption,投影吸收,
+Latent Compression,潜在压缩,
+Vector,向量,
+Decoupled Positional Component,解耦的位置分量,
+Rotary Position Embeddings,旋转位置嵌入,RoPE
+Queries,查询,
+Cache Capacity,缓存容量,
+Fragmentation,碎片化,
+FlashAttention,FlashAttention（方法名保留）,
+Packing,打包,
+Latency,延迟,
+Data Movement,数据移动,
+Host Memory,主机内存,
+Calibration,校准,
+Activations,激活,
+Throughput,吞吐量,
+Benchmark,基准测试,
+Precision,精度,
+Accuracy,准确性,
+Quantization Error,量化误差,
+Activation,激活,
+Efficient Attention,高效注意力,
+Memory Bandwidth,内存带宽,
+Recomputation,重计算,
+Numerical Precision,数值精度,
+Causal Attention,因果注意力,
+Large Language Model,大语言模型,LLM
+Mixture-of-Experts,混合专家,MoE
+Quantized,量化后的,
+Training,训练,
+Prefix Caching,前缀缓存,
+Offloading,卸载,
+Eviction,逐出,
+Block Table,块表,
+Block Sharing,块共享,
+Cache Hits,缓存命中,
+Cache Key,缓存键,
+Least Recently Used,最近最少使用,LRU
+Layer State,层状态,
+Tensor Payload,张量有效载荷,
+Trust Boundary,信任边界,
+Low-rank Latent Compression,低秩潜在压缩,

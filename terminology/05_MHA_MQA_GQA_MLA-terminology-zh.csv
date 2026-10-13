@@ -1,0 +1,97 @@
+﻿英文原词,中文译名,缩写／符号
+Multi-head Latent Attention,多头潜在注意力,MLA
+Grouped-query Attention,分组查询注意力,GQA
+Multi-head Attention,多头注意力,MHA
+Model Capacity,模型容量,
+Inference,推理,
+KV Cache,键值缓存,KV Cache
+Query,查询,Q
+Value,值,V
+Key,键,K
+Latent Representation,潜在表示,
+Key/Value Heads,键值头,KV Head
+Representation,表示,
+Cache Capacity,缓存容量,
+Cache Payload,缓存有效载荷,
+Mental Model,理解框架,
+Query Heads,查询头,
+Attention,注意力机制,Attention
+Training,训练,
+Decoder,解码器,
+Values,值,
+Token,词元,
+Heads,头,
+Model,模型,
+Keys,键,
+Causal Self-attention,因果自注意力,
+Attention Head,注意力头,
+Tokens,词元,
+Attention Heads,注意力头,
+Transformer,Transformer 模型,Transformer
+Query Head,查询头,
+Queries,查询,
+Vectors,向量,
+Batch Size,批大小,
+Head Width,头宽度,
+Precision,精度,
+Incremental Decoding,增量解码,
+Activation,激活,
+Serving,推理服务,
+Value Heads,值头,
+Key Heads,键头,
+Tensor,张量,
+Batching,批处理,
+KV Heads,键值头,
+Kernels,内核,
+Tiling,分块,
+Attention Distribution,注意力分布,
+Multi-query Attention,多查询注意力,MQA
+Output Projection,输出投影,
+Dense Attention,稠密注意力,
+Baseline,基线,
+Key/Value Head,键值头,KV Head
+Pretraining,预训练,
+Pooling,池化,
+Decoder-only LLM,仅解码器大语言模型,
+Benchmark,基准测试,
+Kernel,内核,
+Models,模型,
+Fragmentation,碎片化,
+Activations,激活,
+Memory Traffic,内存流量,
+Throughput,吞吐量,
+Evidence,证据,
+Projection Absorption,投影吸收,
+Hidden State,隐藏状态,
+Vector,向量,
+Head Dimension,头维度,
+Matrix Multiplication,矩阵乘法,
+Projection Matrices,投影矩阵,
+Latent Compression,潜在压缩,
+Compressed Latent,压缩潜在表示,
+Up-projection,升维投影,
+Linear Projections,线性投影,
+Operator,算子,
+Matrix,矩阵,
+Positional Encoding,位置编码,
+Decoupled RoPE,解耦 RoPE,
+Residual Stream,残差流,
+FlashAttention,FlashAttention（方法名保留）,
+Softmax,Softmax 归一化,Softmax
+Combine,合并,
+PagedAttention,PagedAttention（方法名保留）,
+Quantization,量化,
+Tensor Shape,张量形状,
+Fused Kernel,融合内核,
+Mask,掩码,
+KV-head Multiplicity,键值头数量,
+Allocator Overhead,分配器开销,
+Memory Footprint,内存占用,
+Quantized,量化后的,
+Latency,延迟,
+FLOPs,浮点运算次数,FLOPs
+Rotary Position Embedding,旋转位置嵌入,RoPE
+Large Language Model,大语言模型,LLM
+Mixture-of-Experts,混合专家,MoE
+Exact Attention,精确注意力,
+Head Dimensions,头维度,
