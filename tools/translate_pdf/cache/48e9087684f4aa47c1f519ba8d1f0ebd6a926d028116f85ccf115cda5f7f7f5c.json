@@ -1,0 +1,1 @@
+{"source": "No. It avoids recomputing historical K/V states; dense attention for the new query still interacts with an expanding history.", "zh": "不会。它避免了重新计算历史 K/V 状态；对新查询的高度关注仍然与不断扩展的历史相互作用。"}

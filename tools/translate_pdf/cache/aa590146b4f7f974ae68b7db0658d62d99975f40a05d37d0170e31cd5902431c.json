@@ -1,0 +1,1 @@
+{"source": "Production attention rarely consists only of equal-length dense sequences with no dropout. Current ZXNAME0000XZ implementations support a broader feature set, but these are implementation capabilities, not properties of the mathematical idea itself.", "zh": "生产注意力很少只包含没有丢失的等长密集序列。当前的 ZXNAME0000XZ 实现支持更广泛的功能集，但这些是实现功能，而不是数学思想本身的属性。"}

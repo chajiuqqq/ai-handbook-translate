@@ -1,0 +1,1 @@
+{"source": "The original ZXNAME0000XZ paper introduced per-neuron gain and bias after normalization. [3] Current ZXNAME0001XZ ZXNAME0002XZ likewise supports learnable elementwise scale and bias by default. [19]", "zh": "最初的 ZXNAME0000XZ 论文介绍了标准化后每个神经元的增益和偏差。 [3] 当前的 ZXNAME0001XZ ZXNAME0002XZ 默认情况下同样支持可学习的元素缩放和偏差。 [19]"}

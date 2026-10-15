@@ -1,0 +1,1 @@
+{"source": "Host and device execution are decoupled; synchronize only where correctness or measurement requires it.", "zh": "主机和设备执行解耦；仅在正确性或测量需要时进行同步。"}

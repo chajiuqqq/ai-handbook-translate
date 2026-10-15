@@ -1,0 +1,1 @@
+{"source": "Mental model. The router does not “understand expert names.” It learns a mapping from the current hidden representation to numerical scores whose training pressure comes from the task loss and, depending on the design, balancing/stability objectives.", "zh": "心智模型。路由器不“理解专家名字”。它学习从当前隐藏表示到数值分数的映射，其训练压力来自任务损失，并且根据设计，平衡/稳定性目标。"}

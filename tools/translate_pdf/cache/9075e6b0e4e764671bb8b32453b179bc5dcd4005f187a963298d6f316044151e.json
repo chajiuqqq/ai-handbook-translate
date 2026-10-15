@@ -1,0 +1,1 @@
+{"source": "NVML’s memory field is likewise time-based: it records the share of the sample window in which global device-memory reads or writes were occurring. It should not be interpreted as achieved bandwidth divided by peak bandwidth.[4]", "zh": "NVML 的内存字段同样是基于时间的：它记录发生全局设备内存读取或写入的样本窗口的份额。它不应被解释为实现的带宽除以峰值带宽。[4]"}

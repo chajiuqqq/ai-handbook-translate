@@ -1,0 +1,1 @@
+{"source": "Important. “Transformer block” is not one exact implementation. The durable skeleton is repeated residual updates around attention and feature-mixing sublayers. Normalization placement, attention type, activation, gating, and even whether the branches are serial can vary.", "zh": "重要。 “变压器块”并不是一种精确的实现。持久骨架是围绕注意力和特征混合子层的重复残差更新。标准化布局、注意力类型、激活、门控，甚至分支是否串行都可能有所不同。"}

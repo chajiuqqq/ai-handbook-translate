@@ -1,0 +1,1 @@
+{"source": "Traffic is the number of bytes transferred across a particular interface. A 256 MiB tensor read ten times can create far more than 256 MiB of downstream traffic if the reads are not served by a cache or other reuse mechanism.", "zh": "流量是通过特定接口传输的字节数。如果读取不由缓存或其他重用机制提供服务，则 256 MiB 张量读取十次可以创建远远超过 256 MiB 的下游流量。"}

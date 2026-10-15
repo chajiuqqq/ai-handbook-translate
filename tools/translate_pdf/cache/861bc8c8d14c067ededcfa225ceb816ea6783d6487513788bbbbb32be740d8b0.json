@@ -1,0 +1,1 @@
+{"source": "In the in-batch setting, this three-item denominator is the same idea as one row of the B x B query-document score matrix on the next page: one designated positive competes against the other batch items used as negatives.", "zh": "在批处理设置中，这个三项分母与下一页上的 B x B 查询文档得分矩阵的一行的想法相同：一个指定的正项与用作负项的其他批次项竞争。"}

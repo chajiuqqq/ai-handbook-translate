@@ -1,0 +1,1 @@
+{"source": "Modern objectives increasingly include false-negative filtering or richer negative pools. Qwen3 Embedding, for example, masks certain candidates when its similarity-based criterion suggests they may behave like false negatives. [18]", "zh": "现代目标越来越多地包括假阴性过滤或更丰富的阴性池。例如，Qwen3 Embedding 会在基于相似性的标准表明某些候选者的行为可能类似于假阴性时屏蔽某些候选者。 [18]"}

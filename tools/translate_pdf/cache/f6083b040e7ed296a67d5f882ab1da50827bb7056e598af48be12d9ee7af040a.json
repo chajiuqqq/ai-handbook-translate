@@ -1,0 +1,1 @@
+{"source": "Core distinction. A memory hierarchy is not merely a list from “fast” to “slow.” Performance depends on which bytes move, how often they move, which level supplies them, and whether enough independent work exists to overlap the wait.", "zh": "核心区别。内存层次结构不仅仅是从“快”到“慢”的列表。性能取决于移动哪些字节、移动的频率、哪个级别提供它们以及是否存在足够的独立工作来重叠等待。"}

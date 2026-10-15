@@ -1,0 +1,1 @@
+{"source": "1. Identify the active data. Weights, activations, KV state, temporary tiles, outputs, and metadata have different sizes and lifetimes.", "zh": "1. 识别活动数据。权重、激活、KV 状态、临时图块、输出和元数据具有不同的大小和生命周期。"}

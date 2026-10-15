@@ -1,0 +1,1 @@
+{"source": "This creates batch-level dynamics: expert utilization affects how much each expert learns, and the current router affects the data distribution seen by each expert.", "zh": "这会产生批次级动态：专家利用率会影响每个专家学习的量，而当前路由器会影响每个专家看到的数据分布。"}

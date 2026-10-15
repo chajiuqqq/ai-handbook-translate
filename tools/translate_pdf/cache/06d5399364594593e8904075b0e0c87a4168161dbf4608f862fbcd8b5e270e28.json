@@ -1,0 +1,1 @@
+{"source": "In NVML, the commonly surfaced device gpu utilization value is an activity-time statistic: over each sample window, it records the share of time for which the ZXNAME0000XZ had at least one kernel executing.[4]", "zh": "在 NVML 中，常见的设备 GPU 利用率值是一种活动时间统计数据：在每个样本窗口中，它记录 ZXNAME0000XZ 至少有一个内核执行的时间份额。 [4]"}

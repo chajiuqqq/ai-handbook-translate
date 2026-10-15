@@ -1,0 +1,1 @@
+{"source": "A kernel is balanced against a particular hardware ratio. If tensor-core throughput improves faster than memory bandwidth or special-function throughput, the optimal algorithmic pipeline can change even when the mathematical function is identical.", "zh": "内核根据特定的硬件比率进行平衡。如果张量核心吞吐量的提高速度快于内存带宽或特殊函数吞吐量，则即使数学函数相同，最佳算法管道也会发生变化。"}

@@ -1,0 +1,1 @@
+{"source": "The PagedAttention paper identified fragmentation and redundant duplication as major sources of wasted KV-cache capacity in contemporary serving systems, motivating a block-based design inspired by virtual memory.", "zh": "PagedAttention 论文将碎片和冗余重复确定为当代服务系统中 KV 缓存容量浪费的主要来源，从而激发了受虚拟内存启发的基于块的设计。"}

@@ -1,0 +1,1 @@
+{"source": "Compact model. Data starts with a lifetime and reuse pattern. The kernel maps that data onto registers, explicit on-chip storage, hardware caches, and device memory. Performance follows from how much useful work each transfer enables before the bytes have to move again.", "zh": "紧凑型。数据从生命周期和重用模式开始。内核将数据映射到寄存器、显式片上存储、硬件缓存和设备内存。性能取决于每次传输在字节必须再次移动之前实现了多少有用的工作。"}

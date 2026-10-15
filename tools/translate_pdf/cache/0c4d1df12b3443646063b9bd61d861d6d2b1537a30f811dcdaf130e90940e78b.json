@@ -1,0 +1,1 @@
+{"source": "A model’s parameter memory does not grow just because one request has more context, but its per-request KV state does. This is why long-context capability creates a serving-capacity problem even when the model weights are unchanged.", "zh": "模型的参数内存不会仅仅因为一个请求有更多上下文而增长，而是它的每个请求的 KV 状态都会增长。这就是为什么即使模型权重不变，长上下文能力也会产生服务能力问题。"}

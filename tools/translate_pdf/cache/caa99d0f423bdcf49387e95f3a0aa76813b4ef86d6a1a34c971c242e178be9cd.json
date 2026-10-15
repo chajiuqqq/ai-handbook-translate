@@ -1,0 +1,1 @@
+{"source": "This is why register usage is a capacity problem as well as a latency problem. A kernel can improve local reuse by holding more values in registers but lose residency because fewer thread contexts fit. The optimal point is workload-specific.", "zh": "这就是为什么寄存器的使用既是容量问题也是延迟问题。内核可以通过在寄存器中保存更多值来提高本地重用，但由于适合的线程上下文较少而失去驻留。最佳点是特定于工作负载的。"}

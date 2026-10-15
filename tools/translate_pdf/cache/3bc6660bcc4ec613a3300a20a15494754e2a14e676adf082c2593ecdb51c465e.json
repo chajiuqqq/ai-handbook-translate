@@ -1,0 +1,1 @@
+{"source": "Each self-attention layer has its own learned projections and therefore its own K/V state. A model withZXMATH0000XZ attention layers maintains a logical history like:", "zh": "每个自注意力层都有自己的学习投影，因此也有自己的 K/V 状态。具有 ZXMATH0000XZ 注意力层的模型维护如下逻辑历史："}

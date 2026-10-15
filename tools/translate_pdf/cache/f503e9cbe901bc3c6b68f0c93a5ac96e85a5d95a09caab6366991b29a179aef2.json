@@ -1,0 +1,1 @@
+{"source": "Mental model. PTQ asks “how well can this trained model survive a quantizer?” QAT asks “can training adapt the model to the quantizer?”", "zh": "心智模型。 PTQ 问“这个经过训练的模型在量化器中的生存能力如何？” QAT 问“训练能否使模型适应量化器？”"}

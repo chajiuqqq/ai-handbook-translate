@@ -1,0 +1,1 @@
+{"source": "Important. “ZXNAME0000XZ uses no balancing loss” is too broad. The accurate statement is that its primary batch-level balancing strategy is bias-based and auxiliary-loss-free, while a small complementary sequence-wise balance loss remains.", "zh": "重要。 “ZXNAME0000XZ 不使用平衡损失”过于宽泛。准确的说法是，其主要的批次级平衡策略是基于偏差且无辅助损失的，同时仍然存在少量互补的序列平衡损失。"}

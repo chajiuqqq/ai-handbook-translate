@@ -1,0 +1,1 @@
+{"source": "Do not infer feature support from the name “ZXNAME0000XZ.” Check the exact library, kernel generation, device, dtype, head dimension, mask/bias, and training/inference path that will actually run.", "zh": "请勿从名称“ZXNAME0000XZ”推断功能支持。检查实际运行的确切库、内核生成、设备、数据类型、头部尺寸、掩码/偏差以及训练/推理路径。"}

@@ -1,0 +1,1 @@
+{"source": "KV caching is valid because past layer states are invariant to future tokens under the model’s causal computation. It is not a heuristic guess.", "zh": "KV 缓存是有效的，因为在模型的因果计算下，过去的层状态对于未来的标记是不变的。这不是一个启发式的猜测。"}

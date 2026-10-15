@@ -1,0 +1,1 @@
+{"source": "The original Transformer applies multiple attention heads in parallel. Each head receives its own projected queries, keys, and values, computes an attention result, and the head outputs are concatenated and projected back to the model space.ZXMATH0000XZ", "zh": "最初的 Transformer 并行应用多个注意力头。每个头接收自己的投影查询、键和值，计算注意力结果，并且头输出被连接并投影回模型空间。ZXMATH0000XZ"}

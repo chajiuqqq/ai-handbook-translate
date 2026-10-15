@@ -1,0 +1,1 @@
+{"source": "For an encoder block, the two sublayers are self-attention and the position-wise feed-forward network. The decoder inserts a third sublayer for encoder-decoder cross-attention.", "zh": "对于编码器块，两个子层是自注意力和位置前馈网络。解码器插入第三个子层用于编码器-解码器交叉注意。"}

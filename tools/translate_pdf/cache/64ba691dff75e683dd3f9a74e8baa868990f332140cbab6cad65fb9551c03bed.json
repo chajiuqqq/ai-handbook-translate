@@ -1,0 +1,1 @@
+{"source": "Thread-level parallelism (TLP) provides many warps. If Warp A stalls, the scheduler may issue from Warp", "zh": "线程级并行性 (TLP) 提供了许多扭曲。如果 Warp A 停止，调度程序可能会从 Warp 发出"}

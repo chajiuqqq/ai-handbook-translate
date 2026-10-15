@@ -1,0 +1,1 @@
+{"source": "Multi-vector / late interaction. A document can retain multiple tokenor region-level vectors and defer some interaction until scoring. This preserves finer-grained information at greater storage and scoring cost.", "zh": "多向量/后期交互。文档可以保留多个标记或区域级向量，并推迟一些交互直到评分。这可以以更高的存储和评分成本保留更细粒度的信息。"}

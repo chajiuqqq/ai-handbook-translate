@@ -1,0 +1,1 @@
+{"source": "If most data flows through a small subset of experts, the model is not effectively using the parameter capacity it owns. Under-used experts receive less learning signal from the main task.", "zh": "如果大多数数据流经一小部分专家，则该模型无法有效地使用其拥有的参数容量。未得到充分利用的专家从主要任务中获得的学习信号较少。"}

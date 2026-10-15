@@ -1,0 +1,1 @@
+{"source": "In causal self-attention, query positionZXMATH0000XZ may not attend to future key positionsZXMATH0001XZ A materialized mask would be anotherZXMATH0002XZ object, but an efficient tiled kernel can reason about the geometry of each tile.", "zh": "在因果自注意力中，查询位置 ZXMATH0000XZ 可能不会关注未来的关键位置 ZXMATH0001XZ 物化掩码将是另一个 ZXMATH0002XZ 对象，但高效的平铺内核可以推理每个平铺的几何形状。"}

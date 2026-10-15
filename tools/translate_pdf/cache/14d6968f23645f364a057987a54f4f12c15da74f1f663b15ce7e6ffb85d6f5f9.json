@@ -1,0 +1,1 @@
+{"source": "The cache does not store “thoughts” or symbolic facts. It stores numerical key/value states for each attention layer and cached token position, in whatever physical layout the inference engine uses.", "zh": "缓存不存储“思想”或象征性事实。它存储每个注意力层的数字键/值状态和缓存的令牌位置，无论推理引擎使用什么物理布局。"}

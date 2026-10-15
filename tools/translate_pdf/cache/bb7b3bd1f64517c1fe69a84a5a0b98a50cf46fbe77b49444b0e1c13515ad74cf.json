@@ -1,0 +1,1 @@
+{"source": "6. Transform features with the MLP. Each token is expanded, nonlinearly gated/activated, and projected back independently.", "zh": "6. 使用 MLP 变换特征。每个令牌都被扩展、非线性门控/激活，并独立地投射回来。"}

@@ -1,0 +1,1 @@
+{"source": "Routing is also layer-specific. A generated token can select one set of experts at an early layer and another set later because its hidden representation changes.", "zh": "路由也是特定于层的。生成的令牌可以在早期层选择一组专家，并在稍后选择另一组专家，因为其隐藏表示发生变化。"}

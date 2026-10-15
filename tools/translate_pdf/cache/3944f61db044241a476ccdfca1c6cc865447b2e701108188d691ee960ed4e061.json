@@ -1,0 +1,1 @@
+{"source": "Important. Do not normalize only queries or only documents unless the model explicitly defines that asymmetric scoring rule.", "zh": "重要。除非模型明确定义了不对称评分规则，否则不要仅标准化查询或仅标准化文档。"}

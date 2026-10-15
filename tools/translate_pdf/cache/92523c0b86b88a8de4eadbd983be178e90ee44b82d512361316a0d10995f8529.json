@@ -1,0 +1,1 @@
+{"source": "Important. “Use min and max” is a simple calibration rule, not a law. Practical quantizers may optimize clipping thresholds or use histograms, percentiles, learned ranges, or method-specific objectives.", "zh": "重要。 “使用最小值和最大值”是一个简单的校准规则，而不是法律。实用的量化器可以优化限幅阈值或使用直方图、百分位数、学习范围或特定于方法的目标。"}

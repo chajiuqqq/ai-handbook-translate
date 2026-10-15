@@ -1,0 +1,1 @@
+{"source": "A capacity comparison gives a necessary clue, not a cache-performance proof. Working-set size, reuse order, mapping, and competition together determine how much reuse is actually captured.", "zh": "容量比较提供了必要的线索，而不是缓存性能证明。工作集大小、重用顺序、映射和竞争共同决定了实际捕获的重用量。"}

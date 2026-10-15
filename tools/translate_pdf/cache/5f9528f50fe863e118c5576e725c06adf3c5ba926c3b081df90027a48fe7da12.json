@@ -1,0 +1,1 @@
+{"source": "The KV cache is not an optional “speed trick” added outside attention. It is the standard way to avoid recomputing past key/value projections during autoregressive decoding. Its size therefore becomes an architectural concern when contexts and batches grow.", "zh": "KV 缓存并不是外界关注的可选“速度技巧”。这是在自回归解码期间避免重新计算过去的键/值投影的标准方法。因此，当上下文和批次增长时，它的大小就成为架构问题。"}

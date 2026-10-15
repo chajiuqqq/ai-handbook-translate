@@ -1,0 +1,1 @@
+{"source": "Important. Perfectly uniform routing is not itself the learning objective. The model should still be allowed to use experts differently when useful. The challenge is preventing pathological imbalance while preserving useful specialization.", "zh": "重要。完全统一的路由本身并不是学习目标。该模型仍然应该被允许在有用时以不同的方式使用专家。面临的挑战是在保持有用的专业化的同时防止病理性失衡。"}

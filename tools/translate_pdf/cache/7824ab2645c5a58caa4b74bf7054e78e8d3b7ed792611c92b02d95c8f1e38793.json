@@ -1,0 +1,1 @@
+{"source": "The dangerous shortcut is to truncate an arbitrary embedding vector after training and assume its first coordinates are a good lower-dimensional representation. Standard training does not guarantee that information is ordered that way.", "zh": "危险的捷径是在训练后截断任意嵌入向量并假设其第一个坐标是良好的低维表示。标准培训并不能保证信息按这种方式排序。"}

@@ -1,0 +1,1 @@
+{"source": "pooling/readout must match the model’s training configuration. Some models use mean pooling, some a special token, some the last/EOS state, and some an additional projection.", "zh": "池化/读出必须与模型的训练配置相匹配。有些模型使用均值池，有些模型使用特殊令牌，有些模型使用最后/EOS 状态，有些模型使用额外的投影。"}

@@ -1,0 +1,1 @@
+{"source": "The benefit is not that “registers are free.” They are a finite hardware resource and they participate in scheduling constraints. But when a value has high reuse inside one thread, keeping it in register state avoids repeated traffic through larger memory structures.", "zh": "好处并不是“寄存器是免费的”。它们是有限的硬件资源，并且参与调度约束。但是，当某个值在一个线程内具有较高的重用性时，将其保持在寄存器状态可以避免通过较大内存结构的重复流量。"}

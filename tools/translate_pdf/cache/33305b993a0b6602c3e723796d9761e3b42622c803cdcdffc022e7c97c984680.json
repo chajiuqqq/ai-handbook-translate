@@ -1,0 +1,1 @@
+{"source": "These differences are implementation details around a durable principle: specialized matrix hardware achieves high throughput when the workload is expressed in supported matrix tiles and data formats and when the surrounding data movement keeps the units fed.", "zh": "这些差异是围绕持久原则的实现细节：当工作负载以支持的矩阵图块和数据格式表示并且周围的数据移动保持单元供电时，专用矩阵硬件可实现高吞吐量。"}

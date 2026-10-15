@@ -1,0 +1,1 @@
+{"source": "The boundary matters. FLOPs per ZXNAME0000XZ byte, per L2 byte, and per L1 byte can be different because caches and on-chip reuse filter traffic. AS03 will treat this carefully.", "zh": "边界很重要。每个 ZXNAME0000XZ 字节、每个 L2 字节和每个 L1 字节的 FLOP 可能不同，因为缓存和片上重用过滤流量。 AS03会谨慎对待这一点。"}

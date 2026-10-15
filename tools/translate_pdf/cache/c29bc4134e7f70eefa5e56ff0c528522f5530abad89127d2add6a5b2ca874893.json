@@ -1,0 +1,1 @@
+{"source": "• shrinking expert batches: with batch sizeZXMATH0000XZ experts, andZXMATH0001XZ assignments per token, the average expert sees roughlyZXMATH0002XZ token assignments before distributed aggregation;", "zh": "• 缩小专家批次：专家批次大小为ZXMATH0000XZ，每个代币分配为ZXMATH0001XZ，平均专家在分布式聚合之前看到的代币分配大致为ZXMATH0002XZ；"}

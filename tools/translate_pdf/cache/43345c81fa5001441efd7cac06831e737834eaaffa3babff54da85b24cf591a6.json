@@ -1,0 +1,1 @@
+{"source": "This is one reason ZXNAME0000XZ and activation checkpointing can coexist: both trade recomputation for reduced stored state, but at different scopes of the training graph.", "zh": "这是 ZXNAME0000XZ 和激活检查点可以共存的原因之一：两者都进行重新计算以减少存储状态，但在训练图的不同范围内。"}

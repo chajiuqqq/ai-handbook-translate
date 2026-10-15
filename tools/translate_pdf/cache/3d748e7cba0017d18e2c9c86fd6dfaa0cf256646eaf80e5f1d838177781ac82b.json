@@ -1,0 +1,1 @@
+{"source": "SimCSE connects contrastive learning with improved uniformity of the representation space. Its analysis argues that the contrastive objective can flatten the singular-value spectrum and make sentence representations more isotropic while preserving alignment of positive pairs. [11]", "zh": "SimCSE 将对比学习与改进的表示空间一致性联系起来。其分析认为，对比目标可以使奇异值谱变平，并使句子表示更加各向同性，同时保持正对的对齐。 [11]"}

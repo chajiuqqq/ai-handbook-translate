@@ -1,0 +1,1 @@
+{"source": "A Transformer block usually alternates a token-mixing operation (attention) with a position-wise feed-forward operation. Sparse Transformer ZXNAME0000XZ models normally replace some or all of those dense ZXNAME0001XZ sublayers with expert banks.", "zh": "Transformer 块通常将令牌混合操作（注意力）与位置前馈操作交替使用。稀疏变压器 ZXNAME0000XZ 模型通常用专家库替换部分或全部密集 ZXNAME0001XZ 子层。"}

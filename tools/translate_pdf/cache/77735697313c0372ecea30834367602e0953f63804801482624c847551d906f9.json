@@ -1,0 +1,1 @@
+{"source": "Shared memory also consumes an ZXNAME0000XZ residency budget. A block that requests a large allocation may prevent other blocks from being resident simultaneously. Thus shared memory can improve locality while reducing occupancy. Both effects are real.[1,2]", "zh": "共享内存还消耗 ZXNAME0000XZ 驻留预算。请求大量分配的块可能会阻止其他块同时驻留。因此共享内存可以提高局部性，同时减少占用。这两种效果都是真实存在的。[1,2]"}

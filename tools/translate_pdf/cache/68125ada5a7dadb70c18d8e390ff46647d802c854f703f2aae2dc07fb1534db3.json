@@ -1,0 +1,1 @@
+{"source": "Elementwise kernels may perform only a few operations per element and therefore spend much of their cost moving data. Fusion can help by avoiding round-trips of intermediate tensors.", "zh": "逐元素内核可能只对每个元素执行少量操作，因此花费大量成本来移动数据。融合可以通过避免中间张量的往返来提供帮助。"}

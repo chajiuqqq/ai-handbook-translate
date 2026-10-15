@@ -1,0 +1,1 @@
+{"source": "8. Dispatch. In expert-parallel systems, token states move to expert devices and outputs return, often through All-to-All communication.", "zh": "8. 调度。在专家并行系统中，令牌状态通常通过全对全通信转移到专家设备并输出返回。"}

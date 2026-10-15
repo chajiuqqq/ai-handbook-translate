@@ -1,0 +1,1 @@
+{"source": "The attention branch can mix information across token positions. The MLP acts independently on each position but transforms its feature dimensions. Residual additions keep both sublayers connected to a sharedZXMATH0000XZ-dimensional stream.", "zh": "注意力分支可以混合不同令牌位置的信息。 MLP 独立作用于每个位置，但会变换其特征维度。剩余添加使两个子层保持连接到共享的 ZXMATH0000XZ 维流。"}

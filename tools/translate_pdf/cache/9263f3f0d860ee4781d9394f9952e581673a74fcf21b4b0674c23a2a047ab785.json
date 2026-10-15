@@ -1,0 +1,1 @@
+{"source": "These categories also differ in reuse granularity. A weight tile may be reused across many tokens in a batch inside one kernel. An activation tile may be reused only within a fused operator. A KV block may be revisited once per decode step across a long session.", "zh": "这些类别的重用粒度也有所不同。权重图块可以在一个内核内的一批中的多个令牌之间重复使用。激活块只能在融合算子内重复使用。在长会话中，每个解码步骤可以重新访问 KV 块一次。"}

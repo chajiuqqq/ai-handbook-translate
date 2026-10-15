@@ -1,0 +1,1 @@
+{"source": "3. What exactly is persisted during decode? Full K/V tensors, a latent, a quantized state, selected tokens, or something else?", "zh": "3. 解码过程中到底保留了什么？完整的 K/V 张量、潜在的、量化的状态、选定的标记，还是其他什么？"}

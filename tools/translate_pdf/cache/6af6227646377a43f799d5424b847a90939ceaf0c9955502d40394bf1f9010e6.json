@@ -1,0 +1,1 @@
+{"source": "A dense neural-network layer applies the same learned parameters to every token that reaches it. Increasing the layer width or depth therefore increases both parameter capacity and the computation performed for every token.", "zh": "密集的神经网络层将相同的学习参数应用于到达它的每个标记。因此，增加层宽度或深度会增加参数容量和为每个标记执行的计算。"}

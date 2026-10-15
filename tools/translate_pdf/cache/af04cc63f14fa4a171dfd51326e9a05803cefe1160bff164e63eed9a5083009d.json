@@ -1,0 +1,1 @@
+{"source": "The warp is not “32 instructions running independently.” It is the scheduling/execution grouping through which 32 ZXNAME0000XZ threads commonly make progress. Threads remain logical program entities; the warp is the hardware-facing execution group.", "zh": "扭曲并不是“32 条指令独立运行”。它是调度/执行分组，32 个 ZXNAME0000XZ 线程通常通过它取得进展。线程仍然是逻辑程序实体； warp 是面向硬件的执行组。"}

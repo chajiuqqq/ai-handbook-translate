@@ -1,0 +1,1 @@
+{"source": "That is a scheduling change, not a change to the dense attention function. The arithmetic interactions remain dense. The implementation simply chooses a memory schedule that retains useful intermediate state close to compute for longer.", "zh": "这是调度的改变，而不是对密集注意力函数的改变。算术交互仍然密集。该实现只是选择一个内存调度，以更长时间地保留接近计算的有用中间状态。"}

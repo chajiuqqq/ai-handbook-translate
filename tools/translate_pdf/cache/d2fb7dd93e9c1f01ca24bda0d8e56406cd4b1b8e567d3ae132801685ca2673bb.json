@@ -1,0 +1,1 @@
+{"source": "A dense MLP applies independently to each position, so its dominant matrix multiplications scale roughly as", "zh": "密集 MLP 独立地应用于每个位置，因此其主导矩阵乘法的缩放比例大致为"}

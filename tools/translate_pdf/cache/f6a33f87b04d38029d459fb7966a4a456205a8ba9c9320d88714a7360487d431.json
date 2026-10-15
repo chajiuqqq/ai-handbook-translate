@@ -1,0 +1,1 @@
+{"source": "At the end of a training step, the bias is decreased for overloaded experts and increased for underloaded experts. The bias therefore changes who gets selected without directly changing the affinity value multiplied into the expert output.", "zh": "在训练步骤结束时，过载专家的偏差会减小，而负载不足的专家的偏差会增加。因此，偏差会改变谁被选中，而不会直接改变乘以专家输出的亲和力值。"}

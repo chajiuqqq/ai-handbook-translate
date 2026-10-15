@@ -1,0 +1,1 @@
+{"source": "Some modern models are explicitly trained for flexible dimension. Qwen3 Embedding reports Matryoshka support, and its official model cards expose user-selectable output dimensions within model-specific ranges. [18]", "zh": "一些现代模型经过明确的灵活维度训练。 Qwen3 Embedding 报告了 Matryoshka 支持，其官方模型卡在特定于模型的范围内公开了用户可选择的输出尺寸。 [18]"}

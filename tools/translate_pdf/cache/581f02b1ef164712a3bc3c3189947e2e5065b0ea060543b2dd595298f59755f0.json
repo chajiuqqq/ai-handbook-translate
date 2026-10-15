@@ -1,0 +1,1 @@
+{"source": "Large dense GEMMs can achieve high arithmetic intensity through tiling and reuse, making matrix throughput and the surrounding data pipeline central.", "zh": "大型密集GEMM可以通过平铺和重用来实现高算术强度，从而使矩阵吞吐量和周围的数据管道成为中心。"}

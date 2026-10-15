@@ -1,0 +1,1 @@
+{"source": "Important. When comparing quantized systems, ask for the full precision tuple: weights, activations, accumulators, KV cache, scales, and any unquantized exceptions.", "zh": "重要。在比较量化系统时，要求提供完整的精度元组：权重、激活、累加器、KV 缓存、比例和任何未量化的异常。"}

@@ -1,0 +1,1 @@
+{"source": "Runtime memory also includes activations, KV cache, allocator overhead, ZXNAME0000XZ graphs/- workspaces, and possibly multiple copies during loading/conversion.", "zh": "运行时内存还包括激活、KV 缓存、分配器开销、ZXNAME0000XZ 图形/工作区，以及加载/转换期间可能的多个副本。"}

@@ -1,0 +1,1 @@
+{"source": "Important. Sparse activation reduces which expert computations are executed. It does not automatically reduce the memory required to store all expert weights, nor does it guarantee lower wall-clock latency.", "zh": "重要。稀疏激活减少了专家计算的执行。它不会自动减少存储所有专家权重所需的内存，也不能保证较低的挂钟延迟。"}

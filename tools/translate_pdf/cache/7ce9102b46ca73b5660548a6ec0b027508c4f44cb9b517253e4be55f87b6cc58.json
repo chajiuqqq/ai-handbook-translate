@@ -1,0 +1,1 @@
+{"source": "It does not prescribe whether a model uses ZXNAME0000XZ, ZXNAME0001XZ, or ZXNAME0002XZ. Those choices determine the logical KV payload. Paging determines how that payload is managed in a serving memory system.", "zh": "它没有规定模型是否使用 ZXNAME0000XZ、ZXNAME0001XZ 或 ZXNAME0002XZ。这些选择决定了逻辑 KV 有效负载。分页决定了如何在服务内存系统中管理有效负载。"}

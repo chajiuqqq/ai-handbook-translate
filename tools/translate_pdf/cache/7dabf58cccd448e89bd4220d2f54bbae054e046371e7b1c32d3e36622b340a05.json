@@ -1,0 +1,1 @@
+{"source": "These are tensor-payload numbers for one sequence. They exclude allocator metadata, fragmentation, other activations, model weights, temporary workspace, and framework-specific storage.", "zh": "这些是一个序列的张量有效负载数。它们排除分配器元数据、碎片、其他激活、模型权重、临时工作空间和特定于框架的存储。"}

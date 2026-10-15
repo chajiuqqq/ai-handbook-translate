@@ -1,0 +1,1 @@
+{"source": "Important. Embedding dimension and vocabulary size are different axes. IncreasingZXMATH0000XZ adds rows. IncreasingZXMATH0001XZ makes every row wider and also changes the hidden width if the token embedding feeds the model directly.", "zh": "重要。嵌入维度和词汇量大小是不同的轴。增加ZXMATH0000XZ 会添加行。增加 ZXMATH0001XZ 会使每行变宽，如果令牌嵌入直接为模型提供数据，还会更改隐藏宽度。"}

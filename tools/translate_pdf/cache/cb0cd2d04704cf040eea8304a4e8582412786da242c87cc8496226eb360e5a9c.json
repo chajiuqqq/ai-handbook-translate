@@ -1,0 +1,1 @@
+{"source": "Methods such as GPTQ, AWQ, SmoothQuant, and OmniQuant differ partly in how they reduce the downstream effect of these errors rather than merely applying naive round-to-nearest everywhere.", "zh": "GPTQ、AWQ、SmoothQuant 和 OmniQuant 等方法的部分不同之处在于它们如何减少这些错误的下游影响，而不是仅仅在各处应用朴素的舍入到最近值。"}

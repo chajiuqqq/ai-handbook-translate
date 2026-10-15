@@ -1,0 +1,1 @@
+{"source": "Modern decoder-based embedding models can use a different readout. Qwen3 Embedding appends an EOS token and takes the final-layer hidden state at EOS as the text representation. [18]", "zh": "现代基于解码器的嵌入模型可以使用不同的读数。 Qwen3 Embedding 附加一个 EOS 代币，并将 EOS 的最后一层隐藏状态作为文本表示。 [18]"}

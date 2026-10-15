@@ -1,0 +1,1 @@
+{"source": "Mental model. Sparse routing creates a feedback loop between which expert learns and which expert is chosen. Balancing methods try to keep that loop from collapsing onto too few experts without overwhelming the main language-model objective.", "zh": "心智模型。稀疏路由在专家学习和选择专家之间创建了一个反馈循环。平衡方法试图在不压倒主要语言模型目标的情况下，防止该循环崩溃到太少的专家身上。"}

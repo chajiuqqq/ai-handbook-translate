@@ -1,0 +1,1 @@
+{"source": "Register pressure is not inherently bad. It is a resource trade-off. The relevant question is whether the register footprint enables useful reuse and instruction-level parallelism without creating enough spilling or residency loss to hurt the kernel.", "zh": "寄存器压力本身并不是坏事。这是一种资源权衡。相关问题是寄存器占用空间是否能够实现有用的重用和指令级并行性，而不会产生足够的溢出或驻留损失来损害内核。"}

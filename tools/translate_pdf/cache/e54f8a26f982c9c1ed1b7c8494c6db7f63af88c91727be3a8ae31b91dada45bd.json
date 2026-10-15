@@ -1,0 +1,1 @@
+{"source": "Switch also made expert capacity and token overflow central engineering concepts because its TPU-oriented implementation used statically bounded expert batches.", "zh": "Switch 还使专家容量和令牌溢出成为核心工程概念，因为其面向 TPU 的实现使用静态限制的专家批次。"}

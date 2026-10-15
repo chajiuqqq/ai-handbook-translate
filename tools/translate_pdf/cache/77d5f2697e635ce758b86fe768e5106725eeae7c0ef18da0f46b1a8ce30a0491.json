@@ -1,0 +1,1 @@
+{"source": "Mental model. In modern sparse Transformer MoEs, an “expert” is usually a feed-forward subnetwork inside a layer. It is not a complete independent language model.", "zh": "心智模型。在现代稀疏 Transformer MoE 中，“专家”通常是层内的前馈子网络。它不是一个完全独立的语言模型。"}

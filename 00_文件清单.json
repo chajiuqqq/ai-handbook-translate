@@ -1,123 +1,138 @@
-[
-  {
-    "number": 1,
-    "title": "检索增强生成与上下文工程",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 8,
-    "translated_pages": 30,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\01_RAG_Context_Engineering.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\01_RAG_Context_Engineering-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\01_RAG_Context_Engineering-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/1-hwxsU1U0ghO4938kcTdnRQwl5CCtB6L/view"
-  },
-  {
-    "number": 2,
-    "title": "注意力机制",
-    "status": "复用已验证译本",
-    "source_pages": 33,
-    "translated_pages": 38,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\02_How_Attention_Works.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\02_How_Attention_Works-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\02_How_Attention_Works-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/1fCHQ5xCQJ6jZszAYf-qP3VIySbzFIEDv/view"
-  },
-  {
-    "number": 3,
-    "title": "理解 KV 缓存",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 33,
-    "translated_pages": 71,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\03_Understanding_KV_Cache.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\03_Understanding_KV_Cache-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\03_Understanding_KV_Cache-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/12KlRm0YLYrfpLF2q3_tBDNMMkJ7_bYNF/view"
-  },
-  {
-    "number": 4,
-    "title": "理解 FlashAttention",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 43,
-    "translated_pages": 94,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\04_Understanding_FlashAttention.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\04_Understanding_FlashAttention-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\04_Understanding_FlashAttention-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/1CLyK-9Cflcvi3fRl3qAHyzYvwJFjCyVg/view"
-  },
-  {
-    "number": 5,
-    "title": "理解 MHA、MQA、GQA 与 MLA",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 40,
-    "translated_pages": 86,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\05_MHA_MQA_GQA_MLA.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\05_MHA_MQA_GQA_MLA-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\05_MHA_MQA_GQA_MLA-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/1A68bJm6_ctrEPolSRlkPzroTgT6EeEWX/view"
-  },
-  {
-    "number": 6,
-    "title": "GPU 利用率与性能手册",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 42,
-    "translated_pages": 90,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\06_GPU_Utilization_Performance.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\06_GPU_Utilization_Performance-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\06_GPU_Utilization_Performance-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/17tyvxr__8vZ6o995GNq6I5PC5JOiv0ql/view"
-  },
-  {
-    "number": 7,
-    "title": "GPU 内存层次结构",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 42,
-    "translated_pages": 92,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\07_GPU_Memory_Hierarchy.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\07_GPU_Memory_Hierarchy-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\07_GPU_Memory_Hierarchy-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/1r9evOyX5SgO2W76mn6plgcqv207MgTY8/view"
-  },
-  {
-    "number": 8,
-    "title": "混合专家模型（MoE）",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 38,
-    "translated_pages": 83,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\08_Mixture_of_Experts.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\08_Mixture_of_Experts-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\08_Mixture_of_Experts-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/10uQYFdBboSNTDy7QZo9PtQKFcK2y_5fu/view"
-  },
-  {
-    "number": 9,
-    "title": "嵌入向量",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 39,
-    "translated_pages": 85,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\09_Embeddings.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\09_Embeddings-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\09_Embeddings-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/129Hwx-jmuHwdRSOOOcJ6Owu4m02szL6c/view"
-  },
-  {
-    "number": 10,
-    "title": "Transformer 块",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 41,
-    "translated_pages": 90,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\10_Transformer_Block.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\10_Transformer_Block-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\10_Transformer_Block-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/1UhSHccYXXCMnguk2fQWJPVve2n5xONvU/view"
-  },
-  {
-    "number": 11,
-    "title": "量化",
-    "status": "已翻译 · 含原文对照",
-    "source_pages": 41,
-    "translated_pages": 89,
-    "original": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\originals\\11_Quantization.pdf",
-    "translated": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\zh\\11_Quantization-zh.pdf",
-    "terminology": "C:\\Users\\chaji\\Documents\\Codex\\2026-10-09\\xi\\outputs\\AI_Handbooks\\terminology\\11_Quantization-terminology-zh.csv",
-    "source_url": "https://drive.google.com/file/d/1JPWFc9lArJ-viyqf4ZkXpxF-jhYNkK9q/view"
-  }
-]
+{
+  "整理日期": "2026-10-15",
+  "说明": "中文全文译本，原文图片与矢量公式随文保留；中文使用霞鹜文楷，英文与数字使用 Times New Roman。术语括注英文原词。",
+  "手册": [
+    {
+      "编号": 1,
+      "标题": "检索增强生成与上下文工程",
+      "英文名": "RAG & Context Engineering",
+      "slug": "RAG_Context_Engineering",
+      "原页数": 8,
+      "译页数": 22,
+      "术语表": "terminology/01_RAG_Context_Engineering-terminology-zh.csv",
+      "中文PDF": "zh/01_RAG_Context_Engineering-zh.pdf",
+      "原文PDF": "originals/01_RAG_Context_Engineering.pdf",
+      "来源": "https://drive.google.com/file/d/1-hwxsU1U0ghO4938kcTdnRQwl5CCtB6L/view"
+    },
+    {
+      "编号": 2,
+      "标题": "注意力机制",
+      "英文名": "How Attention Works",
+      "slug": "How_Attention_Works",
+      "原页数": 33,
+      "译页数": 38,
+      "术语表": "terminology/02_How_Attention_Works-terminology-zh.csv",
+      "中文PDF": "zh/02_How_Attention_Works-zh.pdf",
+      "原文PDF": "originals/02_How_Attention_Works.pdf",
+      "来源": "https://drive.google.com/file/d/1fCHQ5xCQJ6jZszAYf-qP3VIySbzFIEDv/view"
+    },
+    {
+      "编号": 3,
+      "标题": "理解 KV 缓存",
+      "英文名": "Understanding KV Cache",
+      "slug": "Understanding_KV_Cache",
+      "原页数": 33,
+      "译页数": 40,
+      "术语表": "terminology/03_Understanding_KV_Cache-terminology-zh.csv",
+      "中文PDF": "zh/03_Understanding_KV_Cache-zh.pdf",
+      "原文PDF": "originals/03_Understanding_KV_Cache.pdf",
+      "来源": "https://drive.google.com/file/d/12KlRm0YLYrfpLF2q3_tBDNMMkJ7_bYNF/view"
+    },
+    {
+      "编号": 4,
+      "标题": "理解 FlashAttention",
+      "英文名": "Understanding FlashAttention",
+      "slug": "Understanding_FlashAttention",
+      "原页数": 43,
+      "译页数": 54,
+      "术语表": "terminology/04_Understanding_FlashAttention-terminology-zh.csv",
+      "中文PDF": "zh/04_Understanding_FlashAttention-zh.pdf",
+      "原文PDF": "originals/04_Understanding_FlashAttention.pdf",
+      "来源": "https://drive.google.com/file/d/1CLyK-9Cflcvi3fRl3qAHyzYvwJFjCyVg/view"
+    },
+    {
+      "编号": 5,
+      "标题": "理解 MHA、MQA、GQA 与 MLA",
+      "英文名": "Understanding MHA, MQA, GQA & MLA",
+      "slug": "MHA_MQA_GQA_MLA",
+      "原页数": 40,
+      "译页数": 49,
+      "术语表": "terminology/05_MHA_MQA_GQA_MLA-terminology-zh.csv",
+      "中文PDF": "zh/05_MHA_MQA_GQA_MLA-zh.pdf",
+      "原文PDF": "originals/05_MHA_MQA_GQA_MLA.pdf",
+      "来源": "https://drive.google.com/file/d/1A68bJm6_ctrEPolSRlkPzroTgT6EeEWX/view"
+    },
+    {
+      "编号": 6,
+      "标题": "GPU 利用率与性能手册",
+      "英文名": "GPU Utilization / Performance Handbook",
+      "slug": "GPU_Utilization_Performance",
+      "原页数": 42,
+      "译页数": 51,
+      "术语表": "terminology/06_GPU_Utilization_Performance-terminology-zh.csv",
+      "中文PDF": "zh/06_GPU_Utilization_Performance-zh.pdf",
+      "原文PDF": "originals/06_GPU_Utilization_Performance.pdf",
+      "来源": "https://drive.google.com/file/d/17tyvxr__8vZ6o995GNq6I5PC5JOiv0ql/view"
+    },
+    {
+      "编号": 7,
+      "标题": "GPU 内存层次结构",
+      "英文名": "GPU Memory Hierarchy",
+      "slug": "GPU_Memory_Hierarchy",
+      "原页数": 42,
+      "译页数": 52,
+      "术语表": "terminology/07_GPU_Memory_Hierarchy-terminology-zh.csv",
+      "中文PDF": "zh/07_GPU_Memory_Hierarchy-zh.pdf",
+      "原文PDF": "originals/07_GPU_Memory_Hierarchy.pdf",
+      "来源": "https://drive.google.com/file/d/1r9evOyX5SgO2W76mn6plgcqv207MgTY8/view"
+    },
+    {
+      "编号": 8,
+      "标题": "混合专家模型（MoE）",
+      "英文名": "Mixture of Experts (MoE)",
+      "slug": "Mixture_of_Experts",
+      "原页数": 38,
+      "译页数": 48,
+      "术语表": "terminology/08_Mixture_of_Experts-terminology-zh.csv",
+      "中文PDF": "zh/08_Mixture_of_Experts-zh.pdf",
+      "原文PDF": "originals/08_Mixture_of_Experts.pdf",
+      "来源": "https://drive.google.com/file/d/10uQYFdBboSNTDy7QZo9PtQKFcK2y_5fu/view"
+    },
+    {
+      "编号": 9,
+      "标题": "嵌入向量",
+      "英文名": "Embeddings",
+      "slug": "Embeddings",
+      "原页数": 39,
+      "译页数": 47,
+      "术语表": "terminology/09_Embeddings-terminology-zh.csv",
+      "中文PDF": "zh/09_Embeddings-zh.pdf",
+      "原文PDF": "originals/09_Embeddings.pdf",
+      "来源": "https://drive.google.com/file/d/129Hwx-jmuHwdRSOOOcJ6Owu4m02szL6c/view"
+    },
+    {
+      "编号": 10,
+      "标题": "Transformer 块",
+      "英文名": "The Transformer Block",
+      "slug": "Transformer_Block",
+      "原页数": 41,
+      "译页数": 50,
+      "术语表": "terminology/10_Transformer_Block-terminology-zh.csv",
+      "中文PDF": "zh/10_Transformer_Block-zh.pdf",
+      "原文PDF": "originals/10_Transformer_Block.pdf",
+      "来源": "https://drive.google.com/file/d/1UhSHccYXXCMnguk2fQWJPVve2n5xONvU/view"
+    },
+    {
+      "编号": 11,
+      "标题": "量化",
+      "英文名": "Quantization",
+      "slug": "Quantization",
+      "原页数": 41,
+      "译页数": 50,
+      "术语表": "terminology/11_Quantization-terminology-zh.csv",
+      "中文PDF": "zh/11_Quantization-zh.pdf",
+      "原文PDF": "originals/11_Quantization.pdf",
+      "来源": "https://drive.google.com/file/d/1JPWFc9lArJ-viyqf4ZkXpxF-jhYNkK9q/view"
+    }
+  ]
+}

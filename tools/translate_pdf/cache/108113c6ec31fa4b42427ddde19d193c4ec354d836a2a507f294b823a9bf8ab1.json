@@ -1,0 +1,1 @@
+{"source": "The right distinction is control. Shared memory exposes a software-controlled reuse mechanism. Cache exposes a hardware-controlled reuse mechanism. They may share physical resources on some architectures, but their programming semantics remain different.", "zh": "正确的区别是控制。共享内存公开了软件控制的重用机制。缓存公开了硬件控制的重用机制。它们可能在某些架构上共享物理资源，但它们的编程语义仍然不同。"}

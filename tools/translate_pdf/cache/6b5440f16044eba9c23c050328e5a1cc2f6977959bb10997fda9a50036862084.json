@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ describes exactly this hierarchy: thread blocks provide coarse parallelism, shared-memory tiles retain data for cooperating warps, and register fragments retain values for repeated matrix instructions.[14]", "zh": "ZXNAME0000XZ 准确地描述了这种层次结构：线程块提供粗略并行性，共享内存块保留用于协作扭曲的数据，寄存器片段保留重复矩阵指令的值。 [14]"}

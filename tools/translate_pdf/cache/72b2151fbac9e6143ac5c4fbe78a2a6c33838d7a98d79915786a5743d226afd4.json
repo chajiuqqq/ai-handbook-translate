@@ -1,0 +1,1 @@
+{"source": "Current ZXNAME0000XZ documentation states this explicitly: automatic prefix caching reduces queryprocessing/prefill time, but does not reduce the time required to generate new tokens in the decode phase.", "zh": "当前的 ZXNAME0000XZ 文档明确指出了这一点：自动前缀缓存减少了查询处理/预填充时间，但不会减少在解码阶段生成新令牌所需的时间。"}

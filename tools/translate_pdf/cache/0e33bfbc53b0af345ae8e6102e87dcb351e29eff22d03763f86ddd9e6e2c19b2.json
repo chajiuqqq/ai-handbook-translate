@@ -1,0 +1,1 @@
+{"source": "Mental model. A sentence embedding is not simply “the BERT vector” or “the ZXNAME0000XZ vector.” It is the output of an encoder plus a specific readout rule, usually trained or validated for the intended similarity task.", "zh": "心智模型。句子嵌入不仅仅是“BERT 向量”或“ZXNAME0000XZ 向量”。它是编码器的输出加上特定的读出规则，通常针对预期的相似性任务进行训练或验证。"}

@@ -1,0 +1,1 @@
+{"source": "A one-hot representation gives each vocabulary item its own independent axis. If the vocabulary hasZXMATH0000XZ entries, tokenZXMATH0001XZ can be represented by a vector inZXMATH0002XZ that is zero everywhere except position", "zh": "one-hot 表示为每个词汇项提供了自己的独立轴。如果词汇表有 ZXMATH0000XZ 条目，则 tokenZXMATH0001XZ 可以由 ZXMATH0002XZ 中的向量表示，该向量除了位置之外到处都为零"}

@@ -1,0 +1,1 @@
+{"source": "Real serving engines allocate in blocks and may add padding, scales, metadata, sharding, or model-specific states, so these formulas describe the tensor payload rather than every byte consumed by a runtime.", "zh": "真正的服务引擎以块的形式进行分配，并且可能添加填充、缩放、元数据、分片或特定于模型的状态，因此这些公式描述的是张量有效负载，而不是运行时消耗的每个字节。"}

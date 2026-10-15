@@ -1,0 +1,1 @@
+{"source": "A kernel becomes IO-aware when the placement and movement of data are part of the algorithm, rather than an afterthought left to a sequence of separately launched tensor operations.", "zh": "当数据的放置和移动成为算法的一部分时，内核就会具有 IO 感知能力，而不是事后才考虑一系列单独启动的张量操作。"}

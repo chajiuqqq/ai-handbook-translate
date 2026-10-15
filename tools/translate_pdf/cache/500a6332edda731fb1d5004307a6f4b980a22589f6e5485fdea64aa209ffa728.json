@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ uses 60 Transformer layers, hidden dimension 5120, 128 attention heads, content head widthZXMATH0000XZ = 128, KV latent widthZXMATH0001XZ = 512, query latent width 1536, and decoupled RoPE widthZXMATH0002XZ", "zh": "ZXNAME0000XZ使用60个Transformer层，隐藏维度5120，128个注意力头，内容头宽度ZXMATH0000XZ = 128，KV潜在宽度ZXMATH0001XZ = 512，查询潜在宽度1536，以及解耦的RoPE宽度ZXMATH0002XZ"}

@@ -1,0 +1,1 @@
+{"source": "For a prompt of many tokens, the model can process those prompt positions together under a causal mask. This is usually called prefill. Once generation begins, the model usually advances one newly generated token per sequence per decode step. This is the decode phase.", "zh": "对于许多标记的提示，模型可以在因果掩码下一起处理这些提示位置。这通常称为预填充。一旦生成开始，模型通常会在每个解码步骤的每个序列中推进一个新生成的标记。这是解码阶段。"}

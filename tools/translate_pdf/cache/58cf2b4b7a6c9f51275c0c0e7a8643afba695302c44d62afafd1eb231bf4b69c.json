@@ -1,0 +1,1 @@
+{"source": "In a multi-tenant service, cache hits can change latency. If unrelated users are allowed to share prefix-cache state, an attacker may be able to infer whether some content was already cached by observing timing differences.", "zh": "在多租户服务中，缓存命中可能会改变延迟。如果允许不相关的用户共享前缀缓存状态，攻击者可能能够通过观察时间差异来推断某些内容是否已经被缓存。"}

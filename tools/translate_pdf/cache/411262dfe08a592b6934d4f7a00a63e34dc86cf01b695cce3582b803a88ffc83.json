@@ -1,0 +1,1 @@
+{"source": "More parallel blocks are not automatically better. Tile size, occupancy, registers, shared memory, and data reuse interact. Kernel design is an optimization problem over hardware resources, not just a request for maximum thread count.", "zh": "并行块越多并不一定越好。平铺大小、占用、寄存器、共享内存和数据重用相互作用。内核设计是对硬件资源的优化问题，而不仅仅是最大线程数的要求。"}

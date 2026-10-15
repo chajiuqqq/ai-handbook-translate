@@ -1,0 +1,1 @@
+{"source": "Multiple warps and multiple requests can be in flight at the same time. The scheduler can issue unrelated work while a dependency waits. This is how a ZXNAME0000XZ can tolerate substantial access latency without reducing the physical latency of the request itself.", "zh": "多个扭曲和多个请求可以同时进行。当依赖项等待时，调度程序可以发出不相关的工作。这就是 ZXNAME0000XZ 能够容忍大量访问延迟而不减少请求本身的物理延迟的方式。"}

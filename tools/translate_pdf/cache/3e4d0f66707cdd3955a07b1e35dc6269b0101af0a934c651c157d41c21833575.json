@@ -1,0 +1,1 @@
+{"source": "A kernel can execute continuously and still leave large parts of the ZXNAME0000XZ underused. For example, it might use only a small subset of ZXNAME0001XZ, issue inefficiently, or be limited by one pipeline while other resources sit idle.", "zh": "内核可以连续执行，但仍然会导致 ZXNAME0000XZ 的大部分内容未得到充分利用。例如，它可能只使用 ZXNAME0001XZ 的一小部分子集，发出效率低下，或者受到一个管道的限制而其他资源闲置。"}

@@ -1,0 +1,1 @@
+{"source": "Qwen3 reports ZXNAME0000XZ with pre-normalization at the block level and, separately, QK-Norm in the attention mechanism to stabilize training. [17] These are different normalization sites:", "zh": "Qwen3 报告 ZXNAME0000XZ 在块级别具有预归一化，并且在注意力机制中单独使用 QK-Norm 来稳定训练。 [17] 这些是不同的标准化站点："}

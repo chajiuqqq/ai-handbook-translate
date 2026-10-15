@@ -1,0 +1,1 @@
+{"source": "This is the sense in which the paper calls its main batch-level method auxiliary-loss-free: load pressure is applied through dynamic routing biases rather than a conventional batch-level auxiliary loss term that competes with the language-model objective.", "zh": "这就是本文将其主要批处理级方法称为无辅助损失的含义：通过动态路由偏差施加负载压力，而不是通过与语言模型目标竞争的传统批处理级辅助损失项来施加负载压力。"}

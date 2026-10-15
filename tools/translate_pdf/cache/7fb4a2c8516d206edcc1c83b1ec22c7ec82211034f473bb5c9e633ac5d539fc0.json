@@ -1,0 +1,1 @@
+{"source": "A single request has a simple story: its cache grows as tokens are processed. A serving system has many requests with different prompt lengths, generation lengths, arrival times, and completion times.", "zh": "单个请求有一个简单的故事：它的缓存随着令牌的处理而增长。服务系统有许多具有不同提示长度、生成长度、到达时间和完成时间的请求。"}

@@ -1,0 +1,1 @@
+{"source": "KV caching avoids recomputing the historical key/value projections and the earlier layer states needed to produce them. That is a major reduction in redundant work during autoregressive decoding.", "zh": "KV 缓存避免重新计算历史键/值投影以及生成它们所需的早期层状态。这大大减少了自回归解码过程中的冗余工作。"}

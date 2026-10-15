@@ -1,0 +1,1 @@
+{"source": "The total training objective in that work includes the main cross-entropy loss, a load-balance term, and the router z-loss with separate coefficients:", "zh": "该工作的总训练目标包括主要的交叉熵损失、负载平衡项以及具有单独系数的路由器 z 损失："}

@@ -1,0 +1,1 @@
+{"source": "In many sparse Mixture-of-Experts Transformers, the dense MLP sublayer is replaced by a routed expert bank. For token stateZXMATH0000XZ a router selects a small set of experts and combines their outputs:", "zh": "在许多稀疏专家混合变压器中，密集的 MLP 子层被路由专家库取代。对于令牌状态ZXMATH0000XZ，路由器选择一小组专家并组合他们的输出："}

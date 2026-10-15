@@ -1,0 +1,1 @@
+{"source": "Mental model. An embedding index is coupled to the encoder that produced it. Treat encoder changes like schema changes, not cosmetic model swaps.", "zh": "心智模型。嵌入索引与生成它的编码器耦合。将编码器更改视为架构更改，而不是装饰模型交换。"}

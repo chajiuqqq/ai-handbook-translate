@@ -1,0 +1,1 @@
+{"source": "The rest of this handbook uses that distinction consistently. It lets us talk about a single tensor while separately reasoning about its logical location, cache behavior, and actual movement through hardware.", "zh": "本手册的其余部分一致地使用了这种区别。它让我们讨论单个张量，同时单独推理其逻辑位置、缓存行为和通过硬件的实际移动。"}

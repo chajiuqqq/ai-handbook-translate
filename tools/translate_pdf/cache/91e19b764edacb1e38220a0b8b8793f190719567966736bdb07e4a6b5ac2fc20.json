@@ -1,0 +1,1 @@
+{"source": "Orthogonal concepts: • ZXNAME0000XZ/ZXNAME0001XZ: how heads share K/V projections, • RoPE: how position transforms Q/K, • ZXNAME0002XZ: how attention is scheduled and computed efficiently. These can be used together.", "zh": "正交概念： • ZXNAME0000XZ/ZXNAME0001XZ：头部如何共享 K/V 投影， • RoPE：位置如何转换 Q/K， • ZXNAME0002XZ：如何有效地安排和计算注意力。这些可以一起使用。"}

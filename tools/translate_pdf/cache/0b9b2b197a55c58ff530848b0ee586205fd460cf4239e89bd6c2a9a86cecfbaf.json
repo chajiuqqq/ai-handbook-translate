@@ -1,0 +1,1 @@
+{"source": "The exact feature matrix differs across implementations. For example, FA3 is strongly associated with Hopper-specific optimization, while the current FA4 repository targets both Hopper and Blackwell through its CuTeDSL path.[8]", "zh": "确切的特征矩阵因实现而异。例如，FA3 与 Hopper 特定的优化密切相关，而当前的 FA4 存储库通过其 CuTeDSL 路径同时针对 Hopper 和 Blackwell。 [8]"}

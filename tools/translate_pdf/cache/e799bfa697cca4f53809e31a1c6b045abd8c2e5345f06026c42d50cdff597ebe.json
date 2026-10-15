@@ -1,0 +1,1 @@
+{"source": "Equations specify data dependencies, not storage decisions. An implementation can generate an intermediate tile and consume it immediately without ever allocating the complete intermediate tensor in device memory.", "zh": "方程指定数据依赖性，而不是存储决策。实现可以生成中间图块并立即使用它，而无需在设备内存中分配完整的中间张量。"}

@@ -1,0 +1,1 @@
+{"source": "The original Transformer applies a residual connection around each sublayer and then normalizes the sum. Vaswani et al. write the sublayer output as [1]", "zh": "原始 Transformer 在每个子层周围应用残差连接，然后对总和进行归一化。瓦斯瓦尼等人。将子层输出写为[1]"}

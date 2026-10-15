@@ -1,0 +1,1 @@
+{"source": "The mask matters because padding tokens should not silently pull the vector toward a padding representation.", "zh": "掩码很重要，因为填充标记不应该默默地将向量拉向填充表示。"}

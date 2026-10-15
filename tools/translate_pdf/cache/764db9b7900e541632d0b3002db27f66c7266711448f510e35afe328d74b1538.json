@@ -1,0 +1,1 @@
+{"source": "Reuse mechanisms can cost registers, shared memory, synchronization, and occupancy. The saved traffic must justify those costs.", "zh": "重用机制会消耗寄存器、共享内存、同步和占用。节省的流量必须证明这些成本是合理的。"}

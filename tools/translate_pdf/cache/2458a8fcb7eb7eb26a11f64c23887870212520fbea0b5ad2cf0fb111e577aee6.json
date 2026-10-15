@@ -1,0 +1,1 @@
+{"source": "Multi-Query Attention keeps multiple query heads but shares one key head and one value head across all of them. Shazeer introduced the variant specifically to reduce the K/V tensor size and memory-bandwidth requirements of incremental decoding.ZXMATH0000XZ", "zh": "多查询注意力机制保留多个查询头，但在所有查询头之间共享一个键头和一个值头。 Shazeer 引入该变体专门是为了减少增量解码的 K/V 张量大小和内存带宽要求。ZXMATH0000XZ"}

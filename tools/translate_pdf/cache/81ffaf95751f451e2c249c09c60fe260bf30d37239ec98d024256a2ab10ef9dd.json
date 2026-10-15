@@ -1,0 +1,1 @@
+{"source": "Noam Shazeer’s 2019 paper motivates this change specifically around incremental decoding: loading K/V tensors can become a memory-bandwidth bottleneck, so shrinking those tensors can improve decoding efficiency.", "zh": "Noam Shazeer 的 2019 年论文特别围绕增量解码推动了这一变化：加载 K/V 张量可能成为内存带宽瓶颈，因此缩小这些张量可以提高解码效率。"}

@@ -1,0 +1,1 @@
+{"source": "The hierarchy rewards both kinds of locality for different reasons: spatial locality makes each transfer more useful, while temporal locality makes the same transferred data useful again before it is evicted.", "zh": "层次结构出于不同的原因奖励这两种局部性：空间局部性使每次传输更有用，而时间局部性使相同的传输数据在被驱逐之前再次有用。"}

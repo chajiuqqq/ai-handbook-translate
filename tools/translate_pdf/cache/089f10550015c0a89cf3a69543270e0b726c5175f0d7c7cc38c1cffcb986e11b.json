@@ -1,0 +1,1 @@
+{"source": "Poor coalescing wastes movement. If those 32 useful 8-byte values are spread so that each falls in a different 32-byte segment, the request footprint grows to 32 segments even though the useful payload is still 256 bytes.", "zh": "废物运动聚结不良。如果这 32 个有用的 8 字节值被分散，使得每个值都落在不同的 32 字节段中，则请求占用空间将增长到 32 个段，即使有用的有效负载仍然是 256 字节。"}

@@ -1,0 +1,1 @@
+{"source": "The tiled ZXNAME0000XZ example from the previous pages was very different. Under its simplified input-plus-output accounting, a small tile already reached 16 FLOPs per byte because each input value participated in many multiply-adds before replacement.", "zh": "前几页中的平铺 ZXNAME0000XZ 示例非常不同。在其简化的输入加输出计算下，一个小块已经达到每字节 16 FLOP，因为每个输入值在替换之前参与了许多乘加运算。"}

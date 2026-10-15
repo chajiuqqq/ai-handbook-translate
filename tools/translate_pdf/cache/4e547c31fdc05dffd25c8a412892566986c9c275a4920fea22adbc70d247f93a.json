@@ -1,0 +1,1 @@
+{"source": "In retrieval training, most possible documents are irrelevant to a given query. The challenge is choosing negatives that teach useful distinctions without introducing too many false negatives.", "zh": "在检索训练中，大多数可能的文档与给定的查询无关。面临的挑战是选择能够教导有用的区别而不引入太多假阴性的否定。"}

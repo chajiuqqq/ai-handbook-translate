@@ -1,0 +1,1 @@
+{"source": "Contextual representations are also layer-specific. The final hidden state is not interchangeable with an intermediate layer simply because both have the same dimensionality.", "zh": "上下文表示也是特定于层的。最终隐藏状态不能与中间层互换，因为两者具有相同的维度。"}

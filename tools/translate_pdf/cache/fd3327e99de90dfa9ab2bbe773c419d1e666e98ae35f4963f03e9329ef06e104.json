@@ -1,0 +1,1 @@
+{"source": "Sentence-BERT explicitly adds a pooling operation to BERT/RoBERTa outputs and studied mean, max, and CLS pooling. Its default in the original paper was mean pooling. [9]", "zh": "Sentence-BERT 显式地向 BERT/RoBERTa 输出添加了池化操作，并研究了平均值、最大值和 CLS 池化。它在原始论文中的默认设置是均值池化。 [9]"}

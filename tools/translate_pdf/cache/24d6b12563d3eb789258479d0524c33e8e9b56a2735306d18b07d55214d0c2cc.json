@@ -1,0 +1,1 @@
+{"source": "Modern examples make the diversity concrete: Switch uses Top-1, Mixtral 8x7B uses Top-2, Qwen3-30B-A3B reports 128 experts with 8 activated, and ZXNAME0000XZ selects 8 routed experts plus its shared-expert path.", "zh": "现代示例使多样性具体化：Switch 使用 Top-1，Mixtral 8x7B 使用 Top-2，Qwen3-30B-A3B 报告 128 个专家，其中 8 个已激活，ZXNAME0000XZ 选择 8 个路由专家及其共享专家路径。"}

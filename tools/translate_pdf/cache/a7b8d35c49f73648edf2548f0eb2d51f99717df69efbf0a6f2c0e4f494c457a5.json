@@ -1,0 +1,1 @@
+{"source": "The sparse choice is input-dependent. Two adjacent tokens can use different experts, and the same token can use different experts at different layers because its hidden representation changes through the network.", "zh": "稀疏选择取决于输入。两个相邻的令牌可以使用不同的专家，并且相同的令牌可以在不同层使用不同的专家，因为它的隐藏表示通过网络发生变化。"}

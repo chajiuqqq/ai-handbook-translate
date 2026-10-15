@@ -1,0 +1,1 @@
+{"source": "A 256-thread block contains eight warps. A 300-thread block occupies ten warps, with only 12 valid threads in the final warp. ZXNAME0000XZ permits such a block, but the unused lanes make the final warp less efficient.[1]", "zh": "一个 256 线程块包含八个线程束。一个 300 线程块占用 10 个 warp，最后一个 warp 中只有 12 个有效线程。 ZXNAME0000XZ 允许这样的块，但未使用的通道使最终扭曲的效率降低。[1]"}

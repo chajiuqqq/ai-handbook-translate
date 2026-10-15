@@ -1,0 +1,1 @@
+{"source": "compiler can place them in ZXNAME0000XZ local memory. Despite the name, this storage is per-thread only in visibility; it is backed by device memory rather than by a private on-chip memory.[2]", "zh": "编译器可以将它们放置在 ZXNAME0000XZ 本地内存中。尽管有这个名称，但此存储仅在可见性方面是按线程的；它由设备内存而不是私有片上内存支持。[2]"}

@@ -1,0 +1,1 @@
+{"source": "Important. “Quantize K and V to 2-bit” is not a complete description of KIVI. The perchannel/per-token asymmetry is central to the method.", "zh": "重要。 “将 K 和 V 量化为 2 位”并不是 KIVI 的完整描述。每个通道/每个令牌的不对称性是该方法的核心。"}

@@ -1,0 +1,1 @@
+{"source": "Softmax over all experts followed by masking, softmax after Top-ZXMATH0000XZ masking, and normalization only among selected sigmoid affinities are different computations.", "zh": "对所有专家进行 Softmax 后进行掩码、在 Top-ZXMATH0000XZ 掩码后进行 Softmax 以及仅在选定的 sigmoid 亲和力之间进行归一化是不同的计算。"}

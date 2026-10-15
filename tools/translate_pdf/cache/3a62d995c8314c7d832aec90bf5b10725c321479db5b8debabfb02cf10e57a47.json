@@ -1,0 +1,1 @@
+{"source": "Important. Parameter count is not runtime. Sequence length, kernel efficiency, KV traffic, batching, and hardware can make attention or the MLP dominate different execution regimes.", "zh": "重要。参数计数不是运行时的。序列长度、内核效率、KV 流量、批处理和硬件可以使注意力或 MLP 主导不同的执行机制。"}

@@ -1,0 +1,1 @@
+{"source": "For bits < 8, q still uses torch.int8 here; this example does not implement sub-byte packing. A production implementation must additionally define granularity, dtype/range conventions,", "zh": "对于位 < 8，q 在这里仍然使用 torch.int8；此示例未实现子字节打包。生产实现必须另外定义粒度、数据类型/范围约定、"}

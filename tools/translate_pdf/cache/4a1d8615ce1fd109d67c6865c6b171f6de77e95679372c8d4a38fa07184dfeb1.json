@@ -1,0 +1,1 @@
+{"source": "The original model also used sinusoidal positional encodings added to embeddings and a ZXNAME0000XZ feed-forward network. Those choices are historically important, but they are not part of the abstract definition of a Transformer block.", "zh": "原始模型还使用添加到嵌入和 ZXNAME0000XZ 前馈网络的正弦位置编码。这些选择在历史上很重要，但它们不是 Transformer 块抽象定义的一部分。"}

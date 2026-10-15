@@ -1,0 +1,1 @@
+{"source": "Instruction-level parallelism (ILP) provides independent operations within one thread/warp. If one dependency chain is waiting, another independent instruction may be available.", "zh": "指令级并行性 (ILP) 在一个线程/线程束内提供独立操作。如果一个依赖链正在等待，则另一条独立指令可能可用。"}

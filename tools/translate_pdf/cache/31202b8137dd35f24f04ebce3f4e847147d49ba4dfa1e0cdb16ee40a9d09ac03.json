@@ -1,0 +1,1 @@
+{"source": "If an ZXNAME0000XZ model with 32 query/KV heads moved to one KV head while keeping the same ZXMATH0000XZ the KV tensor payload would be reduced by a factor of 32.", "zh": "如果将具有 32 个查询/KV 头的 ZXNAME0000XZ 模型移至 1 个 KV 头，同时保持相同的 ZXMATH0000XZ，则 KV 张量有效负载将减少 32 倍。"}

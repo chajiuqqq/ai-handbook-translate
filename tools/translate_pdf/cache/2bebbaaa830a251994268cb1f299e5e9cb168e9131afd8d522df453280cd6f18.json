@@ -1,0 +1,1 @@
+{"source": "DeepSeekMoE also reserves some experts as shared experts that are applied broadly, while routed experts remain sparse. The motivation is to let shared paths capture common knowledge and reduce redundancy pressure among routed experts.", "zh": "DeepSeekMoE 还保留了一些专家作为广泛应用的共享专家，而路由专家仍然稀疏。其动机是让共享路径捕获共同知识并减少路由专家之间的冗余压力。"}

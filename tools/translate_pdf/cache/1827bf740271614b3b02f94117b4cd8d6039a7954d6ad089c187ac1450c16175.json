@@ -1,0 +1,1 @@
+{"source": "This handbook treats registers as a memory-hierarchy level because they determine whether temporary state remains close to compute or spills into the addressable memory system. The occupancy consequences receive a dedicated treatment in AS09.", "zh": "本手册将寄存器视为内存层次结构级别，因为它们确定临时状态是保持接近计算还是溢出到可寻址内存系统中。占用后果在 AS09 中得到专门处理。"}

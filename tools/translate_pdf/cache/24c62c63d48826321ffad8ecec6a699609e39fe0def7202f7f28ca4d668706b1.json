@@ -1,0 +1,1 @@
+{"source": "What changes: the execution schedule, memory traffic, and stored intermediates. What does not change: the dense scaled-dot-product attention function being evaluated.", "zh": "发生了什么变化：执行计划、内存流量和存储的中间体。不变的是：正在评估密集的缩放点积注意力函数。"}

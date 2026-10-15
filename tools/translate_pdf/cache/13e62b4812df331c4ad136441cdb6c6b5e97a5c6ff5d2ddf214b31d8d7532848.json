@@ -1,0 +1,1 @@
+{"source": "A mathematically good low-bit representation can still be slow if the runtime repeatedly materializes dequantized weights in global memory, launches extra kernels, or falls back to unsupported operators.", "zh": "如果运行时在全局内存中反复实现反量化权重、启动额外的内核或回退到不受支持的运算符，则数学上良好的低位表示仍然可能很慢。"}

@@ -1,0 +1,1 @@
+{"source": "The surrounding residual/MLP topology does not become causal by itself. The MLP is positionwise, so it does not create cross-position leakage, but the attention sublayer must enforce the permitted connectivity.", "zh": "周围的残差/MLP 拓扑本身不会成为因果关系。 MLP 是位置式的，因此它不会产生跨位置泄漏，但注意子层必须强制执行允许的连接。"}

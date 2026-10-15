@@ -1,0 +1,1 @@
+{"source": "A naive implementation could rebuild the oldZXMATH0000XZ andZXMATH0001XZ tensors from scratch on every step. That would repeatedly perform projections whose inputs have not changed.", "zh": "简单的实现可以在每一步中从头开始重建旧的 ZXMATH0000XZ 和 ZXMATH0001XZ 张量。这将重复执行输入未更改的投影。"}

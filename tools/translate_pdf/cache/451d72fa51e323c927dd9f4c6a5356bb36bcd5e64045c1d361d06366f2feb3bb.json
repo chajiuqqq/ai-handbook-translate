@@ -1,0 +1,1 @@
+{"source": "Common choices include mean pooling over valid tokens, a designated classification token, the final non-padding token, a learned pooling head, or a model-specific projection.", "zh": "常见的选择包括有效令牌的均值池、指定的分类令牌、最终的非填充令牌、学习的池头或特定于模型的投影。"}

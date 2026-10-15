@@ -1,0 +1,1 @@
+{"source": "If each prefix is used with cosine similarity, normalize that prefix independently before scoring rather than reusing the norm of the full vector. [15]", "zh": "如果每个前缀都与余弦相似度一起使用，请在评分之前独立标准化该前缀，而不是重复使用完整向量的范数。 [15]"}

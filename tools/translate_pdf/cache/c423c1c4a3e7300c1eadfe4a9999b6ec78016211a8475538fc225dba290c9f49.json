@@ -1,0 +1,1 @@
+{"source": "That explicit control is the defining property. A hardware cache decides automatically which lines to retain. Shared memory is filled, indexed, synchronized, and overwritten according to the kernel’s program logic.", "zh": "这种显式控制就是定义属性。硬件缓存自动决定保留哪些行。共享内存根据内核的程序逻辑进行填充、索引、同步和覆盖。"}

@@ -1,0 +1,1 @@
+{"source": "Early neural language models explicitly learned distributed word vectors jointly with the probability model. Modern Transformers do the same at much larger scale: token embeddings are learned end-to-end with the rest of the network. [1,4]", "zh": "早期的神经语言模型与概率模型联合显式学习分布式词向量。现代 Transformer 在更大的规模上做了同样的事情：令牌嵌入是与网络的其余部分端到端学习的。 [1,4]"}

@@ -1,0 +1,1 @@
+{"source": "Important. “Dynamic” does not mean the weights themselves are retrained or changed. It refers to when quantization parameters for runtime values are determined.", "zh": "重要。 “动态”并不意味着权重本身被重新训练或改变。它指的是运行时值的量化参数何时确定。"}

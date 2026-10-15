@@ -1,0 +1,1 @@
+{"source": "Gemma 2’s logit soft-capping and Qwen3’s QK-Norm are examples of architecture details that are easy to omit from a generic diagram but matter to an exact implementation. [16,17]", "zh": "Gemma 2 的 logit soft-capping 和 Qwen3 的 QK-Norm 是架构细节的示例，这些细节很容易从通用图中省略，但对精确的实现很重要。 [16,17]"}

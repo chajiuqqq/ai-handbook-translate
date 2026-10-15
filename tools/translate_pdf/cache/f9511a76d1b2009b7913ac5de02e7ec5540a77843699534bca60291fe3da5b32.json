@@ -1,0 +1,1 @@
+{"source": "QLoRA combines low-bit storage with parameter-efficient fine-tuning. The pretrained base model is frozen and stored in 4-bit NF4, while gradients are backpropagated through its dequantized computations into trainable LoRA adapters.", "zh": "QLoRA 将低位存储与参数高效的微调相结合。预训练的基础模型被冻结并存储在 4 位 NF4 中，而梯度则通过其反量化计算反向传播到可训练的 LoRA 适配器中。"}

@@ -1,0 +1,1 @@
+{"source": "Shazeer et al. described a self-reinforcing failure mode: a few favored experts receive more examples, therefore receive more task-gradient updates, improve faster, and become even more attractive to the router. Other experts may be under-trained.", "zh": "沙泽尔等人。描述了一种自我强化的故障模式：一些受青睐的专家收到更多的例子，因此收到更多的任务梯度更新，改进得更快，并对路由器变得更有吸引力。其他专家可能缺乏培训。"}

@@ -1,0 +1,1 @@
+{"source": "LLaMA explicitly replaced absolute positional embeddings with RoPE at each layer. [8]", "zh": "LLaMA 在每一层明确用 RoPE 替换绝对位置嵌入。 [8]"}

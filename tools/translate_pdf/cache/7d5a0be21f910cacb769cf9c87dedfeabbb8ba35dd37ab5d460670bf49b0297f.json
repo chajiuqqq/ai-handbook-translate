@@ -1,0 +1,1 @@
+{"source": "A KV block represents a fixed span of token positions. Smaller blocks can reduce internal waste at the tail of a sequence and make reuse more granular. Larger blocks can reduce bookkeeping and may better fit some kernel/memory-transfer choices.", "zh": "KV 块代表固定范围的代币头寸。较小的块可以减少序列尾部的内部浪费，并使重用更加细化。较大的块可以减少簿记，并且可能更好地适合某些内核/内存传输选择。"}

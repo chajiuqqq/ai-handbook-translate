@@ -1,0 +1,1 @@
+{"source": "Registers are on-chip storage associated with an ZXNAME0000XZ and logically private to each thread. The compiler uses them for thread-local values such as loop variables, addresses, accumulators, and intermediate arithmetic state.[1,2]", "zh": "寄存器是与 ZXNAME0000XZ 关联的片上存储，逻辑上对每个线程都是私有的。编译器将它们用于线程局部值，例如循环变量、地址、累加器和中间算术状态。[1,2]"}

@@ -1,0 +1,1 @@
+{"source": "A retrieval model can be excellent even if its raw cosine scores are poorly calibrated as probabilities. A model that clusters topics well might not be the best asymmetric query-document retriever.", "zh": "即使原始余弦分数作为概率校准不佳，检索模型也可能非常出色。很好地聚类主题的模型可能不是最好的非对称查询文档检索器。"}

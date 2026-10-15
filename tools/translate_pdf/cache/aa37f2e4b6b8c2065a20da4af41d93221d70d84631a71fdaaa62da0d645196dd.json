@@ -1,0 +1,1 @@
+{"source": "Double quantization quantizes the quantization constants themselves, reducing scale metadata overhead.", "zh": "双量化对量化常数本身进行量化，从而减少比例元数据开销。"}

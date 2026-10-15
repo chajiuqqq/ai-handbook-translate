@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ was explicitly motivated by the memory-bandwidth cost of repeatedly loading large K/V tensors during incremental decoding, not merely by “using fewer parameters.”", "zh": "ZXNAME0000XZ 的明显动机是在增量解码期间重复加载大 K/V 张量的内存带宽成本，而不仅仅是“使用更少的参数”。"}

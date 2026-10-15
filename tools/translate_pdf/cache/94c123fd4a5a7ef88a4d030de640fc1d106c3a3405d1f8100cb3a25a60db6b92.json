@@ -1,0 +1,1 @@
+{"source": "3. How many bytes actually move? Tensor size is capacity. Traffic is the amount transferred across a particular interface. The two can differ by orders of magnitude when data is reused or repeatedly fetched.", "zh": "3.实际移动了多少字节？张量大小就是容量。流量是通过特定接口传输的数量。当重复使用或重复获取数据时，两者可能存在数量级的差异。"}

@@ -1,0 +1,1 @@
+{"source": "Mental model. Group size controls both numerical locality and metadata amortization. Smaller groups usually improve fit while increasing scale/zero-point overhead.", "zh": "心智模型。组大小控制数字局部性和元数据摊销。较小的群体通常会提高适合度，同时增加规模/零点开销。"}

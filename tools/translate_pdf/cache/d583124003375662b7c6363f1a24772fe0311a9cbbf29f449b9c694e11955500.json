@@ -1,0 +1,1 @@
+{"source": "AWQ deliberately avoids backpropagation and layer reconstruction. Its calibration process searches scaling factors from activation statistics, then the resulting weights are packed for hardware-friendly inference.", "zh": "AWQ 刻意避免反向传播和层重建。其校准过程从激活统计中搜索缩放因子，然后将生成的权重打包以进行硬件友好的推理。"}

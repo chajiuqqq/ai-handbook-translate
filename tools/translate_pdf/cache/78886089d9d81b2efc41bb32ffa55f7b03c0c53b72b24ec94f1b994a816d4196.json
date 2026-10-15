@@ -1,0 +1,1 @@
+{"source": "Current embedding libraries expose many of these as configuration rather than universal defaults. Qwen3, for example, supports user-defined task instructions and flexible dimensions; Sentence Transformers exposes pooling and similarity modules. [18,20]", "zh": "当前的嵌入库将其中许多公开为配置而不是通用默认值。例如Qwen3，支持用户自定义任务指令，维度灵活； Sentence Transformers 公开了池化和相似性模块。 [18,20]"}

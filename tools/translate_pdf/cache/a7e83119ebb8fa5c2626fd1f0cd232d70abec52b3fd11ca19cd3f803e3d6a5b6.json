@@ -1,0 +1,1 @@
+{"source": "Mental model. Weight quantization changes a shared model asset. KV-cache quantization changes growing, request-specific inference state.", "zh": "心智模型。权重量化会更改共享模型资产。 KV 缓存量化改变了不断增长的、特定于请求的推理状态。"}

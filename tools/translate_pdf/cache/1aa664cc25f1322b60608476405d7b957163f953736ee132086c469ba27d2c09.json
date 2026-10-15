@@ -1,0 +1,1 @@
+{"source": "KV cache is persistent per-request attention state during autoregressive inference. Its memory grows with cached sequence length, batch/concurrency, layers, KV heads, head dimension, and bytes per element.", "zh": "KV 缓存是自回归推理期间持久的每个请求注意状态。它的内存随着缓存序列长度、批量/并发、层、KV 头、头尺寸和每个元素的字节数而增长。"}

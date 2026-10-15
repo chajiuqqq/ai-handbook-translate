@@ -1,0 +1,1 @@
+{"source": "In the original Transformer, token embeddings are multiplied byZXMATH0000XZ before positional encodings are added. That scaling is an architecture-specific design choice, not part of the universal definition of embedding lookup. [4]", "zh": "在原始 Transformer 中，在添加位置编码之前，标记嵌入会乘以 ZXMATH0000XZ。这种缩放是特定于体系结构的设计选择，而不是嵌入查找的通用定义的一部分。 [4]"}

@@ -1,0 +1,1 @@
+{"source": "An ZXNAME0000XZ Transformer usually changes this sublayer, not the attention mechanism. Instead of one ZXNAME0001XZ, the layer owns several FFNs with the same input/output shape but different parameters:", "zh": "ZXNAME0000XZ Transformer 通常会更改此子层，而不是注意机制。该层拥有多个具有相同输入/输出形状但参数不同的 FFN，而不是一个 ZXNAME0001XZ："}

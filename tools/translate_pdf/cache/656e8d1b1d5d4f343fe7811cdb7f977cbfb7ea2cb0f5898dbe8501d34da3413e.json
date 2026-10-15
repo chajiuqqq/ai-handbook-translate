@@ -1,0 +1,1 @@
+{"source": "Capacity also has a scope. It may be computed per batch, per local routing group, per expert-parallel rank, or another unit. That scope changes which imbalances are visible to the allocator.", "zh": "能力也是有范围的。它可以按批次、每个本地路由组、每个专家并行等级或其他单位来计算。该范围改变了分配器可见的不平衡情况。"}

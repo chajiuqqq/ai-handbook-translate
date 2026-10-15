@@ -1,0 +1,1 @@
+{"source": "Practical language. Say “global-memory load” when discussing the ZXNAME0000XZ address space. Say “L1 hit,” “L2 hit,” or “ZXNAME0001XZ/device-memory traffic” when discussing where bytes were physically served or transferred.", "zh": "实用语言。在讨论 ZXNAME0000XZ 地址空间时说“全局内存加载”。在讨论字节的物理服务或传输位置时，请说“L1 命中”、“L2 命中”或“ZXNAME0001XZ/设备内存流量”。"}

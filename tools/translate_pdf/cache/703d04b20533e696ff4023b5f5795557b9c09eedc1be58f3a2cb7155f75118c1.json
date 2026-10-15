@@ -1,0 +1,1 @@
+{"source": "This distinction matters when evaluating numerical tests. A sensible tolerance depends on dtype, accumulation order, sequence length, and backend rather than requiring binary identity.", "zh": "在评估数值测试时，这种区别很重要。合理的容忍度取决于数据类型、累积顺序、序列长度和后端，而不是要求二进制同一性。"}

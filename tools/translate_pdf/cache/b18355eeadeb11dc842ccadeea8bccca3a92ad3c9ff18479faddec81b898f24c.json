@@ -1,0 +1,1 @@
+{"source": "This is why “ZXNAME0000XZ reduces attention complexity by 4x” is usually too vague to be useful. Which complexity? K/V projection work and cache payload can fall by 4x in a 32Q/8KV example, while dense query-key scoring still has 32 query heads.", "zh": "这就是为什么“ZXNAME0000XZ 将注意力复杂度降低了 4 倍”通常过于模糊而无用。哪种复杂性？在 32Q/8KV 示例中，K/V 投影工作和缓存有效负载可能会下降 4 倍，而密集查询键评分仍然有 32 个查询头。"}

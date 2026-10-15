@@ -1,0 +1,1 @@
+{"source": "When reporting speedups, always distinguish asymptotic arithmetic from measured runtime. A kernel can", "zh": "报告加速时，始终将渐近算术与测量的运行时间区分开来。一个内核可以"}

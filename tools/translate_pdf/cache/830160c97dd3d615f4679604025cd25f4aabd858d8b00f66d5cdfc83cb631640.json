@@ -1,0 +1,1 @@
+{"source": "For dense self-attention over sequence lengthZXMATH0000XZ the QK and AV products contain a quadratic term in sequence length, roughly", "zh": "对于序列长度上的密集自注意力 ZXMATH0000XZ，QK 和 AV 产品包含序列长度的二次项，大致如下"}

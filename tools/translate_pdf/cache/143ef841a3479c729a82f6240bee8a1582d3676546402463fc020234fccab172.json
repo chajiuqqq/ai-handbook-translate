@@ -1,0 +1,1 @@
+{"source": "The nested Python loops would be disastrous at scale. Production systems group many tokens for the same expert and invoke batched/fused expert computation instead.", "zh": "大规模的嵌套 Python 循环将是灾难性的。生产系统将许多令牌分组为同一专家，并调用批量/融合专家计算。"}

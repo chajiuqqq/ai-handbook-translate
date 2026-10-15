@@ -1,0 +1,1 @@
+{"source": "Suppose a kernel uses 128 registers per thread and launches 256-thread blocks. Ignoring allocation granularity and other architectural limits for the moment, one block would request", "zh": "假设内核每个线程使用 128 个寄存器并启动 256 个线程块。暂时忽略分配粒度和其他架构限制，一个块将请求"}

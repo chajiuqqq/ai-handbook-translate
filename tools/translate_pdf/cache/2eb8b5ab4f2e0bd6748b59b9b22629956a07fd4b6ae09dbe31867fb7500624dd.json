@@ -1,0 +1,1 @@
+{"source": "Only the small shared RoPE key must be added to the persistent cache alongside the K/V latent. The large content keys can remain implicit through projection absorption.", "zh": "只有小型共享 RoPE 密钥必须与 K/V 潜在密钥一起添加到持久缓存中。大的内容键可以通过投影吸收保持隐式。"}

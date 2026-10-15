@@ -1,0 +1,1 @@
+{"source": "If a requested fused kernel cannot run for the supplied inputs, ZXNAME0000XZ can warn with reasons when other fallbacks are disabled. Backend eligibility depends on device, dtype, shape, mask, and other arguments.[10]", "zh": "如果请求的融合内核无法针对提供的输入运行，ZXNAME0000XZ 可以在禁用其他回退时发出警告并说明原因。后端资格取决于设备、数据类型、形状、掩码和其他参数。[10]"}

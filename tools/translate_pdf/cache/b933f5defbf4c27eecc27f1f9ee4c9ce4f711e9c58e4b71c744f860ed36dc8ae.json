@@ -1,0 +1,1 @@
+{"source": "Eligible means a resident warp is ready to issue its next instruction rather than being blocked by a dependency or synchronization condition. Issued means the scheduler actually selected that warp to dispatch an instruction in that scheduling opportunity.[3]", "zh": "合格意味着常驻扭曲已准备好发出其下一条指令，而不是被依赖性或同步条件阻止。已发出意味着调度程序实际上选择了该 warp 在该调度机会中调度指令。 [3]"}

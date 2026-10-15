@@ -1,0 +1,1 @@
+{"source": "Quantization is lossy in the ordinary case because multiple high-precision values map to the same code. The engineering goal is not to preserve every number exactly. It is to preserve the model behavior that matters while reducing memory, bandwidth, or compute cost.", "zh": "在普通情况下，量化是有损的，因为多个高精度值映射到相同的代码。工程目标不是准确保留每个数字。它是在减少内存、带宽或计算成本的同时保留重要的模型行为。"}

@@ -1,0 +1,1 @@
+{"source": "Backward recomputation is intentional. It spends extra matrix-multiply work to avoid reading and writing a giant probability tensor, which can be a favorable trade on GPUs.", "zh": "向后重新计算是有意的。它花费额外的矩阵乘法工作来避免读取和写入巨大的概率张量，这对 GPU 来说是一个有利的交易。"}

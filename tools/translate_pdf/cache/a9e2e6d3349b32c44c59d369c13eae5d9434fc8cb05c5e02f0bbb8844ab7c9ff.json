@@ -1,0 +1,1 @@
+{"source": "A dense retriever builds an embedding for each document or passage, stores those vectors in an index, then embeds a query and searches for high-scoring vectors.", "zh": "密集检索器为每个文档或段落构建嵌入，将这些向量存储在索引中，然后嵌入查询并搜索高分向量。"}

@@ -1,0 +1,1 @@
+{"source": "FA2 makes this contrast explicit: one of its goals is to reduce non-matmul FLOPs, because those operations do not enjoy the same throughput as tensor-core GEMMs. The paper also improves work partitioning so more of the ZXNAME0000XZ is occupied.[5]", "zh": "FA2 明确了这一对比：其目标之一是减少非 matmul FLOP，因为这些操作不享有与张量核心 GEMM 相同的吞吐量。该论文还改进了工作分区，因此占用了更多的 ZXNAME0000XZ。[5]"}

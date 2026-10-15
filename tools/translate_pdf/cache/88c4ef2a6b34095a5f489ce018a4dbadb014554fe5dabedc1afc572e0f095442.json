@@ -1,0 +1,1 @@
+{"source": "SmoothQuant targets W8A8 post-training quantization for ZXNAME0000XZ matrix multiplications. Its core observation is that weights are typically easier to quantize than activations with strong outliers.", "zh": "SmoothQuant 针对 ZXNAME0000XZ 矩阵乘法的 W8A8 训练后量化。其核心观察是权重通常比具有强异常值的激活更容易量化。"}

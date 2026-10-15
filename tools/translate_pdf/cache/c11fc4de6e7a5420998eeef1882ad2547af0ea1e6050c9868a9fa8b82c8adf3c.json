@@ -1,0 +1,1 @@
+{"source": "Important. “ZXNAME0000XZ training is sparse, so inference is automatically fast” is not a valid deduction. Sparse arithmetic helps only if the serving implementation can exploit the resulting routing pattern efficiently.", "zh": "重要。 “ZXNAME0000XZ 训练是稀疏的，因此推理自动很快”并不是一个有效的推论。仅当服务实现可以有效地利用生成的路由模式时，稀疏算术才有用。"}

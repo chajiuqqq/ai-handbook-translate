@@ -1,0 +1,1 @@
+{"source": "Important. The residual branch receives the attention output projection, not the attentionprobability matrix. Attention weights are an intermediate.", "zh": "重要。残差分支接收注意力输出投影，而不是注意力概率矩阵。注意力权重是中间值。"}

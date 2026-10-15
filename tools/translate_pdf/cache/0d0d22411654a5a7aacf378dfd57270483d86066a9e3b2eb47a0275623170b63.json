@@ -1,0 +1,1 @@
+{"source": "This is why activation quantization can be harder than weight quantization. The activation distribution also changes with input and runtime state, while weights are fixed after training.", "zh": "这就是为什么激活量化比权重量化更难。激活分布也会随着输入和运行时状态而变化，而权重在训练后是固定的。"}

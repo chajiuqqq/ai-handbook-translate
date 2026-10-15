@@ -1,0 +1,1 @@
+{"source": "Given an input prompt, the model computes K/V states for many prompt positions in parallel at each layer, subject to causal masking. These states populate the initial cache.", "zh": "给定输入提示，模型会在每一层并行计算许多提示位置的 K/V 状态，并受到因果屏蔽的影响。这些状态填充初始缓存。"}

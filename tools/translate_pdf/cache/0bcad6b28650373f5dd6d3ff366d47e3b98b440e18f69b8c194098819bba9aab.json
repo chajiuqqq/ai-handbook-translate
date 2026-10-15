@@ -1,0 +1,1 @@
+{"source": "PagedAttention was introduced to address memory management of the KV cache in ZXNAME0000XZ serving: fragmentation, allocation, sharing, and flexible placement of cache blocks.ZXMATH0000XZ", "zh": "引入PagedAttention来解决ZXNAME0000XZ服务中KV缓存的内存管理：缓存块的碎片、分配、共享和灵活放置。ZXMATH0000XZ"}

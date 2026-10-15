@@ -1,0 +1,1 @@
+{"source": "The embedding row is a model parameter. It is not the tokenizer’s definition of the token, and token IDs themselves do not contain geometry. IDs merely select rows.", "zh": "嵌入行是模型参数。它不是标记生成器对标记的定义，并且标记 ID 本身不包含几何图形。 ID 仅选择行。"}

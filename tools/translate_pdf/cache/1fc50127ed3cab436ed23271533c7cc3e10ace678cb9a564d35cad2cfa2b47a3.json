@@ -1,0 +1,1 @@
+{"source": "2. A kernel is not permanently compute-bound or memory-bound by name. Shape, dtype, batch size, cache behavior, fusion, and ZXNAME0000XZ generation can change the bottleneck.", "zh": "2. 内核并不是通过名称永久地受计算限制或内存限制。形状、数据类型、批量大小、缓存行为、融合和 ZXNAME0000XZ 生成可以改变瓶颈。"}

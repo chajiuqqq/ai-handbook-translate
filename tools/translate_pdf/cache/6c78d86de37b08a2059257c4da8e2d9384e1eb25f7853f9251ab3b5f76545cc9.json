@@ -1,0 +1,1 @@
+{"source": "• why cache memory scales linearly with cached tokens, layers, KV heads, head dimension, and bytes per element;", "zh": "• 为什么缓存内存会随着缓存的令牌、层、KV 头、头尺寸和每个元素的字节数线性扩展；"}

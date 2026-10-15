@@ -1,0 +1,1 @@
+{"source": "Memory optimization starts with lifetime. Ask not only “How big is this tensor?” but “Who will reuse it, how soon, and at what scope?” The right storage strategy for immutable weights can be completely wrong for short-lived activation tiles.", "zh": "内存优化从生命周期开始。不仅要问“这个张量有多大？”而是“谁会重复使用它，多久，以及在什么范围内？”对于不可变权重的正确存储策略对于短期激活图块来说可能是完全错误的。"}

@@ -1,0 +1,90 @@
+[
+  {
+    "number": 1,
+    "slug": "RAG_Context_Engineering",
+    "title": "RAG & Context Engineering",
+    "status": "downloaded",
+    "source_pages": 8,
+    "path": "originals/01_RAG_Context_Engineering.pdf"
+  },
+  {
+    "number": 2,
+    "slug": "How_Attention_Works",
+    "title": "How Attention Works",
+    "status": "downloaded",
+    "source_pages": 33,
+    "path": "originals/02_How_Attention_Works.pdf"
+  },
+  {
+    "number": 3,
+    "slug": "Understanding_KV_Cache",
+    "title": "Understanding KV Cache",
+    "status": "downloaded",
+    "source_pages": 33,
+    "path": "originals/03_Understanding_KV_Cache.pdf"
+  },
+  {
+    "number": 4,
+    "slug": "Understanding_FlashAttention",
+    "title": "Understanding FlashAttention",
+    "status": "downloaded",
+    "source_pages": 43,
+    "path": "originals/04_Understanding_FlashAttention.pdf"
+  },
+  {
+    "number": 5,
+    "slug": "MHA_MQA_GQA_MLA",
+    "title": "Understanding MHA, MQA, GQA & MLA",
+    "status": "downloaded",
+    "source_pages": 40,
+    "path": "originals/05_MHA_MQA_GQA_MLA.pdf"
+  },
+  {
+    "number": 6,
+    "slug": "GPU_Utilization_Performance",
+    "title": "GPU Utilization / Performance Handbook",
+    "status": "downloaded",
+    "source_pages": 42,
+    "path": "originals/06_GPU_Utilization_Performance.pdf"
+  },
+  {
+    "number": 7,
+    "slug": "GPU_Memory_Hierarchy",
+    "title": "GPU Memory Hierarchy",
+    "status": "downloaded",
+    "source_pages": 42,
+    "path": "originals/07_GPU_Memory_Hierarchy.pdf"
+  },
+  {
+    "number": 8,
+    "slug": "Mixture_of_Experts",
+    "title": "Mixture of Experts (MoE)",
+    "status": "downloaded",
+    "source_pages": 38,
+    "path": "originals/08_Mixture_of_Experts.pdf"
+  },
+  {
+    "number": 9,
+    "slug": "Embeddings",
+    "title": "Embeddings",
+    "status": "downloaded",
+    "source_pages": 39,
+    "path": "originals/09_Embeddings.pdf"
+  },
+  {
+    "number": 10,
+    "slug": "Transformer_Block",
+    "title": "The Transformer Block",
+    "status": "downloaded",
+    "source_pages": 41,
+    "path": "originals/10_Transformer_Block.pdf"
+  },
+  {
+    "number": 11,
+    "slug": "Quantization",
+    "title": "Quantization",
+    "status": "downloaded",
+    "source_pages": 41,
+    "path": "originals/11_Quantization.pdf"
+  }
+]

@@ -1,0 +1,1 @@
+{"source": "The attention branch is where token positions can exchange information. That makes it fundamentally different from the MLP branch, which applies the same feature transformation independently to each token position.", "zh": "注意力分支是代币位置可以交换信息的地方。这使得它与 MLP 分支有根本的不同，MLP 分支独立地将相同的特征变换应用于每个 token 位置。"}

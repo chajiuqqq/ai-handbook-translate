@@ -1,0 +1,1 @@
+{"source": "In an integer pipeline, inputs and weights may be represented as integers, matrix multiplication accumulates into a wider integer type, and scale factors convert the result to the next numerical domain. Jacob et al. developed this style for integer-arithmetic-only inference.", "zh": "在整数管道中，输入和权重可以表示为整数，矩阵乘法累加为更宽的整数类型，比例因子将结果转换到下一个数值域。雅各布等人。开发了这种仅用于整数算术推理的风格。"}

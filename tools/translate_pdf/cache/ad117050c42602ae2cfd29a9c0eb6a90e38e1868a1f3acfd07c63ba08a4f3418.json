@@ -1,0 +1,1 @@
+{"source": "PagedAttention applies an operating-systems-inspired idea to KV state. A sequence is divided into logical token blocks. Those logical blocks can reside in arbitrary available physical KV-cache blocks.", "zh": "PagedAttention 将受操作系统启发的思想应用于 KV 状态。序列被划分为逻辑令牌块。这些逻辑块可以驻留在任意可用的物理 KV 缓存块中。"}

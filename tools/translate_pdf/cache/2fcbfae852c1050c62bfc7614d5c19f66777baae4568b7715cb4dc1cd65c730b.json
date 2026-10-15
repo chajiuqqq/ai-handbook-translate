@@ -1,0 +1,1 @@
+{"source": "The online-softmax recurrence is still present conceptually. What changes is the hardware pipeline used to execute the score, normalization, and value-accumulation stages.", "zh": "online-softmax 递归在概念上仍然存在。变化的是用于执行评分、标准化和值累积阶段的硬件管道。"}

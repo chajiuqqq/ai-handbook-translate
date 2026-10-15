@@ -1,0 +1,1 @@
+{"source": "Teach the principle first, then the vendor mechanism. “Stage a reusable tile on chip” is portable reasoning. “Use this exact shared-memory carveout” or “assume this cache size” is architecture-specific advice.", "zh": "先讲原理，再讲厂商机制。 “在芯片上部署可重复使用的图块”是可移植的推理。 “使用这个精确的共享内存剥离”或“假设这个缓存大小”是特定于体系结构的建议。"}

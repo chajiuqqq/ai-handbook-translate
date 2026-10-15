@@ -1,0 +1,1 @@
+{"source": "This handbook focuses on decoder-style autoregressive inference because that is where persistent KV-cache capacity and repeated cache reads become especially important. Training behavior is discussed separately where the distinction matters.", "zh": "本手册重点介绍解码器式自回归推理，因为持久 KV 缓存容量和重复缓存读取变得尤为重要。当区别很重要时，训练行为将单独讨论。"}

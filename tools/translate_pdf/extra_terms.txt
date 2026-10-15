@@ -1,0 +1,289 @@
+Retrieval-augmented Generation|检索增强生成|RAG
+Context Engineering|上下文工程|
+Prompt Engineering|提示词工程|
+Parametric Knowledge|参数化知识|
+Retrieval|检索|
+Retriever|检索器|
+Reranking|重排序|
+Reranker|重排序器|
+Chunking|分块|
+Chunk Size|块大小|
+Chunk Overlap|块重叠|
+Semantic Chunking|语义分块|
+Structure-aware Chunking|结构感知分块|
+Fixed-size Chunking|固定大小分块|
+Contextual Retrieval|上下文检索|
+Late Chunking|延迟分块|
+Hierarchical Retrieval|层次检索|
+Query Transformation|查询变换|
+Query Rewriting|查询改写|
+Query Expansion|查询扩展|
+Hypothetical Document Embeddings|假设文档嵌入|HyDE
+Multi-query Retrieval|多查询检索|
+Rank Fusion|排名融合|
+Reciprocal Rank Fusion|倒数排名融合|RRF
+Multi-hop Question|多跳问题|
+Context Compression|上下文压缩|
+Context Assembly|上下文组装|
+Context Window|上下文窗口|
+Fine-tuning|微调|
+Continued Pretraining|继续预训练|
+Pretraining|预训练|
+Hallucination|幻觉|
+Provenance|来源溯源|
+Prompt Injection|提示词注入|
+Poisoning|投毒|
+Access Control|访问控制|
+Re-indexing|重新建立索引|
+Index|索引|
+Parsing|解析|
+Citation|引用|
+Evidence|证据|
+Grounding|依据锚定|
+Precision|精确率／精度|
+Recall|召回率|
+Online Softmax|在线 Softmax|
+Blockwise Merge|分块合并|
+Forward Pass|前向传播|
+Backward Pass|反向传播|
+IO Complexity|输入输出复杂度|
+Auxiliary Memory|辅助内存|
+Bitwise Identity|逐位一致性|
+Recomputation|重计算|
+Materialization|物化|
+Floating-point|浮点|
+Floating Point|浮点|
+Attention Distribution|注意力分布|
+Latent Representation|潜在表示|
+Latent Compression|潜在压缩|
+Low-rank Compression|低秩压缩|
+KV-head Multiplicity|键值头数量|
+Cache Capacity|缓存容量|
+Cache Payload|缓存有效载荷|
+Projection Matrix|投影矩阵|
+Absorbed Projection|吸收后的投影|
+Decoupled Positional Component|解耦的位置分量|
+Model Capacity|模型容量|
+GPU Utilization|GPU 利用率|
+Performance|性能|
+Throughput|吞吐量|
+Latency|延迟|
+Occupancy|占用率|
+SM Utilization|SM 利用率|
+Memory Utilization|内存利用率|
+Compute-bound|计算受限|
+Memory-bound|内存受限|
+Bandwidth-bound|带宽受限|
+Latency-bound|延迟受限|
+Roofline Model|屋顶线模型|
+Arithmetic Intensity|算术强度|
+Operational Intensity|运算强度|
+FLOPs|浮点运算次数|FLOPs
+FLOPS|每秒浮点运算次数|FLOPS
+Tensor Core|张量核心|
+CUDA Core|CUDA 核心|
+Streaming Multiprocessor|流式多处理器|SM
+Kernel Launch|内核启动|
+Launch Overhead|启动开销|
+Synchronization|同步|
+Pipeline|流水线|
+Profiling|性能剖析|
+Profiler|性能剖析器|
+Batching|批处理|
+Batch Size|批大小|
+Dynamic Batching|动态批处理|
+Continuous Batching|连续批处理|
+Time to First Token|首词元延迟|TTFT
+Inter-token Latency|词元间延迟|ITL
+Time per Output Token|每输出词元耗时|TPOT
+Tokens per Second|每秒词元数|
+GPU Memory Hierarchy|GPU 内存层次结构|
+Register|寄存器|
+Registers|寄存器|
+Register File|寄存器文件|
+Shared Memory|共享内存|
+Global Memory|全局内存|
+Local Memory|局部内存|
+Constant Memory|常量内存|
+Texture Cache|纹理缓存|
+L1 Cache|一级缓存|
+L2 Cache|二级缓存|
+Cache Line|缓存行|
+Cache Hit|缓存命中|
+Cache Miss|缓存未命中|
+Coalescing|合并访问|
+Coalesced Access|合并访问|
+Memory Coalescing|内存访问合并|
+Bank Conflict|存储体冲突|
+Memory Transaction|内存事务|
+Memory Access|内存访问|
+Memory Bandwidth|内存带宽|
+Data Movement|数据移动|
+Host Memory|主机内存|
+Device Memory|设备内存|
+Unified Memory|统一内存|
+Page Fault|缺页异常|
+Prefetching|预取|
+Double Buffering|双缓冲|
+Asynchronous Copy|异步复制|
+Tensor Memory Accelerator|张量内存加速器|TMA
+Spilling|溢出|
+Register Pressure|寄存器压力|
+Working Set|工作集|
+Memory Pool|内存池|
+Fragmentation|碎片化|
+Mixture of Experts|混合专家|MoE
+Mixture-of-Experts|混合专家|MoE
+Expert|专家|
+Experts|专家|
+Router|路由器|
+Routing|路由|
+Sparse Activation|稀疏激活|
+Active Parameters|激活参数|
+Total Parameters|总参数|
+Load Balancing|负载均衡|
+Load-balancing Loss|负载均衡损失|
+Auxiliary Loss|辅助损失|
+Expert Capacity|专家容量|
+Capacity Factor|容量因子|
+Token Dropping|词元丢弃|
+Expert Parallelism|专家并行|
+All-to-all|全对全通信|
+Dispatch|分派|
+Combine|合并|
+Shared Expert|共享专家|
+Fine-grained Experts|细粒度专家|
+Expert Specialization|专家专门化|
+Embedding|嵌入|
+Embeddings|嵌入向量|
+Embedding Matrix|嵌入矩阵|
+Embedding Space|嵌入空间|
+Word Embedding|词嵌入|
+Sentence Embedding|句子嵌入|
+Document Embedding|文档嵌入|
+Contextual Embedding|上下文嵌入|
+Static Embedding|静态嵌入|
+Dense Vector|稠密向量|
+Sparse Vector|稀疏向量|
+Cosine Similarity|余弦相似度|
+Euclidean Distance|欧氏距离|
+Vector Database|向量数据库|
+Nearest Neighbor|最近邻|
+Approximate Nearest Neighbor|近似最近邻|ANN
+Contrastive Learning|对比学习|
+Negative Sampling|负采样|
+Tokenization|分词|
+Tokenizer|分词器|
+Vocabulary|词表|
+Subword|子词|
+Weight Tying|权重绑定|
+Anisotropy|各向异性|
+Pooling|池化|
+Mean Pooling|平均池化|
+Normalization|归一化|
+Unit Vector|单位向量|
+Transformer Block|Transformer 块|
+Residual Stream|残差流|
+Residual Path|残差路径|
+Layer Normalization|层归一化|LayerNorm
+LayerNorm|层归一化|LayerNorm
+RMSNorm|均方根归一化|RMSNorm
+Pre-norm|前置归一化|
+Post-norm|后置归一化|
+Feed-forward|前馈|
+Feed-forward Network|前馈网络|FFN
+Multilayer Perceptron|多层感知机|MLP
+Multi-layer Perceptron|多层感知机|MLP
+Gated Linear Unit|门控线性单元|GLU
+Gating|门控|
+Activation Function|激活函数|
+Residual Connection|残差连接|
+Output Head|输出头|
+Unembedding|解嵌入|
+Quantization|量化|
+Quantized|量化后的|
+Dequantization|反量化|
+Quantization Error|量化误差|
+Quantization Scale|量化尺度|
+Zero Point|零点|
+Zero-point|零点|
+Clipping|截断|
+Rounding|舍入|
+Symmetric Quantization|对称量化|
+Asymmetric Quantization|非对称量化|
+Per-tensor|逐张量|
+Per-channel|逐通道|
+Per-group|逐组|
+Group Size|组大小|
+Weight-only Quantization|仅权重量化|
+Activation Quantization|激活量化|
+Post-training Quantization|训练后量化|PTQ
+Quantization-aware Training|量化感知训练|QAT
+Calibration|校准|
+Calibration Dataset|校准数据集|
+Outlier|离群值|
+Mixed Precision|混合精度|
+Numerical Precision|数值精度|
+Dynamic Range|动态范围|
+Effective Bits|有效位数|
+Bit Width|位宽|
+Packing|打包|
+Packed Weight|打包权重|
+Quantized Kernel|量化内核|
+Fused Kernel|融合内核|
+Integer Arithmetic|整数运算|
+Low-bit|低比特|
+Accuracy|准确性|
+Perplexity|困惑度|
+Saturation|饱和|
+Generation|生成|
+Generator|生成器|
+Ground Truth|基准真值|
+Warp|线程束|
+Warps|线程束|
+Wavefront|波前|
+Core|核心|
+Tensor Cores|张量核心|
+CUDA Cores|CUDA 核心|
+TensorCore|张量核心|
+SM|流式多处理器|SM
+SIMT|单指令多线程|SIMT
+SIMD|单指令多数据|SIMD
+GPU Generation|GPU 代际|
+GPU Generations|GPU 代际|
+Generational|代际的|
+FP32|32 位浮点|FP32
+FLOP|浮点运算|
+FLOP Count|浮点运算次数|
+FLOP/s|每秒浮点运算次数|FLOP/s
+Query Heads|查询头|
+KV Heads|键值头|
+Key Heads|键头|
+Value Heads|值头|
+Heads|头|
+Keys|键|
+Values|值|
+Queries|查询|
+Tokens|词元|
+Head Dimension|头维度|
+Head Width|头宽度|
+Model|模型|
+Models|模型|
+Operator|算子|
+Operators|算子|
+Matmul|矩阵乘法|
+Accumulator|累加器|
+Accumulation|累加|
+GEMM|通用矩阵乘法|GEMM
+MMA|矩阵乘加|MMA
+SwiGLU|SwiGLU 门控激活|
+Scale Factor|尺度因子|
+Scaling Factor|缩放因子|
+Codebook|码本|
+Resident|驻留|
+Residency|驻留状态|
+Eligible Warps|可调度线程束|
+Active Lanes|活动通道|
+Dispatching|分派|
+Serving|推理服务|
+Mental Model|理解框架|

@@ -1,0 +1,1 @@
+{"source": "The memory question is not “Is this operation simple?” It is “How many bytes must cross each level for the useful work performed?” A one-line elementwise formula can be expensive when applied to billions of values with little reuse.", "zh": "记忆问题不是“这个操作简单吗？”它是“每个级别必须跨越多少字节才能执行有用的工作？”当应用于数十亿个几乎没有重用的值时，单行元素公式可能会很昂贵。"}

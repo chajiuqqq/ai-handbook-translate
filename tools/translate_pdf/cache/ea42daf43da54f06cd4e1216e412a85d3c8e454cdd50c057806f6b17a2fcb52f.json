@@ -1,0 +1,1 @@
+{"source": "Consider a hypothetical kernel that reads 4 GiB and writes 4 GiB in 5 ms. That is 8 GiB of useful application traffic. In decimal bytes per second,", "zh": "假设一个内核在 5 毫秒内读取 4 GiB 并写入 4 GiB。这是 8 GiB 的有用应用程序流量。以十进制字节每秒为单位，"}

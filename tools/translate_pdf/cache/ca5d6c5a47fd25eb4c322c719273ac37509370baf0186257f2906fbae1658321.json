@@ -1,0 +1,1 @@
+{"source": "Important. A model may be mathematically sparse while being operationally inefficient if its assignment matrix creates tiny expert batches, severe imbalance, or expensive communication.", "zh": "重要。如果模型的分配矩阵产生很小的专家批次、严重的不平衡或昂贵的通信，那么该模型可能在数学上稀疏，而在操作上效率低下。"}

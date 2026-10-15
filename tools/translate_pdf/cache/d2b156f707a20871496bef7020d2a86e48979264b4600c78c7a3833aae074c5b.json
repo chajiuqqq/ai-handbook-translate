@@ -1,0 +1,1 @@
+{"source": "Mental model. The durable abstraction is not “attention followed by an MLP.” It is a residual state repeatedly updated by token-mixing and feature-mixing computations whose normalization, routing, and attention details are architecture-specific.", "zh": "心智模型。持久的抽象不是“MLP 后的注意力”。它是通过令牌混合和特征混合计算反复更新的残余状态，其归一化、路由和注意细节是特定于架构的。"}

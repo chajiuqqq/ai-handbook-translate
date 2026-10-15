@@ -1,0 +1,1 @@
+{"source": "The PaLM paper reports that this enabled fusion of the attention and MLP input matrix multiplications and produced roughly 15% faster training at large scale in their setup, while their ablations showed scale-dependent quality effects. [10]", "zh": "PaLM 论文报告称，这使得注意力和 MLP 输入矩阵乘法得以融合，并在其设置中将大规模训练速度提高了约 15%，同时其消融显示出与规模相关的质量效应。 [10]"}

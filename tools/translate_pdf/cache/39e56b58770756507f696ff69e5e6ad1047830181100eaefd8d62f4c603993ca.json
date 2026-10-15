@@ -1,0 +1,1 @@
+{"source": "During training, backpropagation needs information from the forward pass. Transformer blocks can therefore consume substantial activation memory in addition to weight, gradient, and optimizerstate memory.", "zh": "在训练期间，反向传播需要来自前向传播的信息。因此，除了权重、梯度和优化器状态内存之外，变压器块还会消耗大量激活内存。"}

@@ -1,0 +1,1 @@
+{"source": "“Exact” does not mean “bitwise identical to every reference kernel.” It means the algorithm is not intentionally changing dense softmax attention to reduce the mathematical work.", "zh": "“精确”并不意味着“与每个参考内核按位相同”。这意味着该算法没有故意改变密集的softmax注意力来减少数学工作。"}

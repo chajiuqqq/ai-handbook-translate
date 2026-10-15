@@ -1,0 +1,1 @@
+{"source": "Important. Always write the quantization target explicitly. W4A16 means 4-bit weights with 16-bit activations; accumulator precision is separately defined by the kernel. It is not the same system as W4A8 or 4-bit KV cache.", "zh": "重要。始终明确写入量化目标。 W4A16 表示 4 位权重，16 位激活；累加器精度由内核单独定义。它与 W4A8 或 4 位 KV 缓存不是同一系统。"}

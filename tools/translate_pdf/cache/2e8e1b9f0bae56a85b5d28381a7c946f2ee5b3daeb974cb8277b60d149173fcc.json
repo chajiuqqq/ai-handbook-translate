@@ -1,0 +1,1 @@
+{"source": "Changing any of these can make new vectors incompatible with an existing index. Two models can both output 1024 dimensions yet inhabit unrelated coordinate systems.", "zh": "更改其中任何一个都可能使新向量与现有索引不兼容。两个模型都可以输出 1024 个维度，但位于不相关的坐标系中。"}

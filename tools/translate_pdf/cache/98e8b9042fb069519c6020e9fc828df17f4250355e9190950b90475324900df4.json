@@ -1,0 +1,1 @@
+{"source": "Cross-attention adds another residual sublayer because its queries come from the decoder state while its keys/values come from encoder representations. A decoder-only ZXNAME0000XZ omits that cross-attention sublayer entirely.", "zh": "交叉注意力添加了另一个残差子层，因为它的查询来自解码器状态，而它的键/值来自编码器表示。仅解码器 ZXNAME0000XZ 完全省略了交叉注意子层。"}

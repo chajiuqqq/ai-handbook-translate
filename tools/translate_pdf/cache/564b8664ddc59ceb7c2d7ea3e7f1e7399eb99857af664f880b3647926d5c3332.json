@@ -1,0 +1,1 @@
+{"source": "These choices can affect checkpoint compatibility, parameter counts, numerical behavior, and kernel selection. They should be read from the model’s paper/configuration/code rather than inferred from the word “Transformer.”", "zh": "这些选择会影响检查点兼容性、参数计数、数值行为和内核选择。它们应该从模型的论文/配置/代码中读取，而不是从“Transformer”一词中推断出来。"}

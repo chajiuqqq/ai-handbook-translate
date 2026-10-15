@@ -1,0 +1,1 @@
+{"source": "5. Inspect access geometry. Are warp requests coalesced? Are strides or layout causing extra sectors?", "zh": "5. 检查通道几何形状。 Are warp requests coalesced?步幅或布局是否会导致额外的扇区？"}

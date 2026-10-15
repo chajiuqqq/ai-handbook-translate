@@ -1,0 +1,1 @@
+{"source": "Jacob et al. combined quantization with training to enable integer-arithmetic-only inference, while current ZXNAME0000XZ APIs expose fake-quantization and observer modules for QAT workflows.", "zh": "雅各布等人。将量化与训练相结合，以实现仅整数算术推理，而当前的 ZXNAME0000XZ API 为 QAT 工作流程公开了假量化和观察者模块。"}

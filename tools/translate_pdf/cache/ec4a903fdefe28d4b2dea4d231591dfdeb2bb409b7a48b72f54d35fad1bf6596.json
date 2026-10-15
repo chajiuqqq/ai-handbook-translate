@@ -1,0 +1,1 @@
+{"source": "No. Global memory is an address space. A global load may be served by L1 or L2 before reaching device memory.", "zh": "不。全局内存是一个地址空间。全局负载在到达设备存储器之前可以由 L1 或 L2 提供服务。"}

@@ -1,0 +1,1 @@
+{"source": "DPR uses an analogous softmax ranking loss over a positive passage and negatives. E5 similarly trains text pairs with contrastive learning and in-batch negatives. [10,14]", "zh": "DPR 在正向通道和负向通道上使用类似的 softmax 排名损失。 E5 类似地通过对比学习和批量负例来训练文本对。 [10,14]"}

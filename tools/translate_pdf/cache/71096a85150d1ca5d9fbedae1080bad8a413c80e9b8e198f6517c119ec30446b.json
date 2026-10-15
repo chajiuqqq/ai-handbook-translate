@@ -1,0 +1,1 @@
+{"source": "QLoRA introduced NormalFloat 4 (NF4) for quantizing pretrained weights that are approximately normally distributed after normalization by a local absolute maximum.", "zh": "QLoRA 引入了 NormalFloat 4 (NF4)，用于量化预训练权重，这些权重在按局部绝对最大值归一化后近似正态分布。"}

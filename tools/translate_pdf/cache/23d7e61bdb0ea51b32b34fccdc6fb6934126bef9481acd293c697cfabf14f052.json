@@ -1,0 +1,1 @@
+{"source": "FA2 is a reminder that after IO is improved, the next bottleneck may be occupancy, warp communication, or non-matmul work. Optimization moves the bottleneck rather than making hardware constraints disappear.", "zh": "FA2 提醒的是，IO 改进后，下一个瓶颈可能是占用、warp 通信或非 matmul 工作。优化是移动瓶颈，而不是使硬件限制消失。"}

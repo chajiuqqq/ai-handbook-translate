@@ -1,0 +1,1 @@
+{"source": "For a neural network,ZXMATH0000XZ might be a weight, activation, gradient, optimizer state, or KV-cache element. These objects have different distributions and different sensitivity to error, so “the model is quantized” is not a complete specification.", "zh": "对于神经网络，ZXMATH0000XZ 可能是权重、激活、梯度、优化器状态或 KV 缓存元素。这些对象具有不同的分布和对误差的敏感度不同，因此“模型被量化”并不是一个完整的规范。"}

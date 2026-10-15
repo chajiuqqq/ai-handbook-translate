@@ -1,0 +1,1 @@
+{"source": "A model can be trained with ZXNAME0000XZ from scratch; it does not have to originate from an ZXNAME0001XZ checkpoint. Conversely, the mean-pooling initialization is part of the conversion recipe, not the mathematical definition of grouped-query attention.", "zh": "可以使用 ZXNAME0000XZ 从头开始训练模型；它不必源自 ZXNAME0001XZ 检查点。相反，均值池初始化是转换方法的一部分，而不是分组查询注意力的数学定义。"}

@@ -1,0 +1,1 @@
+{"source": "This idea is broader than attention. Kernel fusion, recomputation, tiling, and operator scheduling all exploit the same principle: sometimes extra local work is cheaper than moving a large intermediate out to ZXNAME0000XZ and back.", "zh": "这个想法比注意力更广泛。内核融合、重新计算、平铺和运算符调度都利用相同的原理：有时额外的本地工作比将大型中间移出到 ZXNAME0000XZ 并返回要便宜。"}

@@ -1,0 +1,1 @@
+{"source": "The paper’s stated motivation is to reduce activation memory during training. It explicitly notes that query compression does not reduce the inference KV cache.ZXMATH0000XZ", "zh": "该论文的目的是减少训练期间的激活记忆。它明确指出查询压缩不会减少推理KV缓存。ZXMATH0000XZ"}

@@ -1,0 +1,1 @@
+{"source": "This is different from simply rounding every weight independently. GPTQ tries to minimize the effect of quantization on the layer’s outputs under representative inputs.", "zh": "这与简单地独立地对每个权重进行舍入不同。 GPTQ 尝试在代表性输入下最小化量化对层输出的影响。"}

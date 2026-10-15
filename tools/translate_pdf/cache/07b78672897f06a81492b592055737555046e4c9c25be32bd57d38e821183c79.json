@@ -1,0 +1,1 @@
+{"source": "Autoregressive serving changes shape from long-prompt prefill to one/few-query decode steps, so the same model can stress hardware differently across phases. The exact bottleneck depends on batching, context length, kernel choice, and system design.", "zh": "自回归服务将形状从长提示预填充更改为一个/几个查询解码步骤，因此同一模型可以在不同阶段对硬件施加不同的压力。确切的瓶颈取决于批处理、上下文长度、内核选择和系统设计。"}

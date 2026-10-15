@@ -1,0 +1,1 @@
+{"source": "During inference, the task is different. There is no backward pass and training-only auxiliary losses are not optimized, but the model still has to compute routing decisions, dispatch token states, execute selected experts, and combine outputs.", "zh": "在推理过程中，任务是不同的。没有后向传递，仅训练辅助损失也没有优化，但模型仍然需要计算路由决策、调度令牌状态、执行选定的专家并组合输出。"}

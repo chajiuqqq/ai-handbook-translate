@@ -1,0 +1,1 @@
+{"source": "4. Which hardware resource is limiting progress? Arithmetic pipelines, Tensor Cores, memory bandwidth, latency, instruction issue, synchronization, or host-side overhead can become the bottleneck under different workloads.[2,3]", "zh": "4. 哪些硬件资源限制了进度？算术管道、Tensor Core、内存带宽、延迟、指令发布、同步或主机端开销可能成为不同工作负载下的瓶颈。[2,3]"}

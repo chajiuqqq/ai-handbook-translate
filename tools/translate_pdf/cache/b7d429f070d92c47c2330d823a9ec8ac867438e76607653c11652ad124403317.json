@@ -1,0 +1,1 @@
+{"source": "Coalescing is a traffic-efficiency concept. It reduces the number of memory segments needed for a warp’s request. It should not be simplified to “threads must always access consecutive addresses.”", "zh": "合并是一个流量效率的概念。它减少了 warp 请求所需的内存段数量。它不应该被简化为“线程必须始终访问连续的地址”。"}

@@ -1,0 +1,1 @@
+{"source": "Current Megatron Core documents All-to-All, AllGather, and flexible token-dispatch backends. Its All-to-All dispatcher explicitly performs dispatch to expert ranks, expert-major reordering, then a combine communication and unpermutation.", "zh": "当前的威震天核心记录了 All-to-All、AllGather 和灵活的令牌分发后端。它的 All-to-All 调度程序明确地执行对专家级别的调度、专家专业重新排序，然后组合通信和重新排列。"}

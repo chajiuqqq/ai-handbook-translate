@@ -1,0 +1,1 @@
+{"source": "Pooling can also be model-specific. Sentence Transformers currently supports strategies including CLS, max, mean, weighted mean, and last-token pooling. [20]", "zh": "池化也可以是特定于模型的。 Sentence Transformers 目前支持的策略包括 CLS、最大值、平均值、加权平均值和最后标记池。 [20]"}

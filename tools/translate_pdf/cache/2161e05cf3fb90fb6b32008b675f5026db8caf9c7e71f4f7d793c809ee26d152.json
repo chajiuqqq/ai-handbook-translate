@@ -1,0 +1,1 @@
+{"source": "9. Forgetting that long inputs may be truncated. The resulting vector may represent only the retained prefix or model-specific window behavior.", "zh": "9. 忘记长输入可能会被截断。所得向量可能仅表示保留的前缀或特定于模型的窗口行为。"}

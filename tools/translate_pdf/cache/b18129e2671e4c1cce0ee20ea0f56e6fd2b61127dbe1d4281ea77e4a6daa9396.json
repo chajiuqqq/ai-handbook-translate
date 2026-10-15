@@ -1,0 +1,1 @@
+{"source": "Current ZXNAME0000XZ provides optional per-request cache_salt. The salt is incorporated into the first block’s cache identity so only requests that share the salt can reuse those blocks, creating a trust boundary for cache sharing.", "zh": "当前ZXNAME0000XZ提供可选的每个请求cache_salt。 salt 被合并到第一个块的缓存标识中，因此只有共享 salt 的请求才能重用这些块，从而为缓存共享创建信任边界。"}

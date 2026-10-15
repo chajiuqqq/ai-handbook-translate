@@ -1,0 +1,1 @@
+{"source": "caching, the model computes the new token’s K/V once, appends them to the cache, and reuses the stored history on subsequent steps.", "zh": "缓存时，模型计算一次新令牌的 K/V，将它们附加到缓存中，并在后续步骤中重用存储的历史记录。"}

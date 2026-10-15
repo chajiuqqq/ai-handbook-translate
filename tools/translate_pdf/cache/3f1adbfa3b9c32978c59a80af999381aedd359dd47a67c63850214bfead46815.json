@@ -1,0 +1,1 @@
+{"source": "DPR compared random negatives, BM25-retrieved negatives, and passages paired with other questions. It also showed how in-batch negatives reuse the other passages in a batch, producing a ZXMATH0000XZ score matrix fromZXMATH0001XZ query-document pairs. [10]", "zh": "DPR 比较了随机阴性、BM25 检索的阴性以及与其他问题配对的段落。它还展示了批内否定如何重用批次中的其他段落，从 ZXMATH0001XZ 查询文档对生成 ZXMATH0000XZ 分数矩阵。 [10]"}

@@ -1,0 +1,1 @@
+{"source": "Dynamic quantization typically stores quantized weights ahead of time but derives activation scales from the current runtime tensor. This adapts to input variation but adds runtime work.", "zh": "动态量化通常提前存储量化权重，但从当前运行时张量导出激活尺度。这会适应输入变化，但会增加运行时工作。"}

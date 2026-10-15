@@ -1,0 +1,1 @@
+{"source": "On the other hand, explicit staging is not always worth doing. If data has little reuse, if accesses already hit well in cache, or if the staging adds too much synchronization and copying, a shared-memory version can be slower than a simpler cached path.", "zh": "另一方面，明确的分期并不总是值得做的。如果数据几乎没有重用，如果访问已经在缓存中命中，或者如果暂存添加了太多同步和复制，则共享内存版本可能会比更简单的缓存路径慢。"}

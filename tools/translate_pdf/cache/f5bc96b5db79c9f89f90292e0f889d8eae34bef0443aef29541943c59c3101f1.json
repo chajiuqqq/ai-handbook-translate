@@ -1,0 +1,1 @@
+{"source": "BASE formulates token-to-expert allocation as a balanced linear assignment problem. Its design enforces equal numbers of tokens per expert and therefore avoids an auxiliary balancing loss in that formulation.", "zh": "BASE 将代币到专家的分配制定为平衡线性分配问题。其设计强制每个专家拥有相同数量的代币，因此避免了该公式中的辅助平衡损失。"}

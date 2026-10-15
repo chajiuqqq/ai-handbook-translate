@@ -1,0 +1,1 @@
+{"source": "Mental model. Bit-width is only one dimension of a quantization scheme. The mapping, scale granularity, calibration rule, and kernel are equally important.", "zh": "心智模型。位宽只是量化方案的一维。映射、尺度粒度、校准规则和核同样重要。"}

@@ -1,0 +1,1 @@
+{"source": "A lower FLOP count can run slower than a higher FLOP count if the first workload moves bytes inefficiently and the second reuses data well. FLOPs and traffic are independent accounting dimensions.", "zh": "如果第一个工作负载移动字节效率低下，而第二个工作负载重用数据良好，则较低的 FLOP 计数可能会比较高的 FLOP 计数运行得更慢。 FLOPs 和流量是独立的核算维度。"}

@@ -1,0 +1,1 @@
+{"source": "The query heads remain distinct. The reduction comes from K/V sharing, not from deleting query heads.", "zh": "查询头保持不同。减少来自 K/V 共享，而不是删除查询头。"}

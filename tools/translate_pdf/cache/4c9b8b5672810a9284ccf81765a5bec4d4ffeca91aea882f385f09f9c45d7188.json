@@ -1,0 +1,1 @@
+{"source": "Elementwise operations often touch a large tensor, perform a small amount of arithmetic per element, and move on. Matrix multiplication repeatedly combines the same input tiles to produce many outputs. Those two structures place very different demands on the memory hierarchy.", "zh": "元素运算通常涉及一个大张量，对每个元素执行少量算术，然后继续。矩阵乘法重复组合相同的输入块以产生许多输出。这两种结构对内存层次结构提出了截然不同的要求。"}

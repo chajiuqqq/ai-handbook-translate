@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ uses sigmoid token-to-expert affinitiesZXMATH0000XZ for its routed experts. In its main load-balancing mechanism, each expert has a routing biasZXMATH0001XZ Top-ZXMATH0002XZ selection uses", "zh": "ZXNAME0000XZ 使用 sigmoid 令牌到专家的关联性 ZXMATH0000XZ 来为其路由专家。在其主要的负载均衡机制中，每个专家都有一个路由偏差ZXMATH0001XZ Top-ZXMATH0002XZ选择使用"}

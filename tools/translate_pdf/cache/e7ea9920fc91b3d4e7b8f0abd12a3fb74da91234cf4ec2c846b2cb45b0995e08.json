@@ -1,0 +1,1 @@
+{"source": "Do not use one number called “model memory” to describe both training and inference. Weights, gradients, optimizer state, activations, temporary workspaces, and KV cache have different lifetimes and traffic patterns.", "zh": "不要使用一个称为“模型内存”的数字来描述训练和推理。权重、梯度、优化器状态、激活、临时工作区和 KV 缓存具有不同的生命周期和流量模式。"}

@@ -1,0 +1,1 @@
+{"source": "A document embedding is a lossy representation optimized for a similarity objective. It is useful for candidate selection because comparing vectors is cheaper than running a powerful cross-encoder or generative model jointly over every document.", "zh": "文档嵌入是针对相似性目标优化的有损表示。它对于候选选择非常有用，因为比较向量比在每个文档上联合运行强大的交叉编码器或生成模型更便宜。"}

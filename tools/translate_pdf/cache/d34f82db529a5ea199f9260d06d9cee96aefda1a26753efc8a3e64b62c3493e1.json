@@ -1,0 +1,1 @@
+{"source": "Query heads are partitioned into groups, and the query heads in a group share the same K/V head.", "zh": "查询头被分成组，并且组中的查询头共享相同的K/V头。"}

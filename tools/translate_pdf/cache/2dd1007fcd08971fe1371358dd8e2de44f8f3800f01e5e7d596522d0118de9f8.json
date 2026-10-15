@@ -1,0 +1,1 @@
+{"source": "When evaluating a cache, look at bytes and requests saved downstream, not only the hit-rate percentage. A high hit rate is useful when it removes traffic or latency from the path that was actually limiting the kernel.", "zh": "评估缓存时，请查看下游保存的字节和请求，而不仅仅是命中率百分比。当高命中率从实际限制内核的路径中消除流量或延迟时，它非常有用。"}

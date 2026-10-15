@@ -1,0 +1,1 @@
+{"source": "Do not hard-code “the KV cache always stores post-RoPE K” as a universal definition. Cache representation is architectureand implementation-dependent.", "zh": "不要将“KV 缓存始终存储 RoPE 后 K”硬编码为通用定义。缓存表示依赖于体系结构和实现。"}

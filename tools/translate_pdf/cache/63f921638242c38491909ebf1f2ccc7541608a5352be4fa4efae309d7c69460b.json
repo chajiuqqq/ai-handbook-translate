@@ -1,0 +1,1 @@
+{"source": "Current bitsandbytes source makes this explicit: NF4 and FP4 use different codebooks/encodings, even though both consume four bits per stored index.", "zh": "当前的 bitsandbytes 源明确说明了这一点：NF4 和 FP4 使用不同的码本/编码，即使每个存储索引都消耗 4 位。"}

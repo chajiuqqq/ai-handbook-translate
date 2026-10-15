@@ -1,0 +1,1 @@
+{"source": "The usual explanation that “different heads attend to different things” is intuitive but incomplete. Architecturally, separate K/V heads also mean separate K/V projection parameters and separate cached K/V vectors during decoding.", "zh": "通常的解释是“不同的头脑关注不同的事情”是直观的但不完整的。从架构上来说，单独的 K/V 头也意味着解码期间单独的 K/V 投影参数和单独的缓存 K/V 向量。"}

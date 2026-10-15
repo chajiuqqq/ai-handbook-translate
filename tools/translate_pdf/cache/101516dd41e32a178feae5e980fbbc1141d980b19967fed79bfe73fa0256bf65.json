@@ -1,0 +1,1 @@
+{"source": "Prefix caching can skip computation for a previously processed shared prefix. Once generation moves beyond that prefix, the new tokens still have to be decoded normally.", "zh": "前缀缓存可以跳过先前处理的共享前缀的计算。一旦生成超出了该前缀，新的令牌仍然必须正常解码。"}

@@ -1,0 +1,1 @@
+{"source": "After a token is selected, it is appended to the sequence and becomes part of the context for the next step. Generation therefore forms a dependency chain:", "zh": "选择标记后，它会被附加到序列中，并成为下一步上下文的一部分。因此，生成形成了一个依赖链："}

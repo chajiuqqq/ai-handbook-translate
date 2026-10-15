@@ -1,0 +1,1 @@
+{"source": "Runtime adaptation can improve fit to the current tensor, but scale calculation, reduction operations, conversions, and synchronization can erase part of the performance benefit if kernels are not designed around them.", "zh": "运行时适应可以改善对当前张量的拟合，但如果内核不是围绕它们设计的，则缩放计算、缩减操作、转换和同步可能会消除部分性能优势。"}

@@ -1,0 +1,1 @@
+{"source": "For a token representationZXMATH0000XZ a sparse expert layer selects a small set of experts from a larger bank. If there areZXMATH0001XZ experts but onlyZXMATH0002XZ are selected, the other experts need not execute for that token.", "zh": "对于令牌表示 ZXMATH0000XZ，稀疏专家层从较大的银行中选择一小组专家。如果有 ZXMATH0001XZ 专家但仅选择了 ZXMATH0002XZ，则其他专家无需执行该代币。"}

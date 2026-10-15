@@ -1,0 +1,1 @@
+{"source": "A decoder-only block is often called a “causal Transformer block,” but causality is enforced inside the attention computation. For query positionZXMATH0000XZ and key positionZXMATH0001XZ an additive mask can use", "zh": "仅解码器块通常称为“因果 Transformer 块”，但因果关系是在注意力计算内部强制执行的。对于查询位置ZXMATH0000XZ和关键位置ZXMATH0001XZ，可以使用附加掩模"}

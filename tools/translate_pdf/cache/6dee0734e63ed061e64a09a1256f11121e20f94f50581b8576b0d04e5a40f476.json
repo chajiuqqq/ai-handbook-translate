@@ -1,0 +1,1 @@
+{"source": "Important. “Decoder block” is not synonymous with “lower-triangular matrix everywhere.” The causal restriction belongs to the attention relation between query and key positions.", "zh": "重要。 “解码器块”并不是“无处不在的下三角矩阵”的同义词。因果限制属于查询和关键位置之间的注意关系。"}

@@ -1,0 +1,1 @@
+{"source": "Each query head still has its own query projection and therefore can produce a different attention distribution. What is shared is the representation of the prefix on the key and value side.", "zh": "每个查询头仍然有自己的查询投影，因此可以产生不同的注意力分布。共享的是键和值端的前缀表示。"}

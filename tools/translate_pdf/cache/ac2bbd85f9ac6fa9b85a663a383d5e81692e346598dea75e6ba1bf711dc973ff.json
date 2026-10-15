@@ -1,0 +1,1 @@
+{"source": "Modern serving systems expose block-oriented cache managers, but their exact defaults and physical packing should be treated as implementation details rather than part of the definition of KV caching.", "zh": "现代服务系统公开了面向块的缓存管理器，但它们的确切默认值和物理打包应被视为实现细节，而不是 KV 缓存定义的一部分。"}

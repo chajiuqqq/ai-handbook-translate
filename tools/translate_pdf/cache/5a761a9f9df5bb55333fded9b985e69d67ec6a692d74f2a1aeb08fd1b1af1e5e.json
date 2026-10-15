@@ -1,0 +1,1 @@
+{"source": "The backward pass has a different bottleneck. FA4 uses Blackwell’s Tensor Memory (TMEM) and 2-ZXNAME0000XZ MMA mode to reduce shared-memory traffic and atomic accumulation overhead.[7]", "zh": "向后传递有一个不同的瓶颈。 FA4 使用 Blackwell 的张量内存 (TMEM) 和 2-ZXNAME0000XZ MMA 模式来减少共享内存流量和原子累积开销。 [7]"}

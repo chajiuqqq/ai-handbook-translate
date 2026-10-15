@@ -1,0 +1,1 @@
+{"source": "Serving may need the whole sharded expert bank even though a token uses only a subset.", "zh": "即使代币仅使用一个子集，服务也可能需要整个分片专家库。"}

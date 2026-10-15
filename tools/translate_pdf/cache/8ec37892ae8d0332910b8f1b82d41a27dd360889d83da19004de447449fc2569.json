@@ -1,0 +1,1 @@
+{"source": "The reason is intuitive. One scale for an entire tensor must accommodate its global dynamic range. Giving each small block its own scale reduces the range each codebook has to cover, which can improve local precision.", "zh": "原因很直观。整个张量的一个尺度必须适应其全局动态范围。为每个小块提供自己的尺度可以减少每个码本必须覆盖的范围，这可以提高局部精度。"}

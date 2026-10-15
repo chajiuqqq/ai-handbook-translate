@@ -1,0 +1,1 @@
+{"source": "3. quantizer vs runtime: the same quantized checkpoint can perform differently across kernels and hardware.", "zh": "3. 量化器与运行时：相同的量化检查点在不同内核和硬件上的执行情况可能不同。"}

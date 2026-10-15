@@ -1,0 +1,1 @@
+{"source": "The crucial systems property is decomposability. Document vectors can be precomputed without knowing the future query. At query time, only the query needs a fresh forward pass before vector search.", "zh": "关键的系统属性是可分解性。可以在不知道未来查询的情况下预先计算文档向量。在查询时，只有查询需要在向量搜索之前进行新的前向传递。"}

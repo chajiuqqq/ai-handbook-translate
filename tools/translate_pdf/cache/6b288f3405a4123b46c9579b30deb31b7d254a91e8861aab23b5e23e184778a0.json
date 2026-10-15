@@ -1,0 +1,1 @@
+{"source": "These examples matter less as a popularity contest than as evidence of the design pressure: long contexts, larger batches, and high-throughput serving make the cost of duplicating K/V state across every query head increasingly visible.", "zh": "这些例子与其说是一场流行竞赛，不如说是设计压力的证据：长上下文、更大批量和高吞吐量服务使得在每个查询头复制 K/V 状态的成本变得越来越明显。"}

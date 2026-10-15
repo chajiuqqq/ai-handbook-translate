@@ -1,0 +1,1 @@
+{"source": "The important inference detail is temporal asymmetry. The query for the new token is used once. The keys and values for previous tokens will be needed again when later tokens are generated. That is why decoder inference stores previous K/V tensors in a KV cache.", "zh": "重要的推理细节是时间不对称。新令牌的查询仅使用一次。当生成后续令牌时，将再次需要先前令牌的键和值。这就是解码器推理将先前的 K/V 张量存储在 KV 缓存中的原因。"}

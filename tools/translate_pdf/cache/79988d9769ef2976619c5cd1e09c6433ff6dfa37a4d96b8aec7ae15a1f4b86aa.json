@@ -1,0 +1,1 @@
+{"source": "If every request needs one large contiguous KV allocation sized for its maximum possible sequence length, two kinds of waste can appear:", "zh": "如果每个请求都需要一个大的连续 KV 分配，其大小适合其最大可能的序列长度，则可能会出现两种浪费："}

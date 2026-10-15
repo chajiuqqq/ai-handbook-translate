@@ -1,0 +1,1 @@
+{"source": "distributed dispatch, token permutation, grouped GEMMs, communication overlap, shared experts, load-balancing losses, training noise, and specialized kernels.", "zh": "分布式调度、令牌排列、分组 GEMM、通信重叠、共享专家、负载平衡损失、训练噪声和专用内核。"}

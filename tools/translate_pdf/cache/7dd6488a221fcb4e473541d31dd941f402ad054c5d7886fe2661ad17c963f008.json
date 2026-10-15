@@ -1,0 +1,1 @@
+{"source": "The score tileZXMATH0000XZ is small enough to be processed near the compute units. Its contribution is folded into running row statistics and an output accumulator, then the tile can be discarded.", "zh": "分数tileZXMATH0000XZ足够小，可以在计算单元附近进行处理。它的贡献被折叠到运行行统计数据和输出累加器中，然后可以丢弃该图块。"}

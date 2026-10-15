@@ -1,0 +1,1 @@
+{"source": "Important. Never infer the numerical behavior of a format from bit-width alone. “4-bit” or “8-bit” is not enough to reconstruct the quantizer.", "zh": "重要。切勿仅从位宽推断格式的数字行为。 “4 位”或“8 位”不足以重构量化器。"}

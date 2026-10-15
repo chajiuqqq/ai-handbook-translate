@@ -1,0 +1,1 @@
+{"source": "Hard negatives are especially valuable because they look plausible under a weaker retriever or share surface features with the query. But an actually relevant “negative” creates contradictory supervision.", "zh": "硬底片特别有价值，因为它们在较弱的检索器下看起来似乎合理，或者与查询共享表面特征。但实际相关的“负面”会造成矛盾的监督。"}

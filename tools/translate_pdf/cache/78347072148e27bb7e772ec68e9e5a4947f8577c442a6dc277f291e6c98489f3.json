@@ -1,0 +1,1 @@
+{"source": "The same idea works row by row and block by block, which is what makes a tiled exact softmax-attention forward pass possible.", "zh": "同样的想法逐行、逐块地工作，这使得平铺精确的 softmax-attention 前向传递成为可能。"}

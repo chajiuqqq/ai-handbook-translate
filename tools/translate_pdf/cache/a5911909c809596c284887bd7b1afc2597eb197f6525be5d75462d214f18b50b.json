@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ also uses decoupled rotary positional components because ordinary RoPE interacts with the projection-absorption strategy used by ZXNAME0001XZ. This is why a simple “ZXNAME0002XZ caches one tiny vector” summary is incomplete.", "zh": "ZXNAME0000XZ 还使用解耦旋转位置组件，因为普通 RoPE 与 ZXNAME0001XZ 使用的投影吸收策略相互作用。这就是为什么简单的“ZXNAME0002XZ 缓存一个微小向量”摘要是不完整的。"}

@@ -1,0 +1,1 @@
+{"source": "More resident warps can improve latency tolerance, but performance does not rise indefinitely with occupancy. Once a kernel already exposes enough ready work to cover its important stalls, additional residency may add little.[2]", "zh": "更多的常驻扭曲可以提高延迟容忍度，但性能不会随着占用而无限期地提高。一旦内核已经公开了足够的就绪工作来覆盖其重要的停顿，额外的驻留可能会增加很少的内容。 [2]"}

@@ -1,0 +1,1 @@
+{"source": "During autoregressive decoding, the KV cache can consume a large fraction of device memory for long contexts and high concurrency. Quantizing K/V state reduces bytes per cached token and can also reduce memory-bandwidth pressure when attention reads the cache.", "zh": "在自回归解码过程中，KV 缓存会因长上下文和高并发而消耗大量设备内存。量化 K/V 状态可以减少每个缓存令牌的字节数，还可以减少注意力读取缓存时的内存带宽压力。"}

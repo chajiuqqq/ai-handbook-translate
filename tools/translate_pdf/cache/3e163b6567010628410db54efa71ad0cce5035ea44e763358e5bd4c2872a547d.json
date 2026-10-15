@@ -1,0 +1,1 @@
+{"source": "This is why occupancy matters but is not the whole story. More resident warps create more candidates for TLP. But if a kernel already has enough ready work to cover the important latencies, adding residency may not improve runtime.[2]", "zh": "这就是为什么入住率很重要，但并不是全部。更多常驻扭曲为 TLP 创造更多候选者。但是，如果内核已经有足够的准备工作来覆盖重要的延迟，则添加驻留可能不会改善运行时间。 [2]"}

@@ -1,0 +1,1 @@
+{"source": "Finer granularity usually reduces quantization error because each scale covers a more homogeneous subset. But it also increases scale metadata and can complicate packing, vectorization, or kernel design.", "zh": "更细的粒度通常会减少量化误差，因为每个尺度覆盖更均匀的子集。但它也会增加规模元数据，并使打包、矢量化或内核设计变得复杂。"}

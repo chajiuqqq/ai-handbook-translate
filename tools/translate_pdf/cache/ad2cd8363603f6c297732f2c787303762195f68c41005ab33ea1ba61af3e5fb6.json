@@ -1,0 +1,1 @@
+{"source": "Divergence is also not the only way lanes become inactive. A final partial warp, predicated instructions, masks, or boundary conditions can leave lanes inactive without a conventional if/else split.", "zh": "分叉也不是车道变得不活跃的唯一原因。最终的部分扭曲、谓词指令、掩码或边界条件可能会使通道处于非活动状态，而无需传统的 if/else 分割。"}

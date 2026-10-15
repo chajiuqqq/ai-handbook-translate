@@ -1,0 +1,1 @@
+{"source": "If an architecture permits at most 64 resident warps on an ZXNAME0000XZ and a kernel configuration allows 32 to be resident, the theoretical occupancy is 50%.", "zh": "如果架构允许在 ZXNAME0000XZ 上驻留最多 64 个扭曲，并且内核配置允许驻留 32 个扭曲，则理论占用率为 50%。"}

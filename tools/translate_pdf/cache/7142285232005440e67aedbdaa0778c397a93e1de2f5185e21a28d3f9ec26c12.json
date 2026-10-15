@@ -1,0 +1,1 @@
+{"source": "This distinction is especially important in inference, where a model may fit comfortably in memory yet still be limited by repeatedly streaming weights or KV state during decode.", "zh": "这种区别在推理中尤其重要，其中模型可以轻松地适合内存，但在解码期间仍然受到重复流权重或 KV 状态的限制。"}

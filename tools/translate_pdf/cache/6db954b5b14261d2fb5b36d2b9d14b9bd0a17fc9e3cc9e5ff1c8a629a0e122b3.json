@@ -1,0 +1,1 @@
+{"source": "Modern multimodal systems can reintroduce cross-attention or other modality-specific blocks, but “Transformer block” should always be interpreted relative to the architecture being discussed.", "zh": "现代多模态系统可以重新引入交叉注意力或其他特定模态的块，但“Transformer 块”应始终相对于正在讨论的架构进行解释。"}

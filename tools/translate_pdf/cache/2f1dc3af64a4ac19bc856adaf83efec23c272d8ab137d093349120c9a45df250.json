@@ -1,0 +1,1 @@
+{"source": "That separation lets the runtime allocate, share, evict, and move cache state at block granularity.", "zh": "这种分离允许运行时以块粒度分配、共享、逐出和移动缓存状态。"}

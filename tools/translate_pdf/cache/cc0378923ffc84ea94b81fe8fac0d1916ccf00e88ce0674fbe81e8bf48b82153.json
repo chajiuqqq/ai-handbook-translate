@@ -1,0 +1,1 @@
+{"source": "The familiar Pre-Norm block is serial: the MLP receives the residual state after the attention update. In simplified form,", "zh": "熟悉的 Pre-Norm 块是串行的：MLP 在注意力更新后接收残差状态。以简化形式来说，"}

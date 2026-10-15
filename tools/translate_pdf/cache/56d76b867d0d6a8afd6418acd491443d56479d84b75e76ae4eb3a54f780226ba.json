@@ -1,0 +1,1 @@
+{"source": "Free memory can exist in pieces that are individually too small to satisfy a large contiguous request even when their total size is sufficient.", "zh": "空闲内存可能以单独太小的片段存在，无法满足大的连续请求，即使它们的总大小足够。"}

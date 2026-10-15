@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ also cannot eliminate other costs: MLP layers, communication in tensor parallelism, KV-cache capacity, model-weight bandwidth, sampling, and scheduler overhead remain separate concerns.", "zh": "ZXNAME0000XZ 也无法消除其他成本：MLP 层、张量并行通信、KV 缓存容量、模型权重带宽、采样和调度程序开销仍然是单独的问题。"}

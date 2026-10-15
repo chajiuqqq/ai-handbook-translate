@@ -1,0 +1,1 @@
+{"source": "In a standard Transformer, the feed-forward sublayer is applied independently to every token after the attention sublayer. A simplified two-matrix feed-forward network can be written", "zh": "在标准 Transformer 中，前馈子层独立应用于注意子层之后的每个标记。可以编写一个简化的两矩阵前馈网络"}

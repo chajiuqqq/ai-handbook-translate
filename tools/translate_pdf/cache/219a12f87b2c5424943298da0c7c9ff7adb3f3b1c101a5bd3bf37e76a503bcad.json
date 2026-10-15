@@ -1,0 +1,1 @@
+{"source": "FA3 also uses a ping-pong style schedule to interleave block matrix multiplication and softmax. The point is to avoid leaving tensor cores idle while scalar/special-function work is performed, and vice versa.[6]", "zh": "FA3 还使用乒乓式调度来交错块矩阵乘法和 softmax。重点是避免在执行标量/特殊功能工作时让张量核心闲置，反之亦然。[6]"}

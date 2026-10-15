@@ -1,0 +1,1 @@
+{"source": "5. Assuming storage precision equals compute precision. Weight-only kernels often compute/accumulate at higher precision.", "zh": "5. 假设存储精度等于计算精度。仅权重内核通常以更高的精度进行计算/累加。"}

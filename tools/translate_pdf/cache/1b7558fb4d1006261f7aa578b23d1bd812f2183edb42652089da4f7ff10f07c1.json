@@ -1,0 +1,1 @@
+{"source": "Poor calibration can produce a technically valid quantized model whose scales are mismatched to real workloads.", "zh": "校准不良可能会产生技术上有效的量化模型，其规模与实际工作负载不匹配。"}

@@ -1,0 +1,1 @@
+{"source": "32-bit registers. A 64K-register ZXNAME0000XZ cannot host an arbitrary number of such blocks simultaneously. Register demand therefore affects how much work can be resident even when shared-memory use is tiny.", "zh": "32 位寄存器。 64K 寄存器 ZXNAME0000XZ 无法同时托管任意数量的此类块。因此，即使共享内存使用量很小，寄存器需求也会影响可驻留的工作量。"}

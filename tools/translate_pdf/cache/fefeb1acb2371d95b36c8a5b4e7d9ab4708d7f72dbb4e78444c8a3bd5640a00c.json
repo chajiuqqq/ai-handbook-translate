@@ -1,0 +1,1 @@
+{"source": "4. Keep state close. Registers and shared memory hold useful working state while caches reduce traffic farther down the hierarchy.", "zh": "4. 保持状态关闭。寄存器和共享内存保持有用的工作状态，而缓存则减少了层次结构中更下游的流量。"}

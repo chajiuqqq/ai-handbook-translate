@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ changes the execution schedule of dense attention to reduce expensive memory traffic for attention intermediates while computing exact dense softmax attention. It does not define how many KV heads a model has.ZXMATH0000XZ", "zh": "ZXNAME0000XZ 改变了密集注意力的执行计划，以减少注意力中间体昂贵的内存流量，同时计算精确的密集 Softmax 注意力。它没有定义一个模型有多少个KV头。ZXMATH0000XZ"}

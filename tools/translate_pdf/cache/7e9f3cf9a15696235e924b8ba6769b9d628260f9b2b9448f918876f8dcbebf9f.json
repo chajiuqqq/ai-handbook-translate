@@ -1,0 +1,1 @@
+{"source": "This is also why the memory benefit is especially important during training, where naïve autograd would otherwise want large intermediates for the backward pass.", "zh": "这也是为什么记忆的好处在训练期间特别重要，否则天真的自动梯度会需要大量的中间体来进行向后传递。"}

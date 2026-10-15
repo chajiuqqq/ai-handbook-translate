@@ -1,0 +1,1 @@
+{"source": "This is why KV cache cannot be discussed independently of attention architecture. A model with the same parameter scale and context length can have very different cache requirements depending on its K/V representation.", "zh": "这就是为什么 KV 缓存不能独立于注意力架构来讨论。具有相同参数规模和上下文长度的模型可能具有非常不同的缓存要求，具体取决于其 K/V 表示。"}

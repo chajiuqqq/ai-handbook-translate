@@ -1,0 +1,1 @@
+{"source": "Safe statement: divergence can reduce useful lane participation. Unsafe statement: “every divergent branch automatically makes a warp twice as slow.” The actual cost depends on the executed paths and hardware behavior.", "zh": "安全声明：分歧会减少有用的车道参与。不安全的说法：“每个发散的分支都会自动使扭曲速度减慢两倍。”实际成本取决于执行的路径和硬件行为。"}

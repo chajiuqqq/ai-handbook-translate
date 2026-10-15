@@ -1,0 +1,1 @@
+{"source": "The activation choice changes more than one function call. Gating introduces an additional projection matrix and therefore changes parameter accounting, compute, and the hidden-width choice used for compute-equivalent comparisons.", "zh": "激活选择会更改多个函数调用。门控引入了一个额外的投影矩阵，因此改变了参数计算、计算以及用于计算等效比较的隐藏宽度选择。"}

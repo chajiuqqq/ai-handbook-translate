@@ -1,0 +1,1 @@
+{"source": "Mental model. Weight-only quantization attacks the bytes used to represent and move model parameters. It does not quantize the entire inference state.", "zh": "心智模型。仅权量化攻击用于表示和移动模型参数的字节。它不会量化整个推理状态。"}

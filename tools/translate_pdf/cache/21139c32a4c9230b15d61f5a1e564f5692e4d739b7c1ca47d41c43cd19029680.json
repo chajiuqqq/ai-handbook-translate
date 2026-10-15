@@ -1,0 +1,1 @@
+{"source": "Important. “Block memory” is ambiguous. Parameter memory, training activations, optimizer state, temporary kernel workspace, and inference KV cache are different quantities.", "zh": "重要。 “块内存”是含糊不清的。参数内存、训练激活、优化器状态、临时内核工作空间和推理 KV 缓存是不同的数量。"}

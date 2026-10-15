@@ -1,0 +1,1 @@
+{"source": "KeepingZXMATH0000XZ in a register means each multiply-accumulate can update the same nearby state without writing the partial sum to device memory after every iteration.", "zh": "将 ZXMATH0000XZ 保存在寄存器中意味着每个乘法累加可以更新相同的附近状态，而无需在每次迭代后将部分和写入设备内存。"}

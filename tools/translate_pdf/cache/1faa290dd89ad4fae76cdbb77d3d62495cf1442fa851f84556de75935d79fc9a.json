@@ -1,0 +1,1 @@
+{"source": "All model weights stored across dense layers, attention, embeddings, routers, shared experts, and the complete routedexpert bank. These weights matter for checkpoint size, memory capacity, sharding, loading, and communication.", "zh": "所有模型权重都存储在密集层、注意力、嵌入、路由器、共享专家和完整的 RouteExpert 库中。这些权重对于检查点大小、内存容量、分片、加载和通信都很重要。"}

@@ -1,0 +1,1 @@
+{"source": "Current ZXNAME0000XZ even allows selected layers or attention types to remain unquantized while others use a lower-precision KV dtype, reflecting the fact that sensitivity need not be uniform.", "zh": "当前的 ZXNAME0000XZ 甚至允许选定的层或注意力类型保持未量化，而其他层或注意力类型则使用较低精度的 KV dtype，这反映了灵敏度不需要统一的事实。"}

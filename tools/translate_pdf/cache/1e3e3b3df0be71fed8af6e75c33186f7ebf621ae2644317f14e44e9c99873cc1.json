@@ -1,0 +1,1 @@
+{"source": "Temperature controls how sharply score differences affect the softmax. A smallerZXMATH0000XZ magnifies differences in similarity, but the useful value is modeland training-dependent.", "zh": "温度控制分数差异对 softmax 的影响程度。较小的 ZXMATH0000XZ 会放大相似性的差异，但有用的价值取决于模型和训练。"}

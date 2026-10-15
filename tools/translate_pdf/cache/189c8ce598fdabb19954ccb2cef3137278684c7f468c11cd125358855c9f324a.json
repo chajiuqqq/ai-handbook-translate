@@ -1,0 +1,1 @@
+{"source": "because each of 4 query positions scores 4 key positions. After value aggregation and head concatenation, the attention branch returns", "zh": "因为 4 个查询位置中的每一个都得分 4 个关键位置。经过值聚合和头连接后，注意力分支返回"}

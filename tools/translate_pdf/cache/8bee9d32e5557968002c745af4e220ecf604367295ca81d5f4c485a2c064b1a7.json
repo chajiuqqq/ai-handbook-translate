@@ -1,0 +1,1 @@
+{"source": "Important. Contrastive learning does not teach an abstract universal notion of “semantic similarity.” It teaches geometry according to the positive/negative pairs, tasks, sampling strategy, and similarity function in the training data.", "zh": "重要。对比学习并不教授“语义相似性”的抽象普遍概念。它根据训练数据中的正/负对、任务、采样策略和相似函数来教授几何。"}

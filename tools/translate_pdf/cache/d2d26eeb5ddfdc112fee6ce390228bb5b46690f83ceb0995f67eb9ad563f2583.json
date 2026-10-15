@@ -1,0 +1,1 @@
+{"source": "Expert Choice reverses the direction: each expert selects its top-scoring tokens up to a fixed bucket size. This fixes per-expert capacity by construction, while a token can be selected by a variable number of experts.", "zh": "专家选择反转了方向：每个专家选择得分最高的令牌，最多达到固定的桶大小。这通过构建固定了每个专家的容量，而令牌可以由可变数量的专家选择。"}

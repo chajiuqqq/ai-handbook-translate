@@ -1,51 +1,51 @@
 ﻿英文原词,中文译名,缩写／符号
 Transformer Block,Transformer 块,
-Normalization,归一化,
 Attention,注意力机制,Attention
-Matrix Multiplication,矩阵乘法,
-Incremental Decoding,增量解码,
+Normalization,归一化,
 Feed-forward Network,前馈网络,FFN
-Output Projection,输出投影,
-Residual Stream,残差流,
-Head Dimension,头维度,
 Feed-forward,前馈,
-Batch Size,批大小,
-Activation,激活,
-Embeddings,嵌入向量,
-LayerNorm,层归一化,LayerNorm
-Training,训练,
 KV Cache,键值缓存,KV Cache
-Prefill,预填充,
-RMSNorm,均方根归一化,RMSNorm
-Serving,推理服务,
-Kernels,内核,
-Tensor,张量,
 Models,模型,
 SwiGLU,SwiGLU 门控激活,
-Query,查询,Q
-Value,值,V
+RoPE,旋转位置嵌入,RoPE
+MHA,多头注意力,MHA
+MQA,多查询注意力,MQA
+GQA,分组查询注意力,GQA
+MLA,多头潜在注意力,MLA
+Residual Stream,残差流,
 Model,模型,
-Key,键,K
+LayerNorm,层归一化,LayerNorm
+RMSNorm,均方根归一化,RMSNorm
+Output Projection,输出投影,
+Incremental Decoding,增量解码,
+Training,训练,
+Prefill,预填充,
+Matrix Multiplication,矩阵乘法,
+Embeddings,嵌入向量,
+Activation,激活,
+Serving,推理服务,
+Head Dimension,头维度,
+Batch Size,批大小,
+Tensor,张量,
+Query,查询,Q
+Transformer,Transformer 模型,Transformer
+Decoder,解码器,
 Self-attention,自注意力,
 Representation,表示,
-Transformer,Transformer 模型,Transformer
 Pre-norm,前置归一化,
-Decoder,解码器,
-Vectors,向量,
-Gating,门控,
 Token,词元,
-Residual Connections,残差连接,
-Mental Model,理解框架,
+Gating,门控,
 Heads,头,
-Head Dimensions,头维度,
+Mental Model,理解框架,
 Query Heads,查询头,
-Value Heads,值头,
 KV Heads,键值头,
+Value Heads,值头,
+Attention Head,注意力头,
 Residual Connection,残差连接,
 Cross-attention,交叉注意力,
 Encoder,编码器,
-Layer Normalization,层归一化,LayerNorm
 Residual Path,残差路径,
+Layer Normalization,层归一化,LayerNorm
 Output Head,输出头,
 Tensor Shape,张量形状,
 Core,核心,
@@ -53,50 +53,41 @@ Vector,向量,
 Evidence,证据,
 Scaling,缩放,
 Scaled Dot-product Attention,缩放点积注意力,SDPA
-Learned Projections,学习得到的投影,
-Attention Weights,注意力权重,
 Matrix,矩阵,
 Rotary Position Embedding,旋转位置嵌入,RoPE
 Token Embedding,词元嵌入,
 Latent Representation,潜在表示,
-Key/Value Heads,键值头,KV Head
-Projection Matrices,投影矩阵,
 Hidden State,隐藏状态,
 Hidden Representation,隐藏表示,
 Projection Matrix,投影矩阵,
-Activations,激活,
 Baseline,基线,
 Rounding,舍入,
 Decoder-only LLM,仅解码器大语言模型,
 Queries,查询,
 Values,值,
 Keys,键,
-Dot-product Attention,点积注意力,
 Additive Mask,加性掩码,
-Mixture-of-Experts,混合专家,MoE
-Sparse Attention,稀疏注意力,
+Dot-product Attention,点积注意力,
 Experts,专家,
+Mixture-of-Experts,混合专家,MoE
 Expert,专家,
 Router,路由器,
+Sparse Attention,稀疏注意力,
 Global Attention,全局注意力,
 Post-norm,后置归一化,
 Causal Mask,因果掩码,
+Decode,解码,
 Tokens,词元,
 Batching,批处理,
-Matrices,矩阵,
 Kernel,内核,
-Linear Projections,线性投影,
 Precision,精度,
 Recomputation,重计算,
-Fused Kernels,融合内核,
 Forward Pass,前向传播,
-Inference,推理,
 Gradient,梯度,
+Inference,推理,
 Dropout,随机失活,
 Logit,逻辑值（归一化前的分数）,
 Exact Attention,精确注意力,
-Token Embeddings,词元嵌入,
 Local Attention,局部注意力,
 Routing,路由,
-Attention Head,注意力头,
 FlashAttention,FlashAttention（方法名保留）,

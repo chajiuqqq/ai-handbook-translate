@@ -1,0 +1,1 @@
+{"source": "Important. Active parameters are not the model’s memory footprint, and they are not a universal proxy for latency. Kernel efficiency, weight movement, routing, communication, batch shape, precision, and hardware all matter.", "zh": "重要。活动参数不是模型的内存占用，也不是延迟的通用代理。内核效率、重量移动、路由、通信、批量形状、精度和硬件都很重要。"}

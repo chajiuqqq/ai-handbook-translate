@@ -1,0 +1,1 @@
+{"source": "Dynamic routing can send uneven numbers of tokens to different experts. Some implementations therefore give each expert a fixed processing capacity.", "zh": "动态路由可以将不均匀数量的令牌发送给不同的专家。因此，一些实现为每个专家提供了固定的处理能力。"}

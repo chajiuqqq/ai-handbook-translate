@@ -1,0 +1,1 @@
+{"source": "A KV cache does not eliminate attention over the history. The new query still has to interact with past K/V state for dense attention.", "zh": "KV 缓存并不能消除对历史记录的关注。新的查询仍然需要与过去的 K/V 状态交互以获得密集的注意力。"}

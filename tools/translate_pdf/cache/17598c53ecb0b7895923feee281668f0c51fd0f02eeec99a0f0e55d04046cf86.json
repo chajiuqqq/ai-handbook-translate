@@ -1,0 +1,1 @@
+{"source": "A language model must eventually convert a hidden state into logits over vocabulary items. With row-vector convention, an untied output projection can be written", "zh": "语言模型最终必须将隐藏状态转换为词汇项上的逻辑。通过行向量约定，可以编写未绑定的输出投影"}

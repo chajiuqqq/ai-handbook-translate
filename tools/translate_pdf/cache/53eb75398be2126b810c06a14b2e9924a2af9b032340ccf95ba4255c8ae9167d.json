@@ -1,0 +1,1 @@
+{"source": "On B200 with ZXNAME0000XZ, the paper reports up to ZXMATH0000XZ speedup over cuDNN 9.13 and ZXMATH0001XZ over its Triton comparison, reaching up to 1613 TFLOPs/s (71% utilization) under the evaluated configurations.[7]", "zh": "在使用 ZXNAME0000XZ 的 B200 上，该论文报告说，与 cuDNN 9.13 相比，加速高达 ZXMATH0000XZ，与 Triton 比较相比，ZXMATH0001XZ 加速，在评估的配置下达到 1613 TFLOPs/s（71% 利用率）。 [7]"}

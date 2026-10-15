@@ -1,0 +1,1 @@
+{"source": "If a model also used a separate untied output matrix of the same shape, that matrix would require another 256 MiB of two-byte parameter storage in this example.", "zh": "如果模型还使用相同形状的单独未绑定输出矩阵，则在此示例中，该矩阵将需要另外 256 MiB 的两字节参数存储。"}

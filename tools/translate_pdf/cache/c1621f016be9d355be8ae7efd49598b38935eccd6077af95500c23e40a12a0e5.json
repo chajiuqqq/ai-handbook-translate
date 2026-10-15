@@ -1,0 +1,1 @@
+{"source": "A typical QAT forward pass uses fake quantization: values are quantized to discrete codes and immediately dequantized back to floating point so the network experiences rounding/clipping behavior while training machinery can still update floating-point parameters.", "zh": "典型的 QAT 前向传递使用假量化：值被量化为离散代码并立即反量化回浮点，因此网络会经历舍入/裁剪行为，而训练机器仍然可以更新浮点参数。"}

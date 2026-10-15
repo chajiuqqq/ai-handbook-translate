@@ -1,0 +1,1 @@
+{"source": "A naive implementation may retain normalized inputs, Q/K/V projections, attention intermediates, MLP activations, and residual states needed by backward kernels. Fused kernels and recomputation strategies can change exactly what is stored.", "zh": "简单的实现可能会保留归一化输入、Q/K/V 投影、注意力中间体、MLP 激活以及后向内核所需的剩余状态。融合内核和重新计算策略可以准确改变存储的内容。"}

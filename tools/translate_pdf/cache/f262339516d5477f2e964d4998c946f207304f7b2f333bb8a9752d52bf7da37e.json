@@ -1,0 +1,1 @@
+{"source": "Current ZXNAME0000XZ Megatron Core documentation defines moe_expert_capacity_factor=None as no token dropping by default. Capacity-limited modes remain available when static shapes or other execution requirements make them useful.", "zh": "当前的 ZXNAME0000XZ Megatron Core 文档将 moe_expert_capacity_factor=None 定义为默认情况下不丢弃令牌。当静态形状或其他执行要求使容量限制模式有用时，容量限制模式仍然可用。"}

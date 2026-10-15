@@ -1,0 +1,1 @@
+{"source": "If the positive similarity rises while negatives stay fixed,ZXMATH0000XZ increases and the loss falls. If a hard negative becomes more similar to the anchor, it receives more probability mass and the loss rises.", "zh": "如果正相似度上升而负相似度保持不变，则 ZXMATH0000XZ 增加并且损失下降。如果硬负例变得与锚点更加相似，它会收到更多的概率质量，并且损失会增加。"}

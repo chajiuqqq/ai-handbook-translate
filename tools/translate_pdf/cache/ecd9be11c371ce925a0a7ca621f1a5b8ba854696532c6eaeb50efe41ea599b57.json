@@ -1,0 +1,1 @@
+{"source": "For sequence models, ZXNAME0000XZ is typically applied independently to each token over its feature dimension, not across batch examples and not across sequence positions.", "zh": "对于序列模型，ZXNAME0000XZ 通常在其特征维度上独立应用于每个标记，而不是跨批次示例，也不跨序列位置。"}

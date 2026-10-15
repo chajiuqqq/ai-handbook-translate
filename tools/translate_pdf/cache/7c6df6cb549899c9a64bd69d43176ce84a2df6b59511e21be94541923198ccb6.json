@@ -1,0 +1,1 @@
+{"source": "tokens overflow that expert’s capacity. In Switch, overflowed tokens skip the expert computation and continue through the residual path.", "zh": "代币超出了该专家的能力。在 Switch 中，溢出的令牌会跳过专家计算并继续通过剩余路径。"}

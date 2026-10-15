@@ -1,0 +1,1 @@
+{"source": "Tensor Cores raise the ceiling for supported matrix arithmetic. They do not remove memory traffic, launch overhead, synchronization, or non-matrix work from an AI workload.", "zh": "张量核心提高了支持的矩阵算术的上限。它们不会消除 AI 工作负载中的内存流量、启动开销、同步或非矩阵工作。"}

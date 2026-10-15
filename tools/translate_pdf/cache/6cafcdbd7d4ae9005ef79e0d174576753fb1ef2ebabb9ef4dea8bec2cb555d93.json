@@ -1,0 +1,1 @@
+{"source": "The round operation is not ordinarily differentiable, so practical QAT uses surrogate gradient behavior such as straight-through estimators or framework-specific fake-quant modules.", "zh": "回合操作通常不可微分，因此实用的 QAT 使用代理梯度行为，例如直通估计器或特定于框架的假量化模块。"}

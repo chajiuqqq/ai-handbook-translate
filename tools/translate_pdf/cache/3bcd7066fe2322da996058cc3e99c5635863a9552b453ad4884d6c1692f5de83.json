@@ -1,0 +1,1 @@
+{"source": "Assume one warp has 32 active threads, each loads one aligned 8-byte value, and the access footprint is counted in 32-byte segments.[1][3]", "zh": "假设一个 warp 有 32 个活动线程，每个线程加载一个对齐的 8 字节值，并且访问足迹以 32 字节段计算。[1][3]"}

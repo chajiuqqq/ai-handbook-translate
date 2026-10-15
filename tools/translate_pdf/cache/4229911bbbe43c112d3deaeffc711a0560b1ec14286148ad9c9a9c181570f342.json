@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ.int8() was designed for large Transformer inference where naive ZXNAME0001XZ quantization degraded quality as model scale increased.", "zh": "ZXNAME0000XZ.int8() 专为大型 Transformer 推理而设计，其中朴素的 ZXNAME0001XZ 量化会随着模型规模的增加而降低质量。"}

@@ -1,0 +1,1 @@
+{"source": "A kernel can launch millions of logical threads while only a bounded set is resident. It can have many resident warps while only a few are eligible. It can have eligible warps while a particular execution pipeline is saturated and another is idle.", "zh": "一个内核可以启动数百万个逻辑线程，同时只有一个有界集合驻留。它可以有许多常驻扭曲，但只有少数符合条件。当一个特定的执行管道饱和而另一个空闲时，它可以具有合格的扭曲。"}

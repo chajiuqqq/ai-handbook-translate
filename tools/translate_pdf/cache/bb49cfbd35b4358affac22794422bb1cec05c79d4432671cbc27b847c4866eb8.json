@@ -1,0 +1,1 @@
+{"source": "• instruction-level parallelism (ILP): the same warp has independent operations that can proceed without waiting on the stalled result.", "zh": "• 指令级并行性(ILP)：同一个warp 具有独立的操作，可以继续执行而无需等待停止的结果。"}

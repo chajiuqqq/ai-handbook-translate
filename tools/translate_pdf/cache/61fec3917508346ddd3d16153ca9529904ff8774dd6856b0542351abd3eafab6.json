@@ -1,0 +1,1 @@
+{"source": "E5 uses one shared encoder but prepends different textual identifiers: “query:” for queries and “passage:” for passages. The paper reports that breaking the symmetry this way is important for", "zh": "E5 使用一个共享编码器，但在前面添加不同的文本标识符：“query:”用于查询，“passage:”用于段落。该论文报告说，以这种方式打破对称性对于"}

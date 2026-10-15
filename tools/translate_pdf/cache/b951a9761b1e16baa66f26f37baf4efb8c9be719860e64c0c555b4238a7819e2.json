@@ -1,0 +1,1 @@
+{"source": "The membership decision is discrete. Gradients flow through selected weights and auxiliary objectives according to the router design, not through an imaginary smooth argmax.", "zh": "成员资格的决定是离散的。梯度根据路由器设计流经选定的权重和辅助目标，而不是通过假想的平滑 argmax。"}

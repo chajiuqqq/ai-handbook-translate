@@ -1,0 +1,1 @@
+{"source": "This is why embedding-model upgrades often require re-embedding the corpus. A dimension match is not enough. Even a new checkpoint from the same family can rotate, rescale, or otherwise reshape the space.", "zh": "这就是为什么嵌入模型升级通常需要重新嵌入语料库。尺寸匹配是不够的。即使来自同一系列的新检查点也可以旋转、重新缩放或以其他方式重塑空间。"}

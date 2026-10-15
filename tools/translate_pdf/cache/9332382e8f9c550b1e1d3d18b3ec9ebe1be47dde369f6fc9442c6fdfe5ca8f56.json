@@ -1,0 +1,1 @@
+{"source": "The Roofline model formalizes this relationship, but AS02 needs only the intuition: AI performance depends on both the amount of math and the number of bytes that must cross constrained interfaces.", "zh": "Roofline 模型形式化了这种关系，但 AS02 只需要直觉：AI 性能取决于数学量和必须跨越受限接口的字节数。"}

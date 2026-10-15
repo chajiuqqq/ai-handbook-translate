@@ -1,0 +1,1 @@
+{"source": "That is why the feed-forward branch can contain a large fraction of a dense Transformer’s parameters even though it never mixes token positions.", "zh": "这就是为什么前馈分支可以包含密集 Transformer 的大部分参数，即使它从不混合令牌位置。"}

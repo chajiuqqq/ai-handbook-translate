@@ -1,0 +1,1 @@
+{"source": "Mental model. KV caching changes how the attention branch reuses history. It does not skip the rest of the block for the newly generated token.", "zh": "心智模型。 KV 缓存改变了注意力分支重用历史记录的方式。它不会跳过新生成的令牌的块的其余部分。"}

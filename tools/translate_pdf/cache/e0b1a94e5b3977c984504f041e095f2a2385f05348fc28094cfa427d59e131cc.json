@@ -1,0 +1,1 @@
+{"source": "This is also why performance can change sharply with tensor shape even when the mathematical operation stays the same: the shape can move the active working set across a cache-capacity threshold.", "zh": "这也是为什么即使数学运算保持不变，性能也会随着张量形状而急剧变化：形状可以将活动工作集移动到缓存容量阈值。"}

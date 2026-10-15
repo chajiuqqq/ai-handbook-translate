@@ -1,0 +1,1 @@
+{"source": "Coalescing is the ZXNAME0000XZ-specific mechanism that turns a warp’s set of global-memory requests into as few memory transactions as the access pattern allows.", "zh": "合并是 ZXNAME0000XZ 特定的机制，它将 warp 的全局内存请求集转换为访问模式允许的尽可能少的内存事务。"}

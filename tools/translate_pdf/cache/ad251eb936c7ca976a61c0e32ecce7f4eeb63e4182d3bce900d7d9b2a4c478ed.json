@@ -1,0 +1,1 @@
+{"source": "The kernel still evaluates attention between each query head and its assigned KV head. Head sharing changes the architecture and KV-memory footprint. ZXNAME0000XZ changes how the resulting attention operation is executed.", "zh": "内核仍然评估每个查询头与其分配的 KV 头之间的注意力。头部共享改变了架构和 KV 内存占用。 ZXNAME0000XZ 改变了结果注意操作的执行方式。"}

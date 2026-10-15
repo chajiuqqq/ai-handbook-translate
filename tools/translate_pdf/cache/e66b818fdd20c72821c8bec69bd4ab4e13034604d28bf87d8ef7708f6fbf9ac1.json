@@ -1,0 +1,1 @@
+{"source": "1. Assuming the flash backend always ran. High-level frameworks may fall back when dtype, device, shape, or mask is unsupported. Use backend controls/profiling when it matters.[10]", "zh": "1. 假设 flash 后端始终运行。当数据类型、设备、形状或掩码不受支持时，高级框架可能会回退。在重要的时候使用后端控制/分析。[10]"}

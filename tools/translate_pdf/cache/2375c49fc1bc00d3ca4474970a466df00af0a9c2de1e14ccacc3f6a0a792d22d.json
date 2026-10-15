@@ -1,0 +1,1 @@
+{"source": "L2 can reduce ZXNAME0000XZ traffic without changing the logical tensor size. This is why “the tensor is 4 GB” tells you almost nothing about how many bytes will actually cross the ZXNAME0001XZ interface during a kernel.", "zh": "L2可以在不改变逻辑张量大小的情况下减少ZXNAME0000XZ流量。这就是为什么“张量是 4 GB”几乎没有告诉您在内核期间实际穿过 ZXNAME0001XZ 接口的字节数。"}

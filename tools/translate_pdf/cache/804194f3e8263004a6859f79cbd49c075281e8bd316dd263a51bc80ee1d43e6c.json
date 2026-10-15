@@ -1,0 +1,1 @@
+{"source": "That is why -maxrregcount or launch bounds are tuning controls, not automatic improvements. ZXNAME0000XZ explicitly warns that lower register limits can increase spilling even while increasing occupancy.[2]", "zh": "这就是为什么 -maxrregcount 或启动界限是调整控制，而不是自动改进。 ZXNAME0000XZ 明确警告，即使在增加占用率的同时，较低的寄存器限制也会增加溢出。[2]"}

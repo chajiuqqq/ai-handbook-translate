@@ -1,0 +1,1 @@
+{"source": "2. Leaving dropout on during evaluation. ZXNAME0000XZ ZXNAME0001XZ applies dropout_p exactly as supplied, so pass ZXMATH0000XZ when evaluation requires no dropout.[10]", "zh": "2. 在评估期间保留辍学。 ZXNAME0000XZ ZXNAME0001XZ 完全按照提供的方式应用 dropout_p，因此当评估不需要 dropout 时通过 ZXMATH0000XZ。[10]"}

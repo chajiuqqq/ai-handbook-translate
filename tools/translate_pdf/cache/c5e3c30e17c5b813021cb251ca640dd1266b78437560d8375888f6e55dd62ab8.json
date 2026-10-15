@@ -1,0 +1,1 @@
+{"source": "A kernel uses 256 threads per block, 64 registers per thread, and 32 KiB shared memory per block.", "zh": "内核每个块使用 256 个线程，每个线程 64 个寄存器，每个块使用 32 KiB 共享内存。"}

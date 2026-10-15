@@ -1,0 +1,1 @@
+{"source": "contains every query-document dot product in the batch. Diagonal pairs can be positives, while off-diagonal pairs serve as negatives if they are truly irrelevant.", "zh": "包含批次中的每个查询文档点积。对角线对可以是正数，而非对角线对如果确实不相关，则可以作为负数。"}

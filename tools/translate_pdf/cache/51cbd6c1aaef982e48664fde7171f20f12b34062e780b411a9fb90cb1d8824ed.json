@@ -1,0 +1,1 @@
+{"source": "Evicting a reusable prefix block does not change model correctness. It changes whether future requests can avoid recomputing that state. Evicting cache required by an active sequence is a different matter and must be coordinated by the runtime.", "zh": "驱逐可重用前缀块不会改变模型的正确性。它改变了未来的请求是否可以避免重新计算该状态。逐出活动序列所需的缓存是另一回事，必须由运行时协调。"}

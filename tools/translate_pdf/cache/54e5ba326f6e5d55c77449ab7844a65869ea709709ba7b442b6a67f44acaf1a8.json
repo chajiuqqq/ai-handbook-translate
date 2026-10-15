@@ -1,0 +1,1 @@
+{"source": "The compute dtype remains higher precision than the 4-bit storage. This is why describing QLoRA as “training in 4-bit” without qualification is misleading.", "zh": "计算数据类型保持比 4 位存储更高的精度。这就是为什么在没有限定的情况下将 QLoRA 描述为“4 位训练”会产生误导。"}

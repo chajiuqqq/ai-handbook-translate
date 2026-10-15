@@ -1,0 +1,1 @@
+{"source": "The original Transformer calls its second sublayer a position-wise feed-forward network because the same nonlinear function is applied independently to each sequence position. [1]", "zh": "原始 Transformer 将其第二个子层称为位置前馈网络，因为相同的非线性函数独立应用于每个序列位置。 [1]"}

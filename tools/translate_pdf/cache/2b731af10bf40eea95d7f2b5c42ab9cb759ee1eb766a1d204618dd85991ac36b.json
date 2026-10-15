@@ -1,0 +1,1 @@
+{"source": "AtZXMATH0000XZ = 1, total expert slots exactly equal the token count in this Top-1 setting. A factor above one creates buffer for uneven routing, but can introduce padding, extra memory, and extra work in statically shaped implementations.", "zh": "当ZXMATH0000XZ = 1时，专家槽总数恰好等于此Top-1设置中的代币计数。高于一的因素会为不均匀的路由创建缓冲区，但会在静态形状的实现中引入填充、额外的内存和额外的工作。"}

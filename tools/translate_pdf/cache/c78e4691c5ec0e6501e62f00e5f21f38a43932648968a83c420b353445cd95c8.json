@@ -1,0 +1,1 @@
+{"source": "• SmoothQuant rescales activations and weights with an equivalent transformation so activation outliers become easier to quantize;", "zh": "• SmoothQuant 通过等效变换重新调整激活和权重，使激活异常值变得更容易量化；"}

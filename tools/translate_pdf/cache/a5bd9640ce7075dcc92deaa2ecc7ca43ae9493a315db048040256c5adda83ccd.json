@@ -1,0 +1,1 @@
+{"source": "The encoders may share parameters or be separate. Sentence-BERT uses siamese/triplet-style structures to make independent sentence representations comparable. DPR uses distinct question and passage encoders, both based on BERT in the original work. [9,10]", "zh": "编码器可以共享参数或者是独立的。 Sentence-BERT 使用连体/三元组风格的结构来使独立的句子表示具有可比性。 DPR 使用不同的问题和段落编码器，两者都基于原始作品中的 BERT。 [9,10]"}

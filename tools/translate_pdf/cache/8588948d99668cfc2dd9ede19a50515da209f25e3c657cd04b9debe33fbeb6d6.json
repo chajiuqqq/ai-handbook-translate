@@ -1,0 +1,1 @@
+{"source": "Mental model. Active parameter count describes the mathematical path length through weights. Performance depends on whether hardware can execute that path with large, local, well-balanced operations.", "zh": "心智模型。活动参数计数通过权重描述数学路径长度。性能取决于硬件是否可以通过大型、本地、平衡良好的操作执行该路径。"}

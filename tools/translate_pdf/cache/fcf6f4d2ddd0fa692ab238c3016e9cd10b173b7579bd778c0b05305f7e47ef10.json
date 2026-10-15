@@ -1,0 +1,1 @@
+{"source": "A final model-level norm is often applied after the last block before the language-model output head, but that is a model architecture choice rather than part of every individual block.", "zh": "最终模型级规范通常应用于语言模型输出头之前的最后一个块之后，但这是模型架构的选择，而不是每个单独块的一部分。"}

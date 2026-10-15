@@ -1,0 +1,1 @@
+{"source": "Modern hardware can also provide native low-precision matrix engines for ZXNAME0000XZ, ZXNAME0001XZ, or FP4-style formats. Which path is fastest depends on device support, tensor shape, packing, kernel fusion, and whether conversion overhead is hidden.", "zh": "现代硬件还可以为 ZXNAME0000XZ、ZXNAME0001XZ 或 FP4 样式格式提供本机低精度矩阵引擎。哪条路径最快取决于设备支持、张量形状、打包、内核融合以及是否隐藏转换开销。"}

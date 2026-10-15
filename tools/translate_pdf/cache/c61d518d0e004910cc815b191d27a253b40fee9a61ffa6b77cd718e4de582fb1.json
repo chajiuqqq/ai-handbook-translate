@@ -1,0 +1,1 @@
+{"source": "A model fitting in ZXNAME0000XZ answers a capacity question. It does not answer how many times the weights, activations, or KV state will be read, whether the accesses will hit cache, or whether the required traffic can be sustained within the latency target.", "zh": "ZXNAME0000XZ 中的模型拟合回答了容量问题。它没有回答权重、激活或 KV 状态将被读取多少次，访问是否会命中缓存，或者是否可以在延迟目标内维持所需的流量。"}

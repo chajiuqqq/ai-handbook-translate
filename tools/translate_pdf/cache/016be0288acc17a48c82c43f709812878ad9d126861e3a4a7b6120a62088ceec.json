@@ -1,0 +1,1 @@
+{"source": "The smoothing strength is controlled by method-specific statistics/hyperparameters. The transform is computed offline from calibration data, so deployment does not require retraining the original model.", "zh": "平滑强度由特定于方法的统计数据/超参数控制。该变换是根据校准数据离线计算的，因此部署不需要重新训练原始模型。"}

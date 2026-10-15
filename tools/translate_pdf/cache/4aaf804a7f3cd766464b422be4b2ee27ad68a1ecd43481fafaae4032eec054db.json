@@ -1,0 +1,1 @@
+{"source": "Alignment matters because a contiguous request that straddles an additional segment can require an extra transaction. Cache behavior can soften the cost of some misalignment, but it does not make scattered access patterns free.[2]", "zh": "对齐很重要，因为跨越附加段的连续请求可能需要额外的事务。缓存行为可以减轻某些错位的成本，但它并不能消除分散的访问模式。[2]"}

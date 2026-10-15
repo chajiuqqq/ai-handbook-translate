@@ -1,0 +1,1 @@
+{"source": "An ZXNAME0000XZ tensor has limited dynamic range, so practical systems maintain scale information that maps a higher-precision tensor into the available ZXNAME0001XZ range.", "zh": "ZXNAME0000XZ 张量的动态范围有限，因此实际系统会维护将更高精度张量映射到可用 ZXNAME0001XZ 范围的比例信息。"}

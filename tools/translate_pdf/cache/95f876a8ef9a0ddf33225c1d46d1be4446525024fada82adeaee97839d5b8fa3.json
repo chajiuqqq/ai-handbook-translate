@@ -1,0 +1,1 @@
+{"source": "Qwen3’s ZXNAME0000XZ models, for example, share the same fundamental dense-model architecture around attention/norms but replace the feed-forward computation with fine-grained routed experts. [17]", "zh": "例如，Qwen3 的 ZXNAME0000XZ 模型围绕注意力/规范共享相同的基本密集模型架构，但用细粒度路由专家取代了前馈计算。 [17]"}

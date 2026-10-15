@@ -1,0 +1,1 @@
+{"source": "For systems reasoning, keep two claims separate: the hardware supports a high-throughput lowprecision path and this model or kernel can safely and efficiently use it. The first is architectural. The second depends on software and numerical requirements.", "zh": "对于系统推理，请将两个声明分开：硬件支持高吞吐量低精度路径，并且该模型或内核可以安全有效地使用它。首先是建筑学。第二个取决于软件和数字要求。"}

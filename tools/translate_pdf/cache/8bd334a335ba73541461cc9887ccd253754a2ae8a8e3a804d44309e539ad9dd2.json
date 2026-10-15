@@ -1,0 +1,1 @@
+{"source": "For the same operation, precision, and counting convention, hardware peak is a ceiling on sustained arithmetic throughput. End-to-end application performance additionally reflects memory movement, synchronization, communication, kernel launches, and non-matrix work.", "zh": "对于相同的操作、精度和计数约定，硬件峰值是持续算术吞吐量的上限。端到端应用程序性能还反映了内存移动、同步、通信、内核启动和非矩阵工作。"}

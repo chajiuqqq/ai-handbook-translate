@@ -1,0 +1,1 @@
+{"source": "The full Roofline model belongs in AS04. For architecture, the lesson is enough: a ZXNAME0000XZ’s compute and memory systems provide separate ceilings. Improving the non-limiting ceiling does not necessarily make a workload faster.", "zh": "完整的 Roofline 模型属于 AS04。对于架构来说，这个教训就足够了：ZXNAME0000XZ 的计算和内存系统提供了单独的上限。提高非限制上限并不一定会使工作负载更快。"}

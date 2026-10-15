@@ -1,0 +1,1 @@
+{"source": "Post-training quantization modifies a trained model. Quantization-aware training (QAT) instead exposes the optimization process to quantization effects.", "zh": "训练后量化会修改训练后的模型。相反，量化感知训练 (QAT) 使优化过程受到量化效应的影响。"}

@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ is about how an attention operation consumes Q/K/V. PagedAttention is about how serving systems lay out and access persistent KV state across requests. They can coexist in the same serving stack.", "zh": "ZXNAME0000XZ是关于注意力操作如何消耗Q/K/V的。 PagedAttention 是关于服务系统如何跨请求布局和访问持久 KV 状态。它们可以共存于同一个服务堆栈中。"}

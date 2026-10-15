@@ -1,0 +1,1 @@
+{"source": "The key limitation is in the word static. A type such as “bank” receives the same base vector whether the sentence concerns money or a river. Context can only be incorporated later by another model.", "zh": "关键的限制在于“静态”一词。无论句子涉及金钱还是河流，诸如“银行”之类的类型都会接收相同的基向量。上下文只能稍后由另一个模型合并。"}

@@ -1,0 +1,1 @@
+{"source": "Current production frameworks expose both families of behavior. Megatron Core supports capacity factors and token-drop policies, but its default capacity factor is currently None, documented as no token dropping.", "zh": "当前的生产框架暴露了这两种行为。威震天核心支持容量因子和代币丢弃策略，但其默认容量因子目前为“无”，记录为无代币丢弃。"}

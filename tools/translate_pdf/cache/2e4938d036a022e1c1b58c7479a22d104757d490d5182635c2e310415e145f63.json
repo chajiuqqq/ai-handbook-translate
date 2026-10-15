@@ -1,0 +1,1 @@
+{"source": "1. weight-only vs weight-activation: reducing model bandwidth is different from enabling low-bit activation matmuls;", "zh": "1. 仅权重与权重激活：减少模型带宽与启用低位激活矩阵乘法不同；"}

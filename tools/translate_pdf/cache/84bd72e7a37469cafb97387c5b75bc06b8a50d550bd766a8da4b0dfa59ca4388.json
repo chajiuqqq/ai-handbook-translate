@@ -1,0 +1,1 @@
+{"source": "High-performance AI kernels use these tools to overlap stages, but the fundamental rule remains: synchronization creates dependencies between workers. The schedule must respect those dependencies, and unnecessary synchronization can reduce available parallelism.", "zh": "高性能人工智能内核使用这些工具来重叠阶段，但基本规则仍然存在：同步在工作人员之间创建依赖关系。调度必须尊重这些依赖性，并且不必要的同步会减少可用的并行性。"}

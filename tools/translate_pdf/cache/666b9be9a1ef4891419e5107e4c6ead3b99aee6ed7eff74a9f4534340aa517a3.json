@@ -1,0 +1,1 @@
+{"source": "This creates several separate failure modes: bad chunk boundaries, an embedding model that does not understand the domain, a query/document formatting mismatch, an approximate-search miss, or a reranker/generator failure.", "zh": "这会产生几种单独的故障模式：错误的块边界、不理解域的嵌入模型、查询/文档格式不匹配、近似搜索未命中或重新排序器/生成器故障。"}

@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ activations can contain persistent high-magnitude features. If one scale is shared across a tensor or vector, these outliers expand the required dynamic range and make the quantization step coarser for the majority of smaller values.", "zh": "ZXNAME0000XZ 激活可以包含持久的高强度特征。如果在张量或向量之间共享一个尺度，这些异常值会扩展所需的动态范围，并使大多数较小值的量化步长变得更粗糙。"}

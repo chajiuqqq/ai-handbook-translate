@@ -1,0 +1,1 @@
+{"source": "In symmetric quantization, the real range is centered around zero. For signed integers, the zero-point is usually fixed at zero and the scale is determined by the largest absolute magnitude:", "zh": "在对称量化中，实数范围以零为中心。对于有符号整数，零点通常固定为零，并且比例由最大绝对值决定："}

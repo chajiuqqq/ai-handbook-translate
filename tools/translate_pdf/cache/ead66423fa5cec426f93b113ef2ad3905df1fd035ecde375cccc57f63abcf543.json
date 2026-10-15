@@ -1,0 +1,1 @@
+{"source": "The compiler may use local memory for arrays with dynamic indexing, large thread-private objects, or values that cannot remain in registers. The last case is usually called register spilling.[1][3]", "zh": "编译器可以将本地内存用于具有动态索引的数组、大型线程私有对象或无法保留在寄存器中的值。最后一种情况通常称为寄存器溢出。[1][3]"}

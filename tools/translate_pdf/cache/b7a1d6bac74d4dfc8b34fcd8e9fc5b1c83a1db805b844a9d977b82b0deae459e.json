@@ -1,0 +1,1 @@
+{"source": "Current ZXNAME0000XZ examples model global-memory service in 32-byte transactions. For a concrete 64-bit case, a full warp loading 32 aligned consecutive 8-byte values needs 256 useful bytes. Those addresses occupy eight 32-byte segments.[1][3]", "zh": "当前的 ZXNAME0000XZ 示例对 32 字节事务中的全局内存服务进行建模。对于具体的 64 位情况，加载 32 个对齐的连续 8 字节值的完整扭曲需要 256 个有用字节。这些地址占用 8 个 32 字节段。[1][3]"}

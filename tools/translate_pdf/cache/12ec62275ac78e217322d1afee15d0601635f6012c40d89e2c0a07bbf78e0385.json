@@ -1,0 +1,1 @@
+{"source": "FA2 also refines what is saved for backward, using compact row-wise log-sum-exp information and recomputing tiles instead of materializing probabilities. This preserves the linear-memory character while improving the kernel’s work distribution.[5]", "zh": "FA2 还细化了向后保存的内容，使用紧凑的行对数和表达式信息并重新计算图块而不是具体化概率。这保留了线性内存特性，同时改善了内核的工作分配。[5]"}

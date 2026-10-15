@@ -1,0 +1,1 @@
+{"source": "Post-training quantization often needs representative data to estimate ranges, clipping thresholds, activation statistics, or reconstruction objectives. This process is usually called calibration.", "zh": "训练后量化通常需要代表性数据来估计范围、裁剪阈值、激活统计或重建目标。这个过程通常称为校准。"}

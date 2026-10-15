@@ -1,0 +1,1 @@
+{"source": "A kernel with many resident warps can still have poor latency hiding if most of those warps are waiting at the same synchronization point. Residency is useful only when it creates ready work.", "zh": "如果大多数常驻 warp 都在同一同步点等待，则具有许多常驻 warp 的内核仍然可能具有较差的延迟隐藏。居住权只有在创造现成工作时才有用。"}

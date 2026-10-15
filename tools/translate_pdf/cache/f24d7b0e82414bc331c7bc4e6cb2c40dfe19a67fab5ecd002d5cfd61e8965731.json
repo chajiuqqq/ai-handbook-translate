@@ -1,0 +1,1 @@
+{"source": "RoPE. ZXNAME0000XZ’s decoupled RoPE exists because position-dependent rotations interfere with the projection absorption used for latent K/V caching.", "zh": "绳索。 ZXNAME0000XZ 的解耦 RoPE 之所以存在，是因为位置相关的旋转会干扰用于潜在 K/V 缓存的投影吸收。"}

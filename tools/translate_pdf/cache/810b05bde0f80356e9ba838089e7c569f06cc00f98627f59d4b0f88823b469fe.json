@@ -1,0 +1,1 @@
+{"source": "The scale determines the distance between adjacent representable real values. The zero-point determines which integer code represents real zero. Rounding produces finite precision; clamping handles values outside the chosen representable range.", "zh": "比例决定了相邻可表示实值之间的距离。零点确定哪个整数代码代表真正的零。舍入产生有限精度；钳位处理超出所选可表示范围的值。"}

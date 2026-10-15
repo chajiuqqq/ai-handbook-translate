@@ -1,0 +1,1 @@
+{"source": "Mental model. Do not ask “is attention or the MLP more expensive?” without specifying sequence length, batch, width, architecture, phase, precision, and hardware.", "zh": "心智模型。不要问“注意力更贵还是 MLP 更贵？”无需指定序列长度、批次、宽度、架构、相位、精度和硬件。"}

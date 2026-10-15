@@ -1,0 +1,1 @@
+{"source": "Important. Parallel residual blocks are not algebraically identical to serial blocks. The MLP no longer sees the current block’s attention update before producing its own update.", "zh": "重要。并行残差块在代数上与串行块不同。 MLP 在生成自己的更新之前不再看到当前块的注意力更新。"}

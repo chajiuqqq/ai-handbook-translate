@@ -1,0 +1,1 @@
+{"source": "Important. Calling z-loss “another load-balancing loss” erases its purpose. A router can be numerically wellbehaved and still imbalanced, or balanced while still suffering unstable logit magnitudes.", "zh": "重要。将 z 损失称为“另一种负载平衡损失”就抹杀了它的目的。路由器可能在数值上表现良好但仍然不平衡，或者平衡但仍遭受不稳定的 logit 幅度。"}

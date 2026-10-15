@@ -1,0 +1,1 @@
+{"source": "elements, sequence positions, and future requests. Large models, however, are far bigger than on-chip caches, so much of the weight stream still comes from device memory over time.", "zh": "元素、序列位置和未来的请求。然而，大型模型比片上缓存大得多，因此随着时间的推移，大部分权重流仍然来自设备内存。"}

@@ -1,0 +1,1 @@
+{"source": "Sentence Transformers explicitly notes that dot product on normalized embeddings is equivalent to cosine similarity, while avoiding redundant re-normalization at comparison time. [20]", "zh": "Sentence Transformers 明确指出，归一化嵌入上的点积相当于余弦相似度，同时避免了比较时的冗余重新归一化。 [20]"}

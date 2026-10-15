@@ -1,0 +1,1 @@
+{"source": "Although the same token ID selects the same base rowZXMATH0000XZ wherever it appears,ZXMATH0001XZ depends on surrounding tokens, position treatment, attention, feed-forward computation, normalization, and the layer being inspected.", "zh": "尽管相同的 token ID 无论出现在何处都会选择相同的基行 ZXMATH0000XZ，但 ZXMATH0001XZ 取决于周围的 token、位置处理、注意力、前馈计算、归一化和正在检查的层。"}

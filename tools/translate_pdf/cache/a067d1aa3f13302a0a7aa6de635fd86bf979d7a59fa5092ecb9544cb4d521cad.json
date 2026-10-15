@@ -1,0 +1,1 @@
+{"source": "Clipping error. A value outside the selected range is saturated to an endpoint. This can be much larger than one quantization step.", "zh": "剪辑错误。超出选定范围的值将饱和到端点。这可能比一个量化步长大得多。"}

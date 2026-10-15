@@ -1,0 +1,1 @@
+{"source": "For an elementwise activation, a value may be read once, transformed, and written once. There is limited opportunity to reuse that value before it leaves the kernel. If the arithmetic is cheap, the cost of reading and writing the tensor can dominate.", "zh": "对于逐元素激活，可以读取一次值、转换一次并写入一次值。在该值离开内核之前，重用该值的机会有限。如果算术很便宜，那么读写张量的成本就会占主导地位。"}

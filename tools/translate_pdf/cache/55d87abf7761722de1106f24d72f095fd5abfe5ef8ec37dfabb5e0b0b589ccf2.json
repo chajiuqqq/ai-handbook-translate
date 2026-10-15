@@ -1,0 +1,1 @@
+{"source": "Offloading expands effective cache capacity, but introduces data movement. Whether it helps depends on reuse probability, transfer bandwidth/latency, overlap with compute, and the cost of recomputing the state instead.", "zh": "卸载扩展了有效的缓存容量，但引入了数据移动。它是否有帮助取决于重用概率、传输带宽/延迟、与计算的重叠以及重新计算状态的成本。"}

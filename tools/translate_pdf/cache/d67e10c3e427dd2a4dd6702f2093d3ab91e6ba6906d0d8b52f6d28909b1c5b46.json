@@ -1,0 +1,1 @@
+{"source": "Starting with Ampere-class ZXNAME0000XZ devices, software can also provide persistence hints for selected globalmemory regions in L2. These mechanisms influence replacement priority rather than converting L2 into explicitly addressed scratchpad memory.[1]", "zh": "从 Ampere 级 ZXNAME0000XZ 器件开始，软件还可以为 L2 中选定的全局内存区域提供持久性提示。这些机制影响替换优先级，而不是将 L2 转换为显式寻址的暂存存储器。[1]"}

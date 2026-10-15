@@ -1,0 +1,1 @@
+{"source": "The payoff comes from reuse. If 256 threads each need values that many neighboring threads also need, fetching one shared tile can replace a large number of redundant downstream loads.", "zh": "回报来自重用。如果 256 个线程中的每个线程都需要许多相邻线程也需要的值，则获取一个共享图块可以替代大量冗余的下游负载。"}

@@ -1,0 +1,1 @@
+{"source": "Suppose a decoder has 48 layers, 64 query heads, 8 KV heads, head width 128, and ZXNAME0000XZ cache elements. For a 16,384-token single sequence,", "zh": "假设解码器有 48 层、64 个查询头、8 个 KV 头、头宽度 128 和 ZXNAME0000XZ 缓存元素。对于 16,384 个令牌的单个序列，"}

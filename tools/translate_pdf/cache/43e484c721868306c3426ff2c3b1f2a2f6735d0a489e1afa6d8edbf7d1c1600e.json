@@ -1,0 +1,1 @@
+{"source": "A runtime may choose a range using calibration statistics rather than the exact minimum and maximum. Clipping a small number of extreme values can sometimes reduce total error because it allows a finer grid over the region where most values live.", "zh": "运行时可以使用校准统计数据而不是精确的最小值和最大值来选择范围。剪切少量极值有时可以减少总误差，因为它可以在大多数值所在的区域上形成更精细的网格。"}

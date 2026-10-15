@@ -1,0 +1,1 @@
+{"source": "An embedding table does not need a special “semantic” loss to become useful. If it participates in a differentiable model, the task loss can update the selected rows through backpropagation.", "zh": "嵌入表不需要特殊的“语义”损失即可变得有用。如果它参与可微模型，任务损失可以通过反向传播更新所选行。"}

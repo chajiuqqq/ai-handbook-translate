@@ -1,0 +1,1 @@
+{"source": "Tiling does not make the tensor smaller. It changes the schedule so that a smaller working set can be reused before it leaves a fast storage level.", "zh": "平铺不会使张量变小。它更改了计划，以便在离开快速存储级别之前可以重用较小的工作集。"}

@@ -1,0 +1,1 @@
+{"source": "Case C: stride 4. ThreadZXMATH0000XZ reads element ZXMATH0001XZ Each requested 8-byte value begins in a different 32-byte segment, so 32 segments cover 1024 bytes for 256 useful bytes.", "zh": "情况 C：跨步 4. ThreadZXMATH0000XZ 读取元素 ZXMATH0001XZ 每个请求的 8 字节值都从不同的 32 字节段开始，因此 32 段覆盖 1024 字节，共 256 个有用字节。"}

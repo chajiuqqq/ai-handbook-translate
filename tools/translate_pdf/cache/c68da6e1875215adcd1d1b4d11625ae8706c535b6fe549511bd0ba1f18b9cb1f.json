@@ -1,0 +1,1 @@
+{"source": "MegaBlocks reformulated expert computation as block-sparse operations that can efficiently handle unequal expert loads. Its design explicitly avoids the choice between dropping tokens and padding all experts to a fixed capacity.", "zh": "MegaBlocks 将专家计算重新表述为块稀疏操作，可以有效地处理不平等的专家负载。它的设计明确避免了在丢弃代币和将所有专家填充到固定容量之间进行选择。"}

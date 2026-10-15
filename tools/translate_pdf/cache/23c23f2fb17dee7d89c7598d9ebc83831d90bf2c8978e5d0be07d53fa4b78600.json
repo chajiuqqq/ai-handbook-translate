@@ -1,0 +1,1 @@
+{"source": "During decode, each new query head attends to the historical K/V state associated with its head. This gives the architecture rich per-head K/V projections, but it also makes the KV cache grow in direct proportion to the number of KV heads.", "zh": "在解码期间，每个新的查询头都会关注与其头关联的历史 K/V 状态。这为架构提供了丰富的每头 K/V 投影，但也使得 KV 缓存与 KV 头数量成正比增长。"}

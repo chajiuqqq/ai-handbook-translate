@@ -1,0 +1,1 @@
+{"source": "The original MRL paper uses nested dimensions, often spaced roughly logarithmically, so one model can support several accuracy/efficiency operating points without recomputing a completely different representation.", "zh": "原始 MRL 论文使用嵌套维度，通常以大致对数方式间隔，因此一个模型可以支持多个精度/效率操作点，而无需重新计算完全不同的表示形式。"}

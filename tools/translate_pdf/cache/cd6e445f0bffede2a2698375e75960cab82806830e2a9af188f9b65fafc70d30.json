@@ -1,0 +1,1 @@
+{"source": "The original Roofline formulation uses off-chip memory traffic (operational intensity) to relate attainable performance to peak compute and memory bandwidth. Hierarchical variants can apply the same style of reasoning to additional levels.[13]", "zh": "最初的 Roofline 公式使用片外内存流量（操作强度）将可达到的性能与峰值计算和内存带宽联系起来。层次结构变体可以将相同的推理风格应用于其他级别。[13]"}

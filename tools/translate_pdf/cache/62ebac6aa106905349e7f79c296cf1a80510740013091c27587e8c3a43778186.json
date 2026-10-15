@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ is a useful example: it computes exact dense attention but changes the execution schedule. Intermediate tiles are consumed and reused near the compute units instead of repeatedly round-tripping large intermediates through ZXNAME0001XZ.[12]", "zh": "ZXNAME0000XZ 是一个有用的例子：它计算精确的密集注意力，但改变执行计划。中间块在计算单元附近被消耗和重用，而不是通过 ZXNAME0001XZ 重复往返大型中间块。[12]"}

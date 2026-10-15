@@ -1,0 +1,1 @@
+{"source": "2. parallelize attention across sequence tiles even for a single head to improve occupancy,", "zh": "2. 即使对于单个头，也可以跨序列图块并行注意力，以提高占用率，"}

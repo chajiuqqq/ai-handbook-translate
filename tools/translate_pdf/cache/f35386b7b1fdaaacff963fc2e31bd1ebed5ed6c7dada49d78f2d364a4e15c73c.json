@@ -1,0 +1,1 @@
+{"source": "The practical workflow is to inspect compiler resource reports and profile the resulting kernel, rather than assuming that fewer registers or more occupancy must be better.", "zh": "实际的工作流程是检查编译器资源报告并分析生成的内核，而不是假设更少的寄存器或更多的占用一定更好。"}

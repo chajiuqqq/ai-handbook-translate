@@ -1,0 +1,1 @@
+{"source": "Fusion is part of the implementation story, but the online-softmax tiling and IO-aware scheduling are algorithmic, not merely concatenating existing kernels.", "zh": "Fusion 是实现过程的一部分，但在线 softmax 平铺和 IO 感知调度是算法性的，而不仅仅是连接现有内核。"}

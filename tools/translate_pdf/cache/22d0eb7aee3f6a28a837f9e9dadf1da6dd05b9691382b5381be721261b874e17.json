@@ -1,0 +1,1 @@
+{"source": "This makes registers ideal for very fine-grained reuse. Consider a thread accumulating a partial dot product:", "zh": "这使得寄存器成为非常细粒度的重用的理想选择。考虑一个累积部分点积的线程："}

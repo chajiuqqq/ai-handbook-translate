@@ -1,0 +1,1 @@
+{"source": "Unlike PagedAttention’s memory placement or exact prefix reuse, KV-cache quantization changes the numerical representation of cached tensors.", "zh": "与 PagedAttention 的内存放置或精确前缀重用不同，KV 缓存量化改变了缓存张量的数值表示。"}

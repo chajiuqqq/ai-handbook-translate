@@ -1,0 +1,1 @@
+{"source": "The same principle appears at smaller scales. A value loaded into a register may participate in many arithmetic instructions. A shared-memory tile may feed many threads. A cache line may satisfy multiple accesses before eviction.", "zh": "同样的原理也出现在较小的尺度上。加载到寄存器中的值可以参与许多算术指令。共享内存块可以供给许多线程。高速缓存行在驱逐之前可以满足多次访问。"}

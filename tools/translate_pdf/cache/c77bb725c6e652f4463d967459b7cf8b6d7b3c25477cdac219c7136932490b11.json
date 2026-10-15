@@ -1,0 +1,1 @@
+{"source": "The point of tiling is reuse. A tile loaded from global memory can be reused across many multiplyaccumulate operations before being evicted. Registers hold accumulators or fragments close to the math units. Shared memory provides a cooperative staging area.[11]", "zh": "平铺的重点是重复利用。从全局内存加载的图块在被逐出之前可以在许多乘法累加操作中重复使用。寄存器保存靠近数学单元的累加器或片段。共享内存提供了一个协作的暂存区域。[11]"}

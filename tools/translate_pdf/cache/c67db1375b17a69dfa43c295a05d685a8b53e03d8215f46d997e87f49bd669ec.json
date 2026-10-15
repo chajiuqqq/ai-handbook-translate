@@ -1,0 +1,1 @@
+{"source": "devices wait while others process large token batches. Capacity-limited implementations may overflow or pad. Dynamic implementations still suffer stragglers and irregular batch sizes.", "zh": "当其他设备处理大量令牌时，设备会等待。容量有限的实现可能会溢出或填充。动态实现仍然面临落后者和不规则批量大小的问题。"}

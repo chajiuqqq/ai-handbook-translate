@@ -1,0 +1,1 @@
+{"source": "Important. A residual connection is not concatenation. It is elementwise addition of same-shaped tensors. Concatenation would change the width and require different downstream parameters.", "zh": "重要。残余连接不是串联。它是相同形状张量的元素加法。串联会改变宽度并需要不同的下游参数。"}

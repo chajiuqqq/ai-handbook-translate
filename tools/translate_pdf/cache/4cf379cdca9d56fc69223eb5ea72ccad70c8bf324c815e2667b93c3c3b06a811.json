@@ -1,0 +1,1 @@
+{"source": "Barriers are essential for correctness in patterns such as “load a shared-memory tile, then let every thread consume it.” But a barrier can expose imbalance. If some warps reach the barrier early while others are still doing work, the early warps wait.", "zh": "屏障对于“加载共享内存块，然后让每个线程使用它”等模式的正确性至关重要。但障碍可能会暴露不平衡。如果一些扭曲提前到达障碍物而其他扭曲仍在工作，则早期扭曲会等待。"}

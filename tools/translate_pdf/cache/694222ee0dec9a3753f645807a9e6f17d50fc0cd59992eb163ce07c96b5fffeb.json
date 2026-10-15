@@ -1,0 +1,1 @@
+{"source": "and keys before their dot products are used by attention. During ordinary cached decoding, the historical keys stored for future reuse must remain consistent with the positional treatment expected by later queries.", "zh": "和键之前，它们的点积被注意力使用。在普通缓存解码期间，存储以供将来重用的历史密钥必须与后续查询所期望的位置处理保持一致。"}

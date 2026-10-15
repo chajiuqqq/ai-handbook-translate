@@ -1,0 +1,1 @@
+{"source": "A safe cache key may need to distinguish more than visible token text: model identity and configuration, adapters, multimodal inputs, or other execution state can affect whether a cached block is reusable. Exact requirements are runtime-specific.", "zh": "安全的缓存密钥可能需要区分的不仅仅是可见的标记文本：模型标识和配置、适配器、多模式输入或其他执行状态可能会影响缓存的块是否可重用。确切的要求是特定于运行时的。"}

@@ -1,0 +1,1 @@
+{"source": "AS07 will treat transactions, alignment, stride, and architecture-specific coalescing rules in detail. Here we need only enough to see why tensor layout can change memory traffic without changing tensor size.", "zh": "AS07 将详细处理事务、对齐、跨步和特定于架构的合并规则。这里我们只需要了解为什么张量布局可以在不改变张量大小的情况下改变内存流量。"}

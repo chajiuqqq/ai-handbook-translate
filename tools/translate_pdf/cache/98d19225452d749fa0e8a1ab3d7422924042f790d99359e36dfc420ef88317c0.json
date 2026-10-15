@@ -1,0 +1,1 @@
+{"source": "The practical idea is not “compress, then fully decompress every cached token.” It is to rewrite the surrounding linear algebra so attention can operate with the compressed latent while fixed projection matrices are absorbed into adjacent computation.", "zh": "实际的想法不是“压缩，然后完全解压缩每个缓存的令牌”。它重写周围的线性代数，以便注意力可以与压缩的潜在变量一起运行，同时固定的投影矩阵被吸收到相邻的计算中。"}

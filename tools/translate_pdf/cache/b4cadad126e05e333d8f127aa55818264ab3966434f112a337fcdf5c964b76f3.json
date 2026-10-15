@@ -1,0 +1,1 @@
+{"source": "The code below streamsZXMATH0000XZ blocks and implements the recurrence directly. It omits batching, masks, dropout, query tiling, and every ZXNAME0000XZ optimization, so it is a correctness illustration rather than a FlashAt-", "zh": "下面的代码 StreamsZXMATH0000XZ 块并直接实现递归。它省略了批处理、掩码、丢失、查询平铺和每个 ZXNAME0000XZ 优化，因此它是正确性说明而不是 FlashAt-"}

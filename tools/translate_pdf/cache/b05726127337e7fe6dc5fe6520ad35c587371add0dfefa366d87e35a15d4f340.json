@@ -1,0 +1,1 @@
+{"source": "Important. There is no monotonic rule that “more experts” or “fewer active parameters” produces a faster or better model. Expert size, dense backbone, routing, precision, parallelism, and implementation all change the comparison.", "zh": "重要。不存在“更多专家”或“更少活跃参数”产生更快或更好模型的单调规则。专家规模、密集骨干网、路由、精度、并行性和实现都改变了比较。"}

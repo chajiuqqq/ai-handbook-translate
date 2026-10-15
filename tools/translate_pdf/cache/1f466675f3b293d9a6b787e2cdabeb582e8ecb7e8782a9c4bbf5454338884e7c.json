@@ -1,0 +1,1 @@
+{"source": "Sparse/local attention deliberately computes only a subset of query-key interactions. If each query attends to only a window or selected blocks, arithmetic can fall below full denseZXMATH0000XZ ZXMATH0001XZ work, but the model’s attention pattern has changed.", "zh": "稀疏/局部注意力有意仅计算查询键交互的子集。如果每个查询仅关注一个窗口或选定的块，则算术可能会低于完全密集ZXMATH0000XZ ZXMATH0001XZ 的工作，但模型的注意力模式已经改变。"}

@@ -1,0 +1,1 @@
+{"source": "DPR deliberately used dot product. SimCSE’s standard objective uses cosine similarity. E5 uses cosine scaled by temperature. These are training choices, not merely interchangeable query-time switches. [10,11,14]", "zh": "DPR 故意使用点积。 SimCSE 的标准目标使用余弦相似度。 E5 使用按温度缩放的余弦。这些是训练选择，而不仅仅是可互换的查询时间开关。 [10,11,14]"}

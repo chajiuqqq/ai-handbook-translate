@@ -1,0 +1,1 @@
+{"source": "A kernel’s blocks consume finite ZXNAME0000XZ resources. Registers are allocated for threads. Shared memory is allocated for blocks. Architectural limits cap resident blocks, warps, and threads. Those constraints jointly determine how much work can be resident.[1,2]", "zh": "内核的块消耗有限的 ZXNAME0000XZ 资源。寄存器是为线程分配的。共享内存是按块分配的。架构限制了常驻块、扭曲和线程。这些限制共同决定了可以驻留的工作量。[1,2]"}

@@ -1,0 +1,1 @@
+{"source": "Tiling alone is not enough. Matrix multiplication tiles compose naturally because sums can be accumulated. Softmax couples every score in a row through a shared maximum and denominator, so we need a way to merge blocks without seeing the full row at once.", "zh": "仅贴瓷砖是不够的。矩阵乘法图块可以自然地组合，因为总和可以累加。 Softmax 通过共享的最大值和分母将一行中的每个分数耦合起来，因此我们需要一种方法来合并块，而无需立即看到整行。"}

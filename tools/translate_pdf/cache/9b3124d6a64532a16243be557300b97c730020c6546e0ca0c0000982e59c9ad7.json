@@ -1,0 +1,1 @@
+{"source": "When threads in a warp issue global-memory accesses, the ZXNAME0000XZ combines their requests into memory", "zh": "当 warp 中的线程发出全局内存访问时，ZXNAME0000XZ 将它们的请求合并到内存中"}

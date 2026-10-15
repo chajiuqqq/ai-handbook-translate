@@ -1,0 +1,1 @@
+{"source": "This handbook focuses on sparse expert layers in modern language-model Transformers. It covers enough expert parallelism to explain execution cost, but full distributed-systems design belongs in a separate systems handbook.", "zh": "本手册重点介绍现代语言模型 Transformer 中的稀疏专家层。它涵盖了足够的专家并行性来解释执行成本，但完整的分布式系统设计属于单独的系统手册。"}

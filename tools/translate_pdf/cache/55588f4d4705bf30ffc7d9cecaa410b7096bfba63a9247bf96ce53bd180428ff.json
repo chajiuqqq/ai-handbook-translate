@@ -1,0 +1,1 @@
+{"source": "GPTQ is a post-training weight quantization method designed to compress very large generative Transformers to low bit-widths without full retraining.", "zh": "GPTQ 是一种训练后权重量化方法，旨在将非常大的生成 Transformer 压缩到低位宽，而无需完全重新训练。"}

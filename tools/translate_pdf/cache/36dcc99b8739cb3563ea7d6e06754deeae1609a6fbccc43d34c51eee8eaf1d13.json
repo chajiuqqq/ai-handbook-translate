@@ -1,0 +1,1 @@
+{"source": "A cross-encoder is different: it processes the pair jointly, which can model richer token-level interactions but prevents independent precomputation of document scores for every possible query.", "zh": "交叉编码器则不同：它联合处理该对，这可以模拟更丰富的令牌级交互，但会阻止对每个可能的查询的文档分数进行独立的预计算。"}

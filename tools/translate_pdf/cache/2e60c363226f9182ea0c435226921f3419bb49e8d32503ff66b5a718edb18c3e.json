@@ -1,0 +1,1 @@
+{"source": "• AWQ uses activation statistics to identify weight channels whose quantization error matters most, then rescales to protect them.", "zh": "• AWQ 使用激活统计来识别量化误差最重要的权重通道，然后重新缩放以保护它们。"}

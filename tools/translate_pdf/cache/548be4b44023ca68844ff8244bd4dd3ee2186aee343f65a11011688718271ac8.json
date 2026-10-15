@@ -1,0 +1,1 @@
+{"source": "query head still forms its own attention scores and weighted output. The exact runtime impact depends on the relative costs of projections, attention math, memory traffic, kernel design, batch size, and hardware.", "zh": "查询头仍然形成自己的注意力分数和加权输出。确切的运行时影响取决于预测、注意力数学、内存流量、内核设计、批量大小和硬件的相对成本。"}

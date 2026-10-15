@@ -1,0 +1,1 @@
+{"source": "The loss penalizes large log-normalizers and encourages router logits to remain smaller in magnitude. ST-ZXNAME0000XZ reports that this improved training stability in its experiments without the quality loss seen with tighter update clipping.", "zh": "这种损失会惩罚大型对数标准化器，并鼓励路由器对数保持较小的幅度。 ST-ZXNAME0000XZ 报告称，这提高了实验中的训练稳定性，而不会因更严格的更新裁剪而出现质量损失。"}

@@ -1,0 +1,1 @@
+{"source": "Safe wording. Registers are the normal home for thread-private working values close to execution. Avoid universal claims such as “a register access is always one cycle.” Exact timing depends on the instruction path, dependencies, banking, scheduling, and architecture.", "zh": "安全措辞。寄存器是接近执行的线程私有工作值的正常所在地。避免通用的说法，例如“寄存器访问始终是一个周期”。确切的时序取决于指令路径、依赖性、存储、调度和架构。"}

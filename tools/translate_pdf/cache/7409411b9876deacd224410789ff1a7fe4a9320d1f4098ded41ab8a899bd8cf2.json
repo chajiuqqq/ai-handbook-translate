@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ operations have latency. A global-memory request, an arithmetic dependency, or synchronization can prevent one warp from issuing its next instruction immediately. GPUs cope with much of this latency by having other independent work available.[2,3]", "zh": "ZXNAME0000XZ 操作有延迟。全局内存请求、算术依赖性或同步可以阻止一个 warp 立即发出其下一条指令。 GPU 通过其他可用的独立工作来应对大部分延迟。[2,3]"}

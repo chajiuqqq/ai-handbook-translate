@@ -1,0 +1,1 @@
+{"source": "A pretrained language model can produce hidden states for any text, but that does not guarantee that a simple pooled vector has useful cosine geometry for semantic similarity.", "zh": "预训练的语言模型可以为任何文本生成隐藏状态，但这并不能保证简单的池向量具有用于语义相似性的有用余弦几何。"}

@@ -1,0 +1,1 @@
+{"source": "K/V projection width. In a conventional implementation, fewer KV heads mean narrower K and V projection outputs. Their parameter count and projection work can therefore fall roughly in proportion toZXMATH0000XZ when head width is fixed.", "zh": "K/V 投影宽度。在传统实现中，较少的 KV 头意味着较窄的 K 和 V 投影输出。因此，当头部宽度固定时，它们的参数计数和投影工作可以大致与 ZXMATH0000XZ 成比例下降。"}

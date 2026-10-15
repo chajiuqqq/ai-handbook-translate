@@ -1,0 +1,1 @@
+{"source": "A technical handbook on where AI workloads keep data and how those bytes move: registers, shared memory, L1/L2 caches, ZXNAME0000XZ, locality, working sets, coalescing, tiling, and the memory behavior behind modern ZXNAME0001XZ kernels.", "zh": "关于 AI 工作负载在何处保存数据以及这些字节如何移动的技术手册：寄存器、共享内存、L1/L2 缓存、ZXNAME0000XZ、局部性、工作集、合并、平铺以及现代 ZXNAME0001XZ 内核背后的内存行为。"}

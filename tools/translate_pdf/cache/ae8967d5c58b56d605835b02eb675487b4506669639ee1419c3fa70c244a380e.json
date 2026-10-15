@@ -1,0 +1,1 @@
+{"source": "Even when only a few experts are used per token, a batch can touch many experts. Weight residency and memory bandwidth therefore remain important, especially at low batch sizes.", "zh": "即使每个代币只使用少数专家，一批也可能涉及许多专家。因此，权重驻留和内存带宽仍然很重要，尤其是在小批量大小的情况下。"}

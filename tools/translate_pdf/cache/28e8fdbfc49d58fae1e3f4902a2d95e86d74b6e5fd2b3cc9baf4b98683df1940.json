@@ -1,0 +1,1 @@
+{"source": "The PagedAttention design avoids requiring each logical sequence’s KV state to live in one contiguous physical region. Instead it divides cache state into fixed-size blocks and maps logical blocks to physical blocks.", "zh": "PagedAttention 设计避免了要求每个逻辑序列的 KV 状态位于一个连续的物理区域中。相反，它将缓存状态划分为固定大小的块，并将逻辑块映射到物理块。"}

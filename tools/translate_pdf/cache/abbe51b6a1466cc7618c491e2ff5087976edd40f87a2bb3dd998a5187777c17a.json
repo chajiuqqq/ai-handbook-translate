@@ -1,0 +1,1 @@
+{"source": "The architecture therefore exposes a real trade-off: extreme K/V sharing can be exceptionally cache-efficient, but it also reduces the number of distinct learned K/V subspaces available to the query heads.", "zh": "因此，该架构暴露了一个真正的权衡：极端的 K/V 共享可以非常高效地缓存，但它也减少了查询头可用的不同学习 K/V 子空间的数量。"}

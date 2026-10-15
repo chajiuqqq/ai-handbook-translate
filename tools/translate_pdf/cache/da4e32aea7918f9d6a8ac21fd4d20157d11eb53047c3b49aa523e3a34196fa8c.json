@@ -1,0 +1,1 @@
+{"source": "The subtraction byZXMATH0000XZ prevents overflow from large positive logits. But it seems to create a streaming problem: how can an early block be normalized if a later block may contain a larger maximum?", "zh": "ZXMATH0000XZ 的减法可防止大的正 logits 溢出。但这似乎产生了一个流问题：如果后面的块可能包含更大的最大值，那么如何标准化早期的块？"}

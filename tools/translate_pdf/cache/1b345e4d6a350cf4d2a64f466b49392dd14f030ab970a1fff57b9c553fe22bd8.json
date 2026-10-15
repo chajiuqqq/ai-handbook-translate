@@ -1,0 +1,1 @@
+{"source": "• block sizes that are multiples of 32 avoid a permanently under-filled final warp;", "zh": "• 块大小为32 的倍数可避免永久填充不足的最终扭曲；"}

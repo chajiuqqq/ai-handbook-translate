@@ -1,0 +1,1 @@
+{"source": "Important. NF4 belongs to the storage/quantization representation of the frozen base weights. LoRA adapter parameters, optimizer states, gradients, activations, and compute dtypes follow their own precision rules.", "zh": "重要。 NF4 属于冻结基本重量的存储/量化表示。 LoRA 适配器参数、优化器状态、梯度、激活和计算数据类型遵循自己的精度规则。"}

@@ -1,0 +1,1 @@
+{"source": "Newer instruction-aware embedding models generalize the idea. Qwen3 Embedding concatenates a task instruction with the query while leaving the document unchanged, allowing relevance to be conditioned on the requested task. [18]", "zh": "较新的指令感知嵌入模型概括了这个想法。 Qwen3 Embedding 将任务指令与查询连接起来，同时保持文档不变，从而允许以请求的任务为条件确定相关性。 [18]"}

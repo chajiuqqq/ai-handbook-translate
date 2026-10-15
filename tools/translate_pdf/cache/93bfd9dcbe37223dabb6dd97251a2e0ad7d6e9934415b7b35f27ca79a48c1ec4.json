@@ -1,0 +1,1 @@
+{"source": "Calling shared memory “a cache” is sometimes useful as an analogy because programmers often use it to retain data that would otherwise be fetched repeatedly. But the analogy becomes misleading if it hides the software responsibility.", "zh": "将共享内存称为“缓存”有时是有用的类比，因为程序员经常使用它来保留否则会重复获取的数据。但如果这种类比隐藏了软件责任，就会产生误导。"}

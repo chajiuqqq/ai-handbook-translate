@@ -1,0 +1,1 @@
+{"source": "• neighboring threads often issue memory operations together, which is why address layout affects coalescing;", "zh": "• 相邻线程经常一起发出内存操作，这就是地址布局影响合并的原因；"}

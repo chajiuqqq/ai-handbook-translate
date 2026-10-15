@@ -1,0 +1,1 @@
+{"source": "Mental model. “Position-wise” means shared function, independent application across token positions. It does not mean the MLP is unaware of context: its input state can already contain context mixed in by earlier attention.", "zh": "心智模型。 “仓位”是指跨代币仓位共享功能、独立应用。这并不意味着 MLP 不知道上下文：它的输入状态已经可以包含由早期注意力混合的上下文。"}

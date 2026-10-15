@@ -1,0 +1,1 @@
+{"source": "Modern text embedding models are often trained with a contrastive objective. The intuition is simple: increase similarity for related pairs and reduce it relative to competing negatives.", "zh": "现代文本嵌入模型通常以对比目标进行训练。直觉很简单：增加相关对的相似性，并减少相对于竞争负片的相似性。"}

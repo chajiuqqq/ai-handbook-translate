@@ -1,0 +1,1 @@
+{"source": "The phrase “memory-efficient attention” is too broad to identify a method. Ask two questions: 1. Does it compute the same dense softmax attention? 2. Does it reduce arithmetic pairs, or mostly memory traffic/intermediate storage?", "zh": "“记忆高效注意力”这个词太宽泛，无法确定一种方法。问两个问题： 1. 它是否计算相同的密集 softmax 注意力？ 2. 它是否减少算术对，或主要减少内存流量/中间存储？"}

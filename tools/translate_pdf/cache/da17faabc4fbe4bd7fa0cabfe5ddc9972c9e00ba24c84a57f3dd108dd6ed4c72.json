@@ -1,0 +1,1 @@
+{"source": "The recurrence is the algebraic reason tile boundaries do not change the dense softmax result. A different tiling changes the order of floating-point operations, but not the intended real-arithmetic function.", "zh": "递归是瓦片边界不会改变密集 softmax 结果的代数原因。不同的平铺会改变浮点运算的顺序，但不会改变预期的实数算术函数。"}

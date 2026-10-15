@@ -1,0 +1,1 @@
+{"source": "This loss was designed for Switch’s Top-1 setting. Do not transplant the equation into another routing scheme without checking how that architecture defines assignments and balance.", "zh": "这个损失是为 Switch 的 Top-1 设置而设计的。在未检查该架构如何定义分配和平衡的情况下，请勿将该等式移植到另一个路由方案中。"}

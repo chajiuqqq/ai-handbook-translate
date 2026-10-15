@@ -1,0 +1,1 @@
+{"source": "Mental model. Quantization error is not mysterious: it is the distance between the original value and the nearest allowed reconstruction level, plus any clipping error.", "zh": "心智模型。量化误差并不神秘：它是原始值和最近允许的重建级别之间的距离，加上任何剪切误差。"}

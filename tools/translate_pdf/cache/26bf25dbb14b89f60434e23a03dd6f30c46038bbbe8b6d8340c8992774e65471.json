@@ -1,0 +1,1 @@
+{"source": "Important. RoPE is not “added to the token embedding” in LLaMA-style blocks. It changes the Q/K interaction inside attention.", "zh": "重要。 RoPE 并未“添加到 LLaMA 风格的区块中的代币嵌入中”。它改变了注意力内部的 Q/K 交互。"}

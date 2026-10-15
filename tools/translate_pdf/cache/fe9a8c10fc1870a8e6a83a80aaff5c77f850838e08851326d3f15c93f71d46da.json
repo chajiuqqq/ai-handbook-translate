@@ -1,0 +1,1 @@
+{"source": "That makes context length and concurrent requests expensive. ZXNAME0000XZ/ZXNAME0001XZ reduce the number of KV heads; ZXNAME0002XZ compresses the cached representation; lower-precision storage reduces bytes per element.", "zh": "这使得上下文长度和并发请求变得昂贵。 ZXNAME0000XZ/ZXNAME0001XZ减少KV头数量； ZXNAME0002XZ 压缩缓存的表示；较低精度的存储会减少每个元素的字节数。"}

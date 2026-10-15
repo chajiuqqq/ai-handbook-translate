@@ -1,0 +1,1 @@
+{"source": "Caches can reduce the traffic that reaches ZXNAME0000XZ/device ZXNAME0001XZ, but they are not guaranteed to hold every useful working set. Access pattern, reuse distance, contention, and architecture all matter.", "zh": "缓存可以减少到达 ZXNAME0000XZ/设备 ZXNAME0001XZ 的流量，但不能保证保留每个有用的工作集。访问模式、重用距离、争用和架构都很重要。"}

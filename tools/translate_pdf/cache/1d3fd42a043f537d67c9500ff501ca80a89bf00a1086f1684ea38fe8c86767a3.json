@@ -1,0 +1,1 @@
+{"source": "Too loose. They may share physical capacity on recent ZXNAME0000XZ GPUs, but shared memory has explicit addressing, scope, synchronization, and bank behavior.", "zh": "太松了。它们可能在最新的 ZXNAME0000XZ GPU 上共享物理容量，但共享内存具有显式寻址、范围、同步和存储体行为。"}

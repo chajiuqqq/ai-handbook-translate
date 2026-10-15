@@ -1,0 +1,1 @@
+{"source": "If an outlier forced the scale to become much larger, the grid would become coarser for every smaller value sharing that scale. That is one reason granularity and outlier handling matter so much in ZXNAME0000XZ quantization.", "zh": "如果异常值迫使尺度变得更大，则对于共享该尺度的每个较小值，网格将变得更粗糙。这就是粒度和异常值处理在 ZXNAME0000XZ 量化中如此重要的原因之一。"}

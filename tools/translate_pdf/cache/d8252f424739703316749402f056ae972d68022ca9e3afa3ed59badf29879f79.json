@@ -1,0 +1,1 @@
+{"source": "GPTQ and AWQ are two prominent low-bit weight-only families. They differ in how they choose the quantized weights/scales, but both rely on specialized kernels to convert compression into deployment performance.", "zh": "GPTQ 和 AWQ 是两个著名的低位仅权重系列。它们的不同之处在于如何选择量化权重/比例，但都依赖专门的内核将压缩转换为部署性能。"}

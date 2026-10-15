@@ -1,0 +1,1 @@
+{"source": "This calculation is only the parameter payload. Training memory can additionally include gradients, optimizer states, higher-precision master weights, sharding metadata, and allocator overhead.", "zh": "此计算仅是参数有效负载。训练内存还可以包括梯度、优化器状态、更高精度的主权重、分片元数据和分配器开销。"}

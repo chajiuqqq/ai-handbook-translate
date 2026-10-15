@@ -1,0 +1,1 @@
+{"source": "Important. This code is pedagogical. Do not replace a model’s documented pooling or prompt protocol with this generic mean-pooling recipe merely because the tensor shapes work.", "zh": "重要。该代码是教学性的。不要仅仅因为张量形状有效，就用这个通用的均值池配方替换模型记录的池化或提示协议。"}

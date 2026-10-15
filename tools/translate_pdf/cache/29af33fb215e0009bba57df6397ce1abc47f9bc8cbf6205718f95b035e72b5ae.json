@@ -1,0 +1,1 @@
+{"source": "A workload can fit in ZXNAME0000XZ and still be bandwidth-limited. It can achieve high bandwidth and still suffer from latency when it exposes too little independent work. Capacity, traffic, bandwidth, and latency should never be used as synonyms.", "zh": "工作负载可以适合 ZXNAME0000XZ 并且仍然受到带宽限制。它可以实现高带宽，但在暴露的独立工作太少时仍然会受到延迟的影响。容量、流量、带宽和延迟不应用作同义词。"}

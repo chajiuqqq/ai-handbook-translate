@@ -1,0 +1,1 @@
+{"source": "Therefore, “the ZXNAME0000XZ has unused compute” is not a complete diagnosis. Which compute? Which instruction path? Is memory already the bottleneck? Are there eligible warps? Is the kernel too small to expose enough device-wide parallelism?", "zh": "因此，“ZXNAME0000XZ 具有未使用的计算”并不是完整的诊断。哪个计算？哪个指令路径？内存已经是瓶颈了吗？是否存在符合条件的扭曲？内核是否太小而无法提供足够的设备范围并行性？"}

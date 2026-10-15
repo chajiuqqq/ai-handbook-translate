@@ -1,0 +1,1 @@
+{"source": "Important. KV cache memory grows with cached sequence state. Residual-stream width and MLP width are separate resource questions.", "zh": "重要。 KV 缓存内存随着缓存的序列状态而增长。剩余流宽度和 MLP 宽度是单独的资源问题。"}

@@ -1,0 +1,1 @@
+{"source": "real model must match its exact attention head layout, RoPE rule, norm epsilon, MLP dimensions, cache semantics, and checkpoint parameter names.", "zh": "真实模型必须与其精确的注意力头布局、RoPE 规则、范数 epsilon、MLP 维度、缓存语义和检查点参数名称相匹配。"}

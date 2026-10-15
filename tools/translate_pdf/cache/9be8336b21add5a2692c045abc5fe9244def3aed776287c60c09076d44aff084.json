@@ -1,0 +1,1 @@
+{"source": "The output projection is not merely a reshape. It is a learned mixing of head outputs back into the model’s residual feature space.", "zh": "输出投影不仅仅是重塑。它是通过学习将头部输出混合回模型的残差特征空间。"}

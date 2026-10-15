@@ -1,0 +1,1 @@
+{"source": "The source code can contain the same number of loads in all three cases. The memory system does not do the same amount of work. Layout and stride determine how much transferred data is useful.", "zh": "在所有三种情况下，源代码可以包含相同数量的加载。内存系统不做同样多的工作。布局和步幅决定了传输的数据量是有用的。"}

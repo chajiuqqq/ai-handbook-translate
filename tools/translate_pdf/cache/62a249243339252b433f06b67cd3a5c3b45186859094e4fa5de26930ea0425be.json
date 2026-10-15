@@ -1,0 +1,1 @@
+{"source": "Linear-attention families change the mathematical formulation, often using feature maps or associativity so attention can be rearranged without an explicit dense softmax score matrix. Their semantics and approximation/exactness properties depend on the specific method.", "zh": "线性注意力族改变了数学公式，通常使用特征图或关联性，因此可以在没有显式密集 softmax 得分矩阵的情况下重新排列注意力。它们的语义和近似/精确性属性取决于具体的方法。"}

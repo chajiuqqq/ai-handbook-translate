@@ -1,0 +1,1 @@
+{"source": "Weights are persistent across requests and tokens. A layer reuses the same parameters for many batch", "zh": "权重在请求和令牌之间是持久的。一个层在多个批次中重复使用相同的参数"}

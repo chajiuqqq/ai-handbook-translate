@@ -1,0 +1,1 @@
+{"source": "A context-window specification tells you what the model can accept. It does not tell you how many long-context requests a particular server can hold concurrently.", "zh": "上下文窗口规范告诉您模型可以接受什么。它不会告诉您特定服务器可以同时容纳多少个长上下文请求。"}

@@ -1,0 +1,1 @@
+{"source": "The subset of parameters whose computations are used for one token’s forward pass, according to the architecture’s accounting. In an ZXNAME0000XZ layer this includes selected expert paths and may include shared experts. Dense parts of the model remain active too.", "zh": "根据架构的核算，其计算用于一个令牌的前向传递的参数子集。在 ZXNAME0000XZ 层中，这包括选定的专家路径，并且可能包括共享专家。模型的密集部分也保持活跃。"}

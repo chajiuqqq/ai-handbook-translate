@@ -1,0 +1,1 @@
+{"source": "This is the same reason “ZXNAME0000XZ reduces the KV cache” is misleading. ZXNAME0001XZ primarily avoids materializing quadratic attention intermediates; ZXNAME0002XZ/ZXNAME0003XZ/ZXNAME0004XZ attack the persistent key/value representation.", "zh": "这与“ZXNAME0000XZ 减少 KV 缓存”具有误导性的原因相同。 ZXNAME0001XZ 主要避免具体化二次注意力中间体； ZXNAME0002XZ/ZXNAME0003XZ/ZXNAME0004XZ 攻击持久键/值表示。"}

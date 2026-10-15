@@ -1,0 +1,1 @@
+{"source": "This means a production pipeline must preserve the model’s input protocol. Encoding a corpus with the query template, omitting a required prefix, or changing an instruction after indexing can create a mismatch even though every vector has the expected dimension.", "zh": "这意味着生产管道必须保留模型的输入协议。使用查询模板对语料库进行编码、省略所需的前缀或在索引后更改指令可能会导致不匹配，即使每个向量都具有预期的维度。"}

@@ -1,0 +1,1 @@
+{"source": "local contexts, including CBOW and skip-gram. GloVe instead trained a global log-bilinear regression model on word-word co-occurrence statistics. [2,3]", "zh": "本地上下文，包括 CBOW 和skip-gram。 GloVe 相反，根据词与词共现统计数据训练全局对数双线性回归模型。 [2,3]"}

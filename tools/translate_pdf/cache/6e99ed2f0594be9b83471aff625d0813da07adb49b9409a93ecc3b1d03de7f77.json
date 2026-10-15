@@ -1,0 +1,1 @@
+{"source": "Important. ZXNAME0000XZ and attention sparsity are separate ideas. A model can have dense attention and sparse FFNs, sparse attention and dense FFNs, or both.", "zh": "重要。 ZXNAME0000XZ 和注意力稀疏性是不同的想法。模型可以具有密集注意力和稀疏 FFN、稀疏注意力和密集 FFN，或两者兼而有之。"}

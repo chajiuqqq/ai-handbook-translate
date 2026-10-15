@@ -1,0 +1,1 @@
+{"source": "So this constructed example has 4x the stored expert-bank parameters while matching the dense baseline’s idealized expert-matrix parameter count per token.", "zh": "因此，这个构造的示例具有 4 倍的存储专家库参数，同时匹配每个令牌的密集基线的理想化专家矩阵参数计数。"}

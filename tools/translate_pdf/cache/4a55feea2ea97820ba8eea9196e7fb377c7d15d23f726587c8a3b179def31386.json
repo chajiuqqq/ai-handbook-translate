@@ -1,0 +1,1 @@
+{"source": "Important. ZXNAME0000XZ sparsity and attention sparsity are different. ZXNAME0001XZ sparsifies which feed-forward parameters are active for a token; sparse attention changes which token pairs interact.", "zh": "重要。 ZXNAME0000XZ 稀疏性和注意力稀疏性是不同的。 ZXNAME0001XZ 稀疏化令牌的哪些前馈参数处于活动状态；稀疏注意力会改变令牌对交互的情况。"}

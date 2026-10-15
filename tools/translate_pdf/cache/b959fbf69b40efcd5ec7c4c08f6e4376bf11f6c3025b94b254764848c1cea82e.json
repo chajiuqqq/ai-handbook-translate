@@ -1,0 +1,1 @@
+{"source": "A further subtlety appears at batch level. Token A may activate experts 1 and 4 while token B activates 2 and 7. Across a large batch, many or all experts can be used even though each individual token activates only a few.", "zh": "批次级别上出现了进一步的微妙之处。令牌 A 可以激活专家 1 和 4，而令牌 B 可以激活专家 2 和 7。在大批量中，可以使用许多或所有专家，即使每个单独的令牌仅激活少数专家。"}

@@ -1,0 +1,1 @@
+{"source": "Bandwidth asks about aggregate flow. Latency asks about a dependency. AI kernels often need enough request-level and warp-level parallelism to turn a high-bandwidth memory system into high application throughput.", "zh": "带宽询问聚合流量。延迟询问依赖性。 AI 内核通常需要足够的请求级和扭曲级并行性，才能将高带宽内存系统转变为高应用程序吞吐量。"}

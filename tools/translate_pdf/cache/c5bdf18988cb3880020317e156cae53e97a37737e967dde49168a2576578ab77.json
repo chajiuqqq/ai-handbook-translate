@@ -1,0 +1,1 @@
+{"source": "Mental model. A block does not replace the representation with “the attention output” and then “the MLP output.” Each branch proposes an update to a shared residual representation.", "zh": "心智模型。块不会用“注意力输出”和“MLP 输出”来替换表示。每个分支都会提出对共享残差表示的更新。"}

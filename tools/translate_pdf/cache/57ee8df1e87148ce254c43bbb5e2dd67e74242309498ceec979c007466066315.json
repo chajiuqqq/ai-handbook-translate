@@ -1,0 +1,1 @@
+{"source": "A block table tells the attention implementation where each logical block lives. Blocks can be allocated as the request grows and freed when no longer needed.", "zh": "块表告诉注意力实现每个逻辑块所在的位置。可以随着请求的增长来分配块，并在不再需要时释放块。"}

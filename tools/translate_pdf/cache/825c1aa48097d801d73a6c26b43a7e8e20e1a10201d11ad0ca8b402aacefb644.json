@@ -1,0 +1,1 @@
+{"source": "For a standard causal block, the reusable per-token history is the attention key/value state (or an architecture-specific compressed equivalent), not the output of the entire block as a generic “memory.”", "zh": "对于标准因果块，可重用的每个令牌历史记录是注意力键/值状态（或特定于架构的压缩等效项），而不是整个块作为通用“内存”的输出。"}

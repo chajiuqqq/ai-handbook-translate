@@ -1,0 +1,1 @@
+{"source": "The fast part of ZXNAME0000XZ is not merely “Tensor Cores are fast.” Efficient ZXNAME0001XZ arranges data movement so expensive matrix hardware is continuously fed from nearby storage while each fetched tile is reused many times.", "zh": "ZXNAME0000XZ 的快速部分不仅仅是“Tensor Core 很快”。高效的 ZXNAME0001XZ 安排数据移动，因此昂贵的矩阵硬件会从附近的存储中连续馈送，同时每个获取的图块都会重复使用多次。"}

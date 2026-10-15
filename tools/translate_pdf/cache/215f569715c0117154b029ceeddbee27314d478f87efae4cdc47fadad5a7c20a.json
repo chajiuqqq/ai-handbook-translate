@@ -1,0 +1,1 @@
+{"source": "But for ordinary dense attention, the new query still needs access to past K/V state. AsZXMATH0000XZ grows, the attention operation for the new position still interacts with a longer history.", "zh": "但对于普通的密集注意力来说，新的查询仍然需要访问过去的 K/V 状态。随着ZXMATH0000XZ的增长，新位置的注意力操作仍然与更长的历史交互。"}

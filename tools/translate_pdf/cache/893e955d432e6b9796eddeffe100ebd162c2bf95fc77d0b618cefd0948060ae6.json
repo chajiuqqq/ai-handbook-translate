@@ -1,0 +1,1 @@
+{"source": "Representational sharing. Multiple query heads now interrogate the same K/V representation. This is an architectural constraint, not just a systems optimization.", "zh": "代表性分享。多个查询头现在询问相同的 K/V 表示。这是一个架构约束，而不仅仅是系统优化。"}

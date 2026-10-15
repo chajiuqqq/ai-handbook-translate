@@ -1,0 +1,1 @@
+{"source": "During decode, the newest token still passes through every Transformer block. At each attention sublayer, its query attends to cached K/V history. The MLP remains position-wise and only needs to process the new token state for that decode step.", "zh": "在解码期间，最新的令牌仍然通过每个 Transformer 块。在每个注意力子层，它的查询关注缓存的 K/V 历史记录。 MLP 保持位置明智，只需要处理该解码步骤的新令牌状态。"}

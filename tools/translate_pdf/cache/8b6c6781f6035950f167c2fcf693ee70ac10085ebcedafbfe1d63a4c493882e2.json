@@ -1,0 +1,1 @@
+{"source": "Distinct cache payload read during decode. Fewer unique KV vectors can reduce the amount of K/V data that must be supplied from memory, especially when kernels reuse a shared KV head across multiple queries.", "zh": "解码期间读取不同的缓存有效负载。更少的唯一 KV 向量可以减少必须从内存提供的 K/V 数据量，特别是当内核在多个查询中重用共享 KV 头时。"}

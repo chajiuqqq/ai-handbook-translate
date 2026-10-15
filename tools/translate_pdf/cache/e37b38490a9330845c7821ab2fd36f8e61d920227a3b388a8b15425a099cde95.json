@@ -1,0 +1,1 @@
+{"source": "Important. Two models both described as “ZXNAME0000XZ” can behave differently because one uses per-group scales of 32 weights and another uses 128, or because one stores zero-points while the other is symmetric.", "zh": "重要。都被描述为“ZXNAME0000XZ”的两个模型可能表现不同，因为一个使用 32 个权重的每组尺度，另一个使用 128 个权重，或者因为一个存储零点，而另一个是对称的。"}

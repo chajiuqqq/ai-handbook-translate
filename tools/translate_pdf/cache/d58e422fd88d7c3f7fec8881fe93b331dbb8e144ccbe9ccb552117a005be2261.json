@@ -1,0 +1,1 @@
+{"source": "3. repartition work among warps within a thread block to reduce shared-memory communication.[5]", "zh": "3. 在线程块内的 warp 之间重新分配工作，以减少共享内存通信。[5]"}

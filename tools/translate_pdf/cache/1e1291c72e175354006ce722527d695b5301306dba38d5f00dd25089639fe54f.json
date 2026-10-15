@@ -1,0 +1,1 @@
+{"source": "The paper also reduces operations that are expensive relative to tensor-core matrix multiplication. This includes algebraic restructuring around softmax rescaling and backward computations so fewer non-matmul FLOPs are performed.[5]", "zh": "该论文还减少了相对于张量核心矩阵乘法而言昂贵的运算。这包括围绕 softmax 重新缩放和向后计算进行代数重组，从而减少执行的非 matmul FLOP。 [5]"}

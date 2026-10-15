@@ -1,0 +1,1 @@
+{"source": "This comes with additional metadata and layout rules. Blockwise formats can also require different quantized views for row-wise and column-wise use because quantizing a tensor and quantizing its transpose are not numerically identical under directional block grouping.", "zh": "这带有额外的元数据和布局规则。块格式还可能需要不同的量化视图以用于行方向和列方向使用，因为在定向块分组下量化张量和量化其转置在数值上并不相同。"}

@@ -1,0 +1,1 @@
+{"source": "Actual kernels may store or pack dimensions differently. The logical shape is the important mental model; a particular physical layout is an implementation detail.", "zh": "实际的内核可能会以不同的方式存储或打包尺寸。逻辑形状是重要的心智模型；特定的物理布局是实现细节。"}

@@ -1,0 +1,1 @@
+{"source": "A simple observer may track running minimum and maximum. Histogram-based observers can estimate a distribution and choose a range using a more elaborate criterion. Per-channel observers collect separate statistics for different channels.", "zh": "一个简单的观察者可以跟踪跑步的最小值和最大值。基于直方图的观察者可以使用更详细的标准来估计分布并选择范围。每个通道的观察者收集不同通道的单独统计数据。"}

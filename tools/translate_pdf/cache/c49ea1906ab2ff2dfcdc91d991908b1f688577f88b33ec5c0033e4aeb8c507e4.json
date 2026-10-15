@@ -1,0 +1,1 @@
+{"source": "Ignoring cache reuse and assuming one read ofZXMATH0000XZ one read ofZXMATH0001XZ and one write ofZXMATH0002XZ each element moves 12 bytes for one floating-point addition:", "zh": "忽略缓存重用并假设一次读取 ZXMATH0000XZ 一次读取 ZXMATH0001XZ 一次写入 ZXMATH0002XZ，每个元素移动 12 个字节以进行一次浮点加法："}

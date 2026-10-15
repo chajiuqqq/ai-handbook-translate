@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ is most naturally powerful when both query and key sequence dimensions are substantial, as in training or long-prompt prefill. There are many query rows, so avoiding the materialized attention matrix and exploiting tiled GEMMs provide large benefits.", "zh": "当查询和关键序列维度都很大时，例如在训练或长提示预填充中，ZXNAME0000XZ 自然是最强大的。有很多查询行，因此避免物化注意力矩阵并利用平铺 GEMM 会带来很大的好处。"}

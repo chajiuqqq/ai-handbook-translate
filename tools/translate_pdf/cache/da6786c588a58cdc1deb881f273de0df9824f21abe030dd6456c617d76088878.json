@@ -1,0 +1,1 @@
+{"source": "The exact numbers are not a universal claim about per-channel quantization. They show the mechanism: separating groups prevents one high-dynamic-range channel from setting the precision of another.", "zh": "确切的数字并不是关于每通道量化的普遍说法。他们展示了一种机制：分离组可以防止一个高动态范围通道设置另一个通道的精度。"}

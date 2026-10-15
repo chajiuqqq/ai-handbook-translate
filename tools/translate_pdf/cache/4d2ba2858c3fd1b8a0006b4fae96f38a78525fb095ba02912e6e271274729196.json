@@ -1,0 +1,1 @@
+{"source": "Dependencies matter because an instruction cannot consume a result before that result is ready. Memory dependence is only one source; arithmetic pipelines also have latency. Scheduling attempts to fill the gaps with independent work.[2,3]", "zh": "依赖性很重要，因为指令无法在结果准备好之前使用该结果。记忆依赖只是来源之一；算术管道也有延迟。安排尝试通过独立工作来填补空白。[2,3]"}

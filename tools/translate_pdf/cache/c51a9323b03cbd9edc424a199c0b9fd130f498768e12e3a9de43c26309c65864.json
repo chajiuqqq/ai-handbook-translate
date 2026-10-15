@@ -1,0 +1,1 @@
+{"source": "QAT can recover accuracy at difficult bit-widths because the model learns around the quantizer. The cost is that it requires a training/fine-tuning pipeline, data, and compute. Large-model deployment therefore often prefers PTQ when quality remains acceptable.", "zh": "QAT 可以在困难的位宽下恢复精度，因为模型围绕量化器进行学习。代价是它需要训练/微调管道、数据和计算。因此，当质量仍然可以接受时，大型模型部署通常更喜欢 PTQ。"}

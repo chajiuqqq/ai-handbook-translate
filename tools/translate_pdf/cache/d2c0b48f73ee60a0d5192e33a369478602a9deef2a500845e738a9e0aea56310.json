@@ -1,0 +1,1 @@
+{"source": "The full-precision product is unchanged before quantization. Numerically, however, activation magnitudes can be reduced while weight magnitudes grow, transferring part of the quantization difficulty from activations to weights.", "zh": "全精度乘积在量化之前保持不变。然而，从数值上来说，当权重幅度增加时，激活幅度可以减小，从而将部分量化难度从激活转移到权重。"}

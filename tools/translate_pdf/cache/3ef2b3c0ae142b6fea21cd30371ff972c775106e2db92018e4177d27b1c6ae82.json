@@ -1,0 +1,1 @@
+{"source": "This design is a clean example of architectural co-design: the positional encoding is modified not because RoPE is “bad,” but because its usual placement blocks an inference optimization the architecture wants to exploit.", "zh": "该设计是架构协同设计的一个清晰示例：位置编码的修改并不是因为 RoPE“不好”，而是因为其通常的放置阻碍了架构想要利用的推理优化。"}

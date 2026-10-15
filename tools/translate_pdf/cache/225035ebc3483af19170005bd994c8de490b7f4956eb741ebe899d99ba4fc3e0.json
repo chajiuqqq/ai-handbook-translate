@@ -1,0 +1,1 @@
+{"source": "This is fundamentally different from PCA or taking a random subset of coordinates after training. MRL changes the training objective so useful information is packed into nested prefixes.", "zh": "这与 PCA 或训练后随机获取坐标子集有本质上的不同。 MRL 改变了训练目标，因此有用的信息被打包到嵌套的前缀中。"}

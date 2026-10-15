@@ -1,0 +1,1 @@
+{"source": "Calibration data is not necessarily the original training data. GPTQ, AWQ, SmoothQuant, and OmniQuant all use small calibration sets/statistics in different ways:", "zh": "校准数据不一定是原始训练数据。 GPTQ、AWQ、SmoothQuant 和 OmniQuant 都以不同的方式使用小型校准集/统计数据："}

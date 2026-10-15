@@ -1,0 +1,1 @@
+{"source": "Important. The safest production rule is to use the similarity function and normalization convention specified by the embedding model. Changing them can change rankings even if the vector dimensions are unchanged.", "zh": "重要。最安全的产生规则是使用嵌入模型指定的相似函数和归一化约定。即使向量维度不变，更改它们也会改变排名。"}

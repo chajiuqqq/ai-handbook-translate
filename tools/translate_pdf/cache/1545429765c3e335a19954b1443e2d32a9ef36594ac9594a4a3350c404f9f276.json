@@ -1,0 +1,1 @@
+{"source": "Shared memory is explicitly addressed on-chip storage that threads within a block can use for cooperation and data reuse. Software chooses what to place there and when to synchronize around it, unlike a hardwaremanaged cache.[1,2]", "zh": "共享内存是显式寻址的片上存储，块内的线程可将其用于协作和数据重用。与硬件管理的缓存不同，软件选择在那里放置什么以及何时在其周围同步。[1,2]"}

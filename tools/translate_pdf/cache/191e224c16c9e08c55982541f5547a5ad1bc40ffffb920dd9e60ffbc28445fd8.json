@@ -1,0 +1,1 @@
+{"source": "A model normally stores or computes values in some finite numerical format. Quantization maps those values to a smaller set of representable levels. A simple scalar quantizer can be written as", "zh": "模型通常以某种有限的数字格式存储或计算值。量化将这些值映射到较小的一组可表示级别。一个简单的标量量化器可以写成"}

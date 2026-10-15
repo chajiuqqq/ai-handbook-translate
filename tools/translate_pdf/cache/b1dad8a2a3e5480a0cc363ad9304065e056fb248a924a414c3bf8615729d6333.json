@@ -1,0 +1,1 @@
+{"source": "Vendor bandwidth specifications describe a peak hardware capability. A kernel’s achieved rate must be measured from the bytes that actually cross the interface over time.", "zh": "供应商带宽规格描述了峰值硬件功能。内核所达到的速率必须根据一段时间内实际穿过接口的字节来测量。"}

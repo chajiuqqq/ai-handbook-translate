@@ -1,0 +1,1 @@
+{"source": "The ZXNAME0000XZ report states that its load balancing is effective enough that it does not drop tokens during training, and describes deployment strategies intended to avoid dropping during inference as well.", "zh": "ZXNAME0000XZ 报告指出，其负载平衡足够有效，不会在训练期间丢弃令牌，并描述了旨在避免推理期间丢弃令牌的部署策略。"}

@@ -1,0 +1,1 @@
+{"source": "A method can report a dramatic theoretical cache reduction and still fail to improve serving throughput if decompression becomes the bottleneck or the attention kernel cannot use the format efficiently.", "zh": "如果解压缩成为瓶颈或者注意力内核无法有效地使用该格式，一种方法可以报告理论缓存的显着减少，但仍然无法提高服务吞吐量。"}

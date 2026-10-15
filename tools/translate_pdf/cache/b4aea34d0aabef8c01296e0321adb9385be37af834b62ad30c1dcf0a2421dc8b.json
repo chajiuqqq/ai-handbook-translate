@@ -1,0 +1,1 @@
+{"source": "For a block of query rows,ZXMATH0000XZ andZXMATH0001XZbecome row-wise vectors andZXMATH0002XZ becomes a matrix. Masks can be applied to the score tile before the exponentials, with masked positions contributing zero probability.", "zh": "对于查询行块，ZXMATH0000XZ 和 ZXMATH0001XZ 成为行向量，ZXMATH0002XZ 成为矩阵。可以在指数之前将掩码应用于分数图块，掩码位置的概率为零。"}

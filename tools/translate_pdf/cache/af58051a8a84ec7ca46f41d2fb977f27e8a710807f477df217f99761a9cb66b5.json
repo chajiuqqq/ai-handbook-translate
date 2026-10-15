@@ -1,0 +1,1 @@
+{"source": "But weight-only quantization does not shrink activation memory, KV-cache memory, or every intermediate tensor. It also does not guarantee a proportional compute speedup.", "zh": "但仅权重量化不会缩小激活内存、KV 缓存或每个中间张量。它也不能保证成比例的计算加速。"}

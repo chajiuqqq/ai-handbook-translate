@@ -1,0 +1,1 @@
+{"source": "When threads in a warp issue a global-memory instruction, the ZXNAME0000XZ combines their addresses into the", "zh": "当 warp 中的线程发出全局内存指令时，ZXNAME0000XZ 将它们的地址组合到"}

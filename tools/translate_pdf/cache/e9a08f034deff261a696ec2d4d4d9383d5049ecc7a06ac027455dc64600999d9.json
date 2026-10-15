@@ -1,0 +1,1 @@
+{"source": "Decode mental model. Query work is mostly “new token now.” KV storage is “all previous tokens, every layer, every active sequence.” Reducing the persistent K/V representation attacks the part that accumulates with context length and batch size.", "zh": "解码心智模型。查询工作主要是“现在有新令牌”。 KV 存储是“所有先前的令牌、每一层、每个活动序列”。减少持久的 K/V 表示会攻击上下文长度和批量大小累积的部分。"}

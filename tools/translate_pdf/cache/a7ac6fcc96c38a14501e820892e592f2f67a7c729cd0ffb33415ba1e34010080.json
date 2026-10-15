@@ -1,0 +1,1 @@
+{"source": "Actual serving systems may reserve blocks, pad, page, quantize, offload, or maintain metadata, so allocated memory can differ from this tensor-payload calculation.", "zh": "实际的服务系统可能会保留块、填充、页面、量化、卸载或维护元数据，因此分配的内存可能与此张量有效负载计算不同。"}

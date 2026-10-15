@@ -1,0 +1,1 @@
+{"source": "The important point is not the exact block assignment, which is kernel-specific. It is that long sequence length itself becomes a source of parallelism.", "zh": "重要的一点不是确切的块分配，这是特定于内核的。正是长序列长度本身成为并行性的来源。"}

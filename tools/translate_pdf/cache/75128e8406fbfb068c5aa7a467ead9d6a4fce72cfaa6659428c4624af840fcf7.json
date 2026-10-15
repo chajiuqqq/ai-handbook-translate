@@ -1,0 +1,1 @@
+{"source": "Do not apply this config-reading rule blindly to ZXNAME0000XZ. ZXNAME0001XZ needs architecture-specific fields such as KV latent rank and decoupled RoPE dimension because conventional num_key_value_heads no longer describes the cache.", "zh": "不要盲目地将这个配置读取规则应用于ZXNAME0000XZ。 ZXNAME0001XZ 需要特定于架构的字段，例如 KV 潜在等级和解耦 RoPE 维度，因为传统的 num_key_value_heads 不再描述缓存。"}

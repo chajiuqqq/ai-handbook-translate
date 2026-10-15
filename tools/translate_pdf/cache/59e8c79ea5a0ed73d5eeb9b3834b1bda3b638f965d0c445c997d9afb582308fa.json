@@ -1,0 +1,1 @@
+{"source": "Mental model. The embedding table is not pretrained knowledge glued onto the model. In an end-to-end model, it is one set of parameters among many, shaped by the same training signal.", "zh": "心智模型。嵌入表不是粘贴到模型上的预训练知识。在端到端模型中，它是由相同训练信号塑造的众多参数中的一组。"}

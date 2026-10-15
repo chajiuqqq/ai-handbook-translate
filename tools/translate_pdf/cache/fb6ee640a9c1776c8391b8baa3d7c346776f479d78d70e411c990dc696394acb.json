@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ describes this as an incompatibility between standard RoPE placement and the desired low-rank KV absorption. Reconstructing position-specific full keys for the entire prefix at every decode step would defeat much of the inference benefit.ZXMATH0000XZ", "zh": "ZXNAME0000XZ 将此描述为标准 RoPE 放置与所需的低阶 KV 吸收之间的不兼容。在每个解码步骤中重建整个前缀的特定于位置的完整密钥将破坏大部分推理优势。ZXMATH0000XZ"}

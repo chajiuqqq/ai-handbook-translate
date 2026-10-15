@@ -1,0 +1,1 @@
+{"source": "A causal Transformer repeatedly generates a new token from prior tokens. Past attention-layer states do not change when future tokens are appended, so the model can retain their keys and values instead of recomputing them.", "zh": "因果 Transformer 从先前的令牌中重复生成新的令牌。当附加未来的标记时，过去的注意力层状态不会改变，因此模型可以保留它们的键和值，而不是重新计算它们。"}

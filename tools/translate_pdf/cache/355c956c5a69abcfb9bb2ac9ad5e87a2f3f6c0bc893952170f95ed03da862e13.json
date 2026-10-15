@@ -1,0 +1,1 @@
+{"source": "An optimizer then updates that row along with the model’s other parameters. Rows for tokens not used in the current batch may receive no direct lookup gradient in a simple embedding layer, although weight tying or other uses of the matrix can create additional gradient paths.", "zh": "然后优化器会更新该行以及模型的其他参数。当前批次中未使用的令牌的行可能不会在简单的嵌入层中接收直接查找梯度，尽管权重绑定或矩阵的其他用途可以创建额外的梯度路径。"}

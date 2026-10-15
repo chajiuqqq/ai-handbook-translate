@@ -1,0 +1,1 @@
+{"source": "Case B: stride 2. ThreadZXMATH0000XZ reads element ZXMATH0001XZ The requested values occupy 16 segments. The warp still needs 256 useful bytes, while the covered segment footprint is 512 bytes.", "zh": "情况B：跨步 2. 线程ZXMATH0000XZ 读取元素ZXMATH0001XZ 请求的值占用16 个段。 warp 仍然需要 256 个有用字节，而覆盖的段占用空间为 512 个字节。"}

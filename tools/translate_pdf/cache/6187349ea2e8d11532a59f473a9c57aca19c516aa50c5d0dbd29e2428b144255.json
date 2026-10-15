@@ -1,0 +1,1 @@
+{"source": "Those two are not always related by softmax. ZXNAME0000XZ, for example, computes routed-expert affinities with a sigmoid and normalizes selected affinities for combination.", "zh": "Softmax 并不总是将这两者联系起来。例如，ZXNAME0000XZ 使用 sigmoid 计算路由专家亲和力，并对所选组合的亲和力进行标准化。"}

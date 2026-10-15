@@ -1,0 +1,1 @@
+{"source": "Pre-Norm or Post-LN describes where a norm sits relative to the residual branch. Modern models can also normalize internal attention tensors.", "zh": "Pre-Norm 或 Post-LN 描述了范数相对于剩余分支的位置。现代模型还可以标准化内部注意力张量。"}

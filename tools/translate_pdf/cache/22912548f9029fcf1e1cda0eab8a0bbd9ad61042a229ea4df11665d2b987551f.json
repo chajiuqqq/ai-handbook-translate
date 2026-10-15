@@ -1,0 +1,1 @@
+{"source": "This separation explains why low-precision training can preserve stability: precision is spent differently across operations rather than forcing the entire graph into one format.", "zh": "这种分离解释了为什么低精度训练可以保持稳定性：不同操作的精度花费不同，而不是强制整个图采用一种格式。"}

@@ -1,0 +1,1 @@
+{"source": "For ZXNAME0000XZ, blocking creates deliberate reuse. A tile ofZXMATH0000XZ can participate in many output columns, while a tile ofZXMATH0001XZ participates in many output rows. The same loaded bytes therefore feed far more arithmetic.", "zh": "对于 ZXNAME0000XZ，阻止会导致故意重用。 ZXMATH0000XZ 的图块可以参与许多输出列，而 ZXMATH0001XZ 的图块可以参与许多输出行。因此，相同的加载字节可以提供更多的算术。"}

@@ -1,0 +1,1 @@
+{"source": "Important. Dimension reduction is safe only when the model or a validated post-processing method supports it. Matching array shape is not evidence that semantics were preserved.", "zh": "重要。仅当模型或经过验证的后处理方法支持降维时，降维才是安全的。匹配数组形状并不能证明语义被保留。"}

@@ -1,0 +1,1 @@
+{"source": "This avoids computing many invalid tiles in a causal kernel. ZXNAME0000XZ explicitly exploits causal structure, while current implementations also define precise alignment rules for unequal query/key lengths.[5,", "zh": "这避免了在因果内核中计算许多无效的图块。 ZXNAME0000XZ 显式地利用因果结构，而当前的实现还为不相等的查询/密钥长度定义了精确的对齐规则。 [5,"}

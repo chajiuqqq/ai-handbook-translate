@@ -1,0 +1,1 @@
+{"source": "First, reducing ZXNAME0000XZ traffic does not require reducing FLOPs. ZXNAME0001XZ can even recompute some intermediates in backward propagation because extra arithmetic may be cheaper than storing and rereading large tensors.", "zh": "首先，减少 ZXNAME0000XZ 流量并不需要减少 FLOP。 ZXNAME0001XZ 甚至可以在反向传播中重新计算一些中间产物，因为额外的算术可能比存储和重新读取大张量更便宜。"}

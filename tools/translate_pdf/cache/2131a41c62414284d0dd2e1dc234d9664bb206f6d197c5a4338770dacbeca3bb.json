@@ -1,0 +1,1 @@
+{"source": "A real implementation does not usually construct the enormous sparse one-hot matrix. It gathers only the requested rows.", "zh": "实际的实现通常不会构造巨大的稀疏独热矩阵。它仅收集请求的行。"}

@@ -1,0 +1,1 @@
+{"source": "PaLM used a parallel formulation in which attention and the MLP read the same normalized residual input and their outputs are added together: [10]", "zh": "PaLM 使用并行公式，其中注意力和 MLP 读取相同的归一化残差输入，并将它们的输出加在一起：[10]"}

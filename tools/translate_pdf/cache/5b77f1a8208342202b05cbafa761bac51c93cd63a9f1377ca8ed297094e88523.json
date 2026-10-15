@@ -1,0 +1,1 @@
+{"source": "Important. Do not say RoPE “changes the token embedding.” Standard RoPE acts on Q/K inside attention; it is a positional mechanism surrounding the contextual computation, not a replacement vocabulary table.", "zh": "重要。不要说 RoPE“改变了代币嵌入”。标准RoPE作用于Q/K内注意力；它是围绕上下文计算的位置机制，而不是替代词汇表。"}

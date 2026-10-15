@@ -1,0 +1,1 @@
+{"source": "A better performance question is not merely “How many FLOPs?” but “Which operations, on which units, with what data movement, reuse, parallelism, and synchronization?”", "zh": "更好的性能问题不仅仅是“多少次 FLOP？”而是“哪些操作、哪些单元、哪些数据移动、重用、并行性和同步？”"}

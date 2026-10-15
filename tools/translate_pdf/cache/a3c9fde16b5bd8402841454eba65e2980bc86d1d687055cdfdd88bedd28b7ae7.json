@@ -1,0 +1,1 @@
+{"source": "The design also has a separate small positional key component because ordinary RoPE interferes with the algebraic projection absorption that makes latent caching efficient. That interaction is central to understanding ZXNAME0000XZ rather than an implementation footnote.", "zh": "该设计还有一个单独的小位置关键组件，因为普通 RoPE 会干扰代数投影吸收，从而使潜在缓存变得高效。这种交互对于理解 ZXNAME0000XZ 来说至关重要，而不是实现脚注。"}

@@ -1,0 +1,1 @@
+{"source": "Do not draw “local memory” next to registers in a physical hierarchy merely because it is thread-local. Its logical scope is local. Its backing storage is in the device-memory system.", "zh": "不要仅仅因为它是线程本地的，就在物理层次结构中的寄存器旁边绘制“本地内存”。它的逻辑范围是本地的。它的后备存储位于设备内存系统中。"}

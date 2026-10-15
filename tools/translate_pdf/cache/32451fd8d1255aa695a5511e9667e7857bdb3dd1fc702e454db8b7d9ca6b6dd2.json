@@ -1,0 +1,1 @@
+{"source": "Nsight Compute’s throughput metrics are useful because they explicitly normalize measured subsystem activity against architecture-specific peak rates, while still requiring the engineer to identify which resource is actually limiting the kernel.[3]", "zh": "Nsight Compute 的吞吐量指标非常有用，因为它们根据特定于架构的峰值速率显式标准化测量的子系统活动，同时仍然要求工程师确定哪些资源实际上限制了内核。 [3]"}

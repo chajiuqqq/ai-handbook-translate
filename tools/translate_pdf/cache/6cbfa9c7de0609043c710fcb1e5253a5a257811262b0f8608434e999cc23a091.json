@@ -1,0 +1,1 @@
+{"source": "Important wording: ZXNAME0000XZ removes the need to materialize the full attention matrix as an off-chip intermediate. It does not remove the logical pairwise interactions required by dense attention.", "zh": "重要措辞：ZXNAME0000XZ 无需将完整的注意力矩阵具体化为片外中间体。它不会消除密集注意力所需的逻辑成对交互。"}

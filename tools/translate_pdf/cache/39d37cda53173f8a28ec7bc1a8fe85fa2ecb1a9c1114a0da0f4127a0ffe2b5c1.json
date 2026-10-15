@@ -1,0 +1,1 @@
+{"source": "Halving bit-width dramatically reduces the number of levels: 8 bits gives 256 codes, while 4 bits gives only 16. At low bit-width, scale selection and distribution shape therefore matter much more.", "zh": "位宽减半可显着减少级别数量：8 位可提供 256 个代码，而 4 位仅可提供 16 个代码。因此，在低位宽时，尺度选择和分布形状更为重要。"}

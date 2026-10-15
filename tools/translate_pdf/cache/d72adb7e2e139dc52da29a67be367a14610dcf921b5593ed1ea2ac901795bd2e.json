@@ -1,0 +1,1 @@
+{"source": "Activations are intermediate tensors produced while executing the model. Their distribution changes with input, layer, token, and execution phase. Activation quantization can enable low-precision matrix multiplication, but it must handle runtime variation and outliers.", "zh": "激活是执行模型时产生的中间张量。它们的分布随着输入、层、令牌和执行阶段的变化而变化。激活量化可以实现低精度矩阵乘法，但它必须处理运行时变化和异常值。"}

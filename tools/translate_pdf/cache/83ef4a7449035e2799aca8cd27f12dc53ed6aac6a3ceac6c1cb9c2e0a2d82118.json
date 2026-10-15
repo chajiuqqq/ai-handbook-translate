@@ -1,0 +1,1 @@
+{"source": "• implement attention kernels that consume compressed K/V without expensive materialization.", "zh": "• 实现注意力内核，无需昂贵的物化即可消耗压缩的K/V。"}

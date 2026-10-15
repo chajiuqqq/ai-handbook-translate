@@ -1,0 +1,1 @@
+{"source": "These are per-sequence tensor-payload examples, not universal sizes for all 32-layer models. Different models use different layer counts, KV heads, dimensions, dtypes, local-attention patterns, and sharding.", "zh": "这些是每个序列张量有效负载的示例，不是所有 32 层模型的通用大小。不同的模型使用不同的层数、KV 头、维度、数据类型、局部注意力模式和分片。"}

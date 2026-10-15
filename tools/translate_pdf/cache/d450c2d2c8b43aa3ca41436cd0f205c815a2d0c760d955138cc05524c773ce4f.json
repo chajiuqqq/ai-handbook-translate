@@ -1,0 +1,1 @@
+{"source": "Important. Pooling is not a harmless post-processing choice. If a model was trained with a specific readout, changing it can move you into a representation space the training objective never optimized.", "zh": "重要。池化并不是一种无害的后处理选择。如果模型是使用特定读数进行训练的，则更改它可能会使您进入训练目标从未优化过的表示空间。"}

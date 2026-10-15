@@ -1,0 +1,1 @@
+{"source": "A runtime can handle imbalance through dynamic buffers, sparse kernels, padding, capacity limits, or other strategies.", "zh": "运行时可以通过动态缓冲区、稀疏内核、填充、容量限制或其他策略来处理不平衡。"}

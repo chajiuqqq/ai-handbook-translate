@@ -1,0 +1,1 @@
+{"source": "Expert parallelism moves token states to expert devices and outputs back. All-to-All communication can become comparable to expert computation if the compute/communication ratio is poor.", "zh": "专家并行性将令牌状态移至专家设备并输出回来。如果计算/通信比率较差，则全对全通信可以与专家计算相媲美。"}

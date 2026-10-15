@@ -1,0 +1,1 @@
+{"source": "Current ZXNAME0000XZ implements automatic prefix caching with block hashes based on the prefix and block content, plus additional inputs when necessary for correctness (for example, model/runtimespecific context).", "zh": "当前的 ZXNAME0000XZ 使用基于前缀和块内容的块哈希实现自动前缀缓存，并在必要时添加额外输入以确保正确性（例如，模型/运行时特定上下文）。"}

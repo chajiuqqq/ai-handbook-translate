@@ -1,0 +1,1 @@
+{"source": "Static PTQ uses a calibration pass to determine activation quantization parameters before deployment. At inference, the runtime reuses those parameters.", "zh": "静态 PTQ 在部署之前使用校准通道来确定激活量化参数。在推理时，运行时会重用这些参数。"}

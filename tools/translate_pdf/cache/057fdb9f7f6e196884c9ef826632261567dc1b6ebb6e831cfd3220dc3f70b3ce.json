@@ -1,0 +1,1 @@
+{"source": "Mental model. Self-attention describes where Q/K/V come from. Causality describes which positions can interact. Cross-attention describes a separate source for K/V.", "zh": "心智模型。自注意力描述了 Q/K/V 从何而来。因果关系描述了哪些位置可以相互作用。交叉注意力描述了 K/V 的单独来源。"}

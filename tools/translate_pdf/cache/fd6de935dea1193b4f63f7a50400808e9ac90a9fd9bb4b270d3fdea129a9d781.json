@@ -1,0 +1,1 @@
+{"source": "• Dropout is stochastic during training. Comparing two runs bit-for-bit requires matching random behavior in addition to mathematical attention semantics.", "zh": "• 训练过程中，dropout 是随机的。逐位比较两次运行除了数学注意语义之外还需要匹配随机行为。"}

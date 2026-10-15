@@ -1,0 +1,1 @@
+{"source": "Fusion is not automatically beneficial. It can increase register pressure, complicate scheduling, reduce reuse elsewhere, or prevent use of a highly optimized library kernel. AS11 will treat those trade-offs.", "zh": "融合不会自动带来好处。它会增加寄存器压力，使调度复杂化，减少其他地方的重用，或阻止使用高度优化的库内核。 AS11 将处理这些权衡。"}

@@ -1,0 +1,1 @@
+{"source": "A naive loop can repeatedly fetch the same matrix elements from device memory. A blocked implementation instead maps tiles to thread blocks, stages reusable inputs on chip, loads smaller fragments into registers, and accumulates many products before writing results back.", "zh": "简单的循环可以从设备内存中重复获取相同的矩阵元素。相反，阻塞实现将图块映射到线程块，在芯片上暂存可重用输入，将较小的片段加载到寄存器中，并在写回结果之前累积许多乘积。"}

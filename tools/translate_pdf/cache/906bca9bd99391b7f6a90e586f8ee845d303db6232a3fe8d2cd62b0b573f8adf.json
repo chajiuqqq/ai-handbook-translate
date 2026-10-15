@@ -1,0 +1,1 @@
+{"source": "Each row sums to 2 because each token uses two experts. Column sums give expert loads:", "zh": "每行总和为 2，因为每个令牌使用两个专家。列总和给出专家负载："}

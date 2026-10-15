@@ -1,0 +1,1 @@
+{"source": "Under ZXNAME0000XZ with 32 KV heads, the cached width would be 8192 scalars. ZXNAME0001XZ therefore reduces the raw K/V cache payload by 4x in this example while retaining 32 query heads.", "zh": "在具有 32 KV 磁头的 ZXNAME0000XZ 下，缓存宽度将为 8192 标量。因此，在此示例中，ZXNAME0001XZ 将原始 K/V 缓存负载减少了 4 倍，同时保留了 32 个查询头。"}

@@ -1,0 +1,1 @@
+{"source": "ZXNAME0000XZ does not mean one attention head. It means one KV head pair. The model can still have many independent query heads and many distinct attention distributions.", "zh": "ZXNAME0000XZ 并不意味着一个注意力头。表示一对KV头。该模型仍然可以有许多独立的查询头和许多不同的注意力分布。"}

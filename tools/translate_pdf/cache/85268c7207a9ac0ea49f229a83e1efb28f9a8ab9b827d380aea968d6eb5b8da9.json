@@ -1,0 +1,1 @@
+{"source": "Synchronization cost is therefore not just the instruction itself. It includes the amount of useful work that becomes unavailable while threads wait for the slowest required participants.", "zh": "因此，同步成本不仅仅是指令本身。它包括当线程等待最慢的所需参与者时变得不可用的有用工作量。"}

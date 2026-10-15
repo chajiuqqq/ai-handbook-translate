@@ -1,0 +1,1 @@
+{"source": "When a kernel is slow, ask two separate questions: How far did the important requests travel? and Was there enough independent work to overlap the wait?", "zh": "当内核速度缓慢时，请提出两个单独的问题：重要的请求传输了多远？是否有足够的独立工作来重叠等待？"}

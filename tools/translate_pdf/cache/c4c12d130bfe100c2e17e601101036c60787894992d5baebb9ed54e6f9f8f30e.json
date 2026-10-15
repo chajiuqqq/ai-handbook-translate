@@ -1,0 +1,1 @@
+{"source": "This creates a central trade-off. A wider representable range reduces clipping but increases the spacing between levels. A narrower range improves resolution for common values but clips more extremes.", "zh": "这就产生了一个核心的权衡。更宽的可表示范围减少了削波，但增加了级别之间的间距。较窄的范围可提高常见值的分辨率，但会限制更极端的值。"}
